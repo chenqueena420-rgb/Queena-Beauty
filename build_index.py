@@ -117,12 +117,12 @@ footer {{ text-align: center; padding: 2rem 1rem; font-size: .7rem; color: #94a3
 </style>
 </head>
 <body>
-<div class="brand-logo">Queena Beauty</div>
+<div class="brand-logo">Wave Wave</div>
 <div class="wrap">
 <header>
 <p class="tagline">Single File · Offline Ready</p>
 <h1>美妝選品搜尋</h1>
-<p class="sub">加權搜尋：<strong>產品名稱</strong>與<strong>解決痛點</strong>權重最高；<strong>核心成分／特性</strong>與<strong>適合膚質</strong>次之。支援模糊比對（子字串，例如「乾」→「乾燥」「乾肌」）。資料以 <code>const productData</code> 內嵌，無 fetch、不需選檔；介面離線可用（屈臣氏按鈕需連線）。</p>
+<p class="sub">加權搜尋：<strong>產品名稱</strong>與<strong>解決痛點</strong>權重最高；<strong>核心成分／特性</strong>與<strong>適合膚質</strong>次之。支援模糊比對（子字串，例如「乾」→「乾燥」「乾肌」）。</p>
 <div class="search-row">
 <div class="search-field">
 <label for="q">搜尋</label>
