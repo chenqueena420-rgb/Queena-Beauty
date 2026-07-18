@@ -1,0 +1,13 @@
+"tier": "專業醫美",
+    "level": "🩺 專業醫美"
+
+"tier": "小資中價",
+    "level": "🌿 小資中價"
+
+
+"tier": "平價",
+    "level": "✨ 平價"
+
+cd "Desktop\my beauty"
+
+python build_index.py
