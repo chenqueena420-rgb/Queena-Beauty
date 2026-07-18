@@ -10,7 +10,7 @@ HTML = f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
-<meta name="description" content="Queena Beauty 提供 AI 精準分析，專為敏弱肌與乾性肌篩選醫美修護乳霜，讓您輕鬆找到適合的保養產品。">
+<meta name="description" content="Wave Wave 提供 AI 精準分析，專為敏弱肌與乾性肌篩選醫美修護乳霜，讓您輕鬆找到適合的保養產品。">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Queena Beauty - AI 精準化妝護膚品篩選平台</title>
 <style>
