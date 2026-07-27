@@ -251,8 +251,8 @@ function renderCard(row) {
     if (p.links['康是美']) {
       buyButtons += '<a class="btn-buy cosmed" href="' + escAttr(p.links['康是美']) + '" target="_blank" rel="noopener noreferrer">去康是美買</a>';
     }
-    if (p.links['寶雅']) {
-      buyButtons += '<a class="btn-buy poya" href="' + escAttr(p.links['寶雅']) + '" target="_blank" rel="noopener noreferrer">去寶雅買</a>';
+    if (p.links['yahoo購物']) {
+      buyButtons += '<a class="btn-buy poya" href="' + escAttr(p.links['yahoo購物']) + '" target="_blank" rel="noopener noreferrer">去yahoo買</a>';
     }
   }
   
