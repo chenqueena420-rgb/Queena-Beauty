@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Biore 含水防曬系列 (水凝乳/水凝露)",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 0
+  },
+  {
+    "name": "曼秀雷敦 水潤肌柔光透亮",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 1
+  },
+  {
+    "name": "ALLIE 持采系列",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 3
+  },
+  {
+    "name": "妮維雅 全護清爽系列",
+    "old_tier": "小資中價",
+    "old_level": "🌿 小資中價",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 4
+  },
+  {
+    "name": "專科 全效防曬系列",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 5
+  },
+  {
+    "name": "DHC 金靚白水感防曬",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 7
+  },
+  {
+    "name": "ALLIE 持采舒爽柔肌 (60g)",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 9
+  },
+  {
+    "name": "SKINTIFIC 啞光防曬霜",
+    "old_tier": "小資中價",
+    "old_level": "🌿 小資中價",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 12
+  },
+  {
+    "name": "Anessa 安耐曬 金鑽高效防曬露",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 16
+  },
+  {
+    "name": "曼秀雷敦 SUNPLAY 戶外強效型",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 21
+  },
+  {
+    "name": "ROUND LAB 白樺樹補水防曬",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 24
+  },
+  {
+    "name": "d program 敏感話題 淨化隔隔離",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 27
+  },
+  {
+    "name": "Anessa 安耐曬 金鑽高效防曬露",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 31
+  },
+  {
+    "name": "ROUND LAB 白樺樹補水防曬",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 34
+  },
+  {
+    "name": "Biore UV Aqua Rich 光感幻白防曬精華",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 42
+  },
+  {
+    "name": "Kose Suncut UV 完美防曬凝膠",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 46
+  },
+  {
+    "name": "Mentholatum Skin Aqua 亮白隔離防曬精華",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 47
+  },
+  {
+    "name": "Avene 高效自然防曬乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 48
+  },
+  {
+    "name": "Eucerin Sun Oil Control 控油防曬乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 50
+  },
+  {
+    "name": "Target Pro 低敏亮白防曬乳(防水型)SPF50+PA++++ 60ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 52
+  },
+  {
+    "name": "AHC 極致防禦長效水潤防曬乳50ML",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 53
+  },
+  {
+    "name": "SOFINA 蘇菲娜iP 輕瑩高效美容防曬乳03光透亮30g",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 54
+  },
+  {
+    "name": "妮維雅專業級防曬乳光敏感測試SPF50 200ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 56
+  },
+  {
+    "name": "妮維雅三重防護水感防曬凝乳(涼感舒緩)180ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 57
+  },
+  {
+    "name": "妮維雅全護清爽防曬隔離乳-敏感肌專用SPF50+ 50ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 58
+  },
+  {
+    "name": "HEME 喜蜜 清透水感防曬凝膠 SPF50**** 40ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 59
+  },
+  {
+    "name": "CeraVe全效清爽修護防曬乳SPF50 52ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 60
+  },
+  {
+    "name": "Target Pro 肌膚專研低敏亮白防曬乳(防水型)SPF50+PA++++ 60ml",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 62
+  },
+  {
+    "name": "Biore 蜜妮 含水防曬水凝乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 64
+  },
+  {
+    "name": "La Roche-Posay 理膚寶水 全護清爽防曬液",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 66
+  },
+  {
+    "name": "Suncut 曬可艾 強效防曬噴霧",
+    "old_tier": "小資中價",
+    "old_level": "🌿 小資中價",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 67
+  },
+  {
+    "name": "曼秀雷敦 水潤肌柔光透亮防曬隔離乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 68
+  },
+  {
+    "name": "雪芙蘭 海洋友善極效防水防曬乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 69
+  },
+  {
+    "name": "專科 全效防曬水凝乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 70
+  },
+  {
+    "name": "Biore 蜜妮 控油隔離乳液",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 72
+  },
+  {
+    "name": "ROUND LAB 白樺樹保濕防曬霜",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 75
+  },
+  {
+    "name": "Skin Aqua 曼秀雷敦 超保濕水感防曬露",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 76
+  },
+  {
+    "name": "Curél 潤浸保濕防曬乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 77
+  },
+  {
+    "name": "Biore 蜜妮 A極效防曬精華",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 79
+  },
+  {
+    "name": "Nivea 妮維雅 涼感防曬噴霧",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 80
+  },
+  {
+    "name": "Senka 專科 完美防曬水凝膠",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 82
+  },
+  {
+    "name": "Biore 蜜妮 含水防曬保濕水凝乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 83
+  },
+  {
+    "name": "Skin Aqua 曼秀雷敦 水潤肌柔光透亮防曬飾底凝露",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 84
+  },
+  {
+    "name": "Biore 蜜妮 A極效防曬乳 (戶外專用)",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 85
+  },
+  {
+    "name": "Anessa 安耐曬 金鑽高效防曬露 (升級)",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "專業醫美",
+    "new_level": "🩺 專業醫美",
+    "index": 86
+  },
+  {
+    "name": "Suncut 曬可艾 防曬噴霧 (大容量)",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 87
+  },
+  {
+    "name": "Mentholatum 曼秀雷敦 抗痘隔離霜",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 88
+  },
+  {
+    "name": "Senka 專科 完美水感防曬乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 89
+  },
+  {
+    "name": "Beauty of Joseon 朝鮮美女 大米亮白防曬霜",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 90
+  },
+  {
+    "name": "Biore 蜜妮 高防曬約會必備隔離乳",
+    "old_tier": "N/A",
+    "old_level": "N/A",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 92
+  },
+  {
+    "name": "Eucerin 控油防曬乳",
+    "old_tier": "專業醫美",
+    "old_level": "🩺 專業醫美",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 100
+  },
+  {
+    "name": "Target Pro 低敏亮白防曬乳(防水型)",
+    "old_tier": "專業醫美",
+    "old_level": "🩺 專業醫美",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 101
+  },
+  {
+    "name": "Target Pro 肌膚專研低敏亮白防曬乳",
+    "old_tier": "專業醫美",
+    "old_level": "🩺 專業醫美",
+    "new_tier": "小資中價",
+    "new_level": "🌿 小資中價",
+    "index": 102
+  },
+  {
+    "name": "Suncut 曬可艾 完美防曬凝膠",
+    "old_tier": "小資中價",
+    "old_level": "🌿 小資中價",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 112
+  },
+  {
+    "name": "妮維雅 專業級防曬乳",
+    "old_tier": "小資中價",
+    "old_level": "🌿 小資中價",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 115
+  },
+  {
+    "name": "妮維雅 全護清爽防曬隔離(敏感肌)",
+    "old_tier": "小資中價",
+    "old_level": "🌿 小資中價",
+    "new_tier": "平價",
+    "new_level": "✨ 平價",
+    "index": 116
+  }
+]
