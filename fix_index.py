@@ -11,7 +11,7 @@ html_content = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>美妝選品 · 單檔搜尋</title>
+<title>WAVE WAVE 美妝選品</title>
 <style>
 :root {
   --bg1: #f5f3ff;
@@ -104,12 +104,13 @@ header .sub { color: var(--muted); max-width: 40rem; line-height: 1.6; margin-to
 .dl dd.pain { color: #9f1239; font-weight: 500; }
 .match-hint { font-size: .7rem; color: #6d28d9; line-height: 1.45; margin: .25rem 0 0; }
 .btn-buy { display: inline-flex; align-items: center; justify-content: center; color: #fff; text-decoration: none; padding: .6rem .5rem; border-radius: 8px; font-weight: 600; font-size: .85rem; transition: all .2s; border: 2px solid transparent; flex: 1; min-width: 0; white-space: nowrap; }
-  .btn-buy:hover { transform: translateY(-1px); filter: brightness(1.1); }
-  .btn-buy.wat { background: #00847b; box-shadow: 0 4px 10px rgba(0,132,123,.15); }
-  .btn-buy.poya { background: #e60012; box-shadow: 0 4px 10px rgba(230,0,18,.15); }
-  .btn-buy.cosmed { background: #f37021; box-shadow: 0 4px 10px rgba(243,112,33,.15); }
-  .buy-group { display: flex; gap: 0.4rem; margin-top: auto; width: 100%; }
-  .buy-foot { font-size: .7rem; color: #94a3b8; margin: 0; text-align: center; }
+.btn-buy:hover { transform: translateY(-1px); filter: brightness(1.1); }
+.btn-buy.wat { background: #00847b; box-shadow: 0 4px 10px rgba(0,132,123,.15); }
+.btn-buy.cosmed { background: #f37021; box-shadow: 0 4px 10px rgba(243,112,33,.15); }
+.btn-buy.yahoo { background: #6001d2; box-shadow: 0 4px 10px rgba(96,1,210,.15); }
+.btn-buy.official { background: #334155; box-shadow: 0 4px 10px rgba(51,65,85,.15); }
+.buy-group { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: auto; width: 100%; }
+.buy-foot { font-size: .7rem; color: #94a3b8; margin: 0; text-align: center; }
 .empty {
   text-align: center; padding: 3rem 1.5rem; border: 2px dashed #e2e8f0; border-radius: 1.25rem; background: rgba(255,255,255,.5); color: var(--muted);
 }
@@ -121,9 +122,9 @@ footer { text-align: center; padding: 2rem 1rem; font-size: .7rem; color: #94a3b
 <body>
 <div class="wrap">
 <header>
-<p class="tagline">Single File · Offline Ready</p>
-<h1>美妝選品搜尋</h1>
-<p class="sub">加權搜尋：<strong>產品名稱</strong>與<strong>解決痛點</strong>權重最高；<strong>核心成分／特性</strong>與<strong>適合膚質</strong>次之。支援模糊比對（子字串，例如「乾」→「乾燥」「乾肌」）。資料以 <code>const productData</code> 內嵌，無 fetch、不需選檔；介面離線可用（屈臣氏按鈕需連線）。</p>
+<p class="tagline">WAVE WAVE · Single File · Offline Ready</p>
+<h1>WAVE WAVE 美妝選品</h1>
+<p class="sub">加權搜尋：<strong>產品名稱</strong>與<strong>解決痛點</strong>權重最高；<strong>核心成分／特性</strong>與<strong>適合膚質</strong>次之。支援模糊比對（子字串，例如「乾」→「乾燥」「乾肌」）。</p>
 <div class="search-row">
 <div class="search-field">
 <label for="q">搜尋</label>
@@ -142,7 +143,7 @@ footer { text-align: center; padding: 2rem 1rem; font-size: .7rem; color: #94a3b
 <div id="empty" class="empty" hidden><p style="font-weight:600;color:#334155;margin:0">找不到符合的產品</p><p style="margin:.5rem 0 0;font-size:.85rem">試試更短關鍵字或切換分類。</p></div>
 </main>
 </div>
-<footer>單一檔案封裝 · 屈臣氏連結需連線時開啟</footer>
+<footer>WAVE WAVE 美妝選品 · 獨立通路連結</footer>
 <script>
 const productData = '''
 
@@ -244,21 +245,21 @@ function renderCard(row) {
   const sc = row.score > 0 ? '<span class="badge-score">相關 ' + row.score.toFixed(1) + "</span>" : "";
   
   let buyButtons = '';
-        if (p.links) {
-            if (p.links['屈臣氏']) {
-                buyButtons += '<a class="btn-buy wat" href="' + escAttr(p.links['屈臣氏']) + '" target="_blank" rel="noopener noreferrer">去屈臣氏買</a>';
-            }
-            if (p.links['康是美']) {
-                buyButtons += '<a class="btn-buy cosmed" href="' + escAttr(p.links['康是美']) + '" target="_blank" rel="noopener noreferrer">去康是美買</a>';
-            }
-            if (p.links['yahoo購物'] || p.links['yahoo購物中心']) {
-                let yLink = p.links['yahoo購物'] || p.links['yahoo購物中心'];
-                buyButtons += '<a class="btn-buy yahoo" href="' + escAttr(yLink) + '" target="_blank" rel="noopener noreferrer">去yahoo購物買</a>';
-            }
-            if (p.links['官網']) {
-                buyButtons += '<a class="btn-buy official" href="' + escAttr(p.links['官網']) + '" target="_blank" rel="noopener noreferrer">去官網買</a>';
-            }
-        }
+  if (p.links) {
+      if (p.links['屈臣氏']) {
+          buyButtons += '<a class="btn-buy wat" href="' + escAttr(p.links['屈臣氏']) + '" target="_blank" rel="noopener noreferrer">去屈臣氏買</a>';
+      }
+      if (p.links['康是美']) {
+          buyButtons += '<a class="btn-buy cosmed" href="' + escAttr(p.links['康是美']) + '" target="_blank" rel="noopener noreferrer">去康是美買</a>';
+      }
+      if (p.links['yahoo購物'] || p.links['yahoo購物中心']) {
+          let yLink = p.links['yahoo購物'] || p.links['yahoo購物中心'];
+          buyButtons += '<a class="btn-buy yahoo" href="' + escAttr(yLink) + '" target="_blank" rel="noopener noreferrer">去yahoo購物買</a>';
+      }
+      if (p.links['官網']) {
+          buyButtons += '<a class="btn-buy official" href="' + escAttr(p.links['官網']) + '" target="_blank" rel="noopener noreferrer">去官網買</a>';
+      }
+  }
   
   return (
     '<article class="card">' +
