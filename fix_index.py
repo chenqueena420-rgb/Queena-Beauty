@@ -8,7 +8,8 @@ with open('products-data.json', 'r', encoding='utf-8') as f:
 # 生成完整的 index.html
 html_content = '''<!DOCTYPE html>
 <html lang="zh-Hant">
-<head>
+<header>
+<h1>WAVE WAVE 美妝選品</h1>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>WAVE WAVE 美妝選品</title>
