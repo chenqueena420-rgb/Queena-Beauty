@@ -1,8 +1,7 @@
 
 import json
-from tkinter.filedialog import Open
 
-# 读取更新后的产品数据
+# 讀取產品數據
 with open('products-data.json', 'r', encoding='utf-8') as f:
     products = json.load(f)
 
