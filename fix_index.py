@@ -12,7 +12,7 @@ html_content = '''<!DOCTYPE html>
 <h1>WAVE WAVE</h1>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>WAVE WAVE 美妝選品</title>
+<title>WAVE WAVE </title>
 <style>
 :root {
   --bg1: #f5f3ff;
