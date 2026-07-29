@@ -24329,17 +24329,15 @@
     "pain": "嚴重中東油田、一出油底妝就完全融化消失。",
     "skin": "油性肌、極油肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["官網", "yahoo購物中心"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E7%B2%89%E6%8C%81%E4%B9%85%20%E7%B2%89%E5%BA%95",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E7%B2%89%E6%8C%81%E4%B9%85%20%E7%B2%89%E5%BA%95",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E7%B2%89%E6%8C%81%E4%B9%85%20%E7%B2%89%E5%BA%95"
+      "官網": "https://affclkr.com/track/clicks/9088/c627c2bc9b0528ddf08dec23d62e9e452d6848cb63b2a0f90e60ba0d71401de3c021e7e5593c99616c?t=https%253A%252F%252Fwww.esteelauder.com.tw%252Fproduct%252F19239%252F3894%252Fproduct-catalog%252Flast-chance%252Fdouble-wear%252Fstay-in-place-makeup-spf10pa%2523%252Fshade%252F2C1-Pure-Beige-%25E8%2589%25B2%25E8%2599%259F77", 
+      "yahoo購物中心": "https://twshop4coupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FESTEE-LAUDER%25E9%259B%2585%25E8%25A9%25A9%25E8%2598%25AD%25E9%25BB%259B-%25E7%25B2%2589%25E6%258C%2581%25E4%25B9%2585%25E5%25AE%258C%25E7%25BE%258E%25E6%258C%2581%25E5%25A6%259D%25E7%25B2%2589%25E5%25BA%2595SPF10-PA-30ml-%25E5%25B0%2588%25E6%25AB%2583%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-11912061.html" 
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "官網": null,
+      "yahoo購物中心": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -26040,22 +26038,36 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "Estee Lauder 雅詩蘭黛 粉持久完美持妝粉底",
+    "name": "Estee Lauder 雅詩蘭黛 白金級鑽光精華氣墊粉餅",
     "features": "高效遮瑕抗汗、高倍控油持妝力、中高社交場合完美無瑕底妝代表。",
     "pain": "夏日戶外活動底妝撐不到兩小時就全融光、臉部瑕疵多需要高效遮瑕者。",
     "skin": "大油肌、混合偏油肌首選。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["官網"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E9%9B%85%E8%A9%A5%E8%98%AD%E9%BB%9B%20%E7%B2%89%E6%8C%81%E4%B9%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E9%9B%85%E8%A9%A5%E8%98%AD%E9%BB%9B%20%E7%B2%89%E6%8C%81%E4%B9%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E9%9B%85%E8%A9%A5%E8%98%AD%E9%BB%9B%20%E7%B2%89%E6%8C%81%E4%B9%85"
+      "官網": "https://affclk.site/track/clicks/9088/c627c2bc9b0528ddf08dec23d62e9e452d6848cb63b2a0f90e60ba0d71401de3c021e7e5593c99616c?t=https%253A%252F%252Fwww.esteelauder.com.tw%252Fproduct%252F661%252F102012%252Fproduct-catalog%252Fre-nutriv%252Fre-nutriv%252Fultra-radiance-serum-cushion%2523%252Fshade%252F1C0-Cool-Porcelain"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "官網": null 
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "專業醫美",
+    "level": "🩺 專業醫美"
+  },
+  {
+    "name": "Estee Lauder 雅詩蘭黛 蜜糖嘟嘟鏡光唇膏",
+    "features": "固態唇釉、40%獨特輕潤蜜化科技、瞬間化為鏡面光澤。",
+    "pain": "41%護唇油與胜肽級成分深層潤澤，提升24%水潤，讓雙唇更豐盈光滑、不顯唇紋。",
+    "skin": "大油肌、混合偏油肌首選。",
+    "category": "彩妝",
+    "available_at": ["官網"],
+    "links": {
+      "官網": "https://vbshoptrax.com/track/clicks/9088/c627c2bc9b0528ddf08dec23d62e9e452d6848cb63b2a0f90e60ba0d71401de3c021e7e5593c99616c?t=https%253A%252F%252Fwww.esteelauder.com.tw%252Fproduct%252F649%252F133645%252Fproduct-catalog%252Fmakeup%252Flips%252Flipstick%252Fpure-color%252Fmelt-on-glosstick%2523%252Fshade%252F280-Iced-Berry-%25E5%2586%25B0%25E6%25B2%2581%25E8%258E%2593%25E6%259E%259C"
+    },
+    "prices": {
+      "標籤": "$$$ (高價位)",
+      "官網": null 
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
