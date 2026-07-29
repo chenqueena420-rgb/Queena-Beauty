@@ -225,7 +225,7 @@ function renderBuyButtons(p) {{
     var w = links["屈臣氏"] || "";
     var c = links["康是美"] || "";
     var b = links["yahoo購物"] || "";
-    
+     var b = links["官網"] || "";
     var activeButtons = "";
     var hiddenButtons = "";
     
@@ -250,6 +250,12 @@ function renderBuyButtons(p) {{
     }} else {{
         hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid transparent; padding: 8px; border-radius: 4px; background: transparent; opacity: 0; pointer-events: none; user-select: none;">前往 yahoo購物 購買</a>';
     }}
+    // 官網
+        if (b !== "#" && b !== "") {{
+            activeButtons += '<a class="btn-buy" href="' + b + '" target="_blank" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid #ccc; padding: 8px; border-radius: 4px; background: #fff;">前往 官網 購買</a>';
+        }} else {{
+            hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid transparent; padding: 8px; border-radius: 4px; background: transparent; opacity: 0; pointer-events: none; user-select: none;">前往 官網 購買</a>';
+        }}
     
     // 重點：把有網址的正常的按鈕全部放在最前面，透明的隱形按鈕全部塞到後面墊到底部！
     return activeButtons + hiddenButtons;

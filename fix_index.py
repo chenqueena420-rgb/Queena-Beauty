@@ -1,5 +1,6 @@
 
 import json
+from tkinter.filedialog import Open
 
 # 读取更新后的产品数据
 with open('products-data.json', 'r', encoding='utf-8') as f:
@@ -251,9 +252,12 @@ function renderCard(row) {
     if (p.links['康是美']) {
       buyButtons += '<a class="btn-buy cosmed" href="' + escAttr(p.links['康是美']) + '" target="_blank" rel="noopener noreferrer">去康是美買</a>';
     }
-    if (p.links['yahoo購物']) {
-      buyButtons += '<a class="btn-buy poya" href="' + escAttr(p.links['yahoo購物']) + '" target="_blank" rel="noopener noreferrer">去yahoo買</a>';
+    if (p.links['yahoo購物中心']) {
+      buyButtons += '<a class="btn-buy yahoo" href="' + escAttr(p.links['yahoo購物中心']) + '" target="_blank" rel="noopener noreferrer">去yahoo購物中心買</a>';
     }
+    if (p.links['官網']) {
+          buyButtons += '<a class="btn-buy official" href="' + escAttr(p.links['官網']) + '" target="_blank" rel="noopener noreferrer">去官網買</a>';
+        }
   }
   
   return (
@@ -367,7 +371,7 @@ document.getElementById("btn-clear").addEventListener("click", () => {
 '''
 
 # 保存更新后的 index.html
-with open('index.html', 'w', encoding='utf-8') as f:
+with Open('index.html', 'w', encoding='utf-8') as f:
     f.write(html_content)
 
 print('Successfully fixed index.html!')
