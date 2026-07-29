@@ -245,20 +245,21 @@ function renderCard(row) {
   const sc = row.score > 0 ? '<span class="badge-score">相關 ' + row.score.toFixed(1) + "</span>" : "";
   
   let buyButtons = '';
-  if (p.links) {
-    if (p.links['屈臣氏']) {
-      buyButtons += '<a class="btn-buy wat" href="' + escAttr(p.links['屈臣氏']) + '" target="_blank" rel="noopener noreferrer">去屈臣氏買</a>';
-    }
-    if (p.links['康是美']) {
-      buyButtons += '<a class="btn-buy cosmed" href="' + escAttr(p.links['康是美']) + '" target="_blank" rel="noopener noreferrer">去康是美買</a>';
-    }
-    if (p.links['yahoo購物中心']) {
-      buyButtons += '<a class="btn-buy yahoo" href="' + escAttr(p.links['yahoo購物中心']) + '" target="_blank" rel="noopener noreferrer">去yahoo購物中心買</a>';
-    }
-    if (p.links['官網']) {
-          buyButtons += '<a class="btn-buy official" href="' + escAttr(p.links['官網']) + '" target="_blank" rel="noopener noreferrer">去官網買</a>';
+        if (p.links) {
+            if (p.links['屈臣氏']) {
+                buyButtons += '<a class="btn-buy wat" href="' + escAttr(p.links['屈臣氏']) + '" target="_blank" rel="noopener noreferrer">去屈臣氏買</a>';
+            }
+            if (p.links['康是美']) {
+                buyButtons += '<a class="btn-buy cosmed" href="' + escAttr(p.links['康是美']) + '" target="_blank" rel="noopener noreferrer">去康是美買</a>';
+            }
+            if (p.links['yahoo購物'] || p.links['yahoo購物中心']) {
+                let yLink = p.links['yahoo購物'] || p.links['yahoo購物中心'];
+                buyButtons += '<a class="btn-buy yahoo" href="' + escAttr(yLink) + '" target="_blank" rel="noopener noreferrer">去yahoo購物買</a>';
+            }
+            if (p.links['官網']) {
+                buyButtons += '<a class="btn-buy official" href="' + escAttr(p.links['官網']) + '" target="_blank" rel="noopener noreferrer">去官網買</a>';
+            }
         }
-  }
   
   return (
     '<article class="card">' +
@@ -371,7 +372,7 @@ document.getElementById("btn-clear").addEventListener("click", () => {
 '''
 
 # 保存更新后的 index.html
-with Open('index.html', 'w', encoding='utf-8') as f:
+with open('index.html', 'w', encoding='utf-8') as f:
     f.write(html_content)
 
 print('Successfully fixed index.html!')
