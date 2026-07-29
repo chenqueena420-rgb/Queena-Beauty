@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # -*- coding: utf-8 -*-
 import json
 import pathlib
@@ -404,7 +404,6 @@ document.getElementById("btn-clear").addEventListener("click", () => {{
 out = root / "index.html"
 out.write_text(HTML, encoding="utf-8")
 print("wrote", out, "size", out.stat().st_size)
-=======
 # -*- coding: utf-8 -*-
 import json
 import pathlib
@@ -804,4 +803,3 @@ document.getElementById("btn-clear").addEventListener("click", () => {{
 out = root / "index.html"
 out.write_text(HTML, encoding="utf-8")
 print("wrote", out, "size", out.stat().st_size)
->>>>>>> 33ffab1a1b782b70eee1328db16ba0503841e839
