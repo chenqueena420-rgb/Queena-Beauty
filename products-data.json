@@ -14042,14 +14042,17 @@
     "skin": "所有膚質。",
     "category": "精華",
     "available_at": [
-      "屈臣氏"
+      "官網",
+      "yahoo購物中心"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Estee%20Lauder%20%E9%9B%85%E8%A9%A9%E8%98%AD%E9%BB%9B%20%E5%B0%8F%E6%A3%95%E7%93%B6%20%28%E7%89%B9%E6%BD%A4%E8%B6%85%E5%B0%8E%E4%BF%AE%E8%AD%B7%E9%9C%B2%29"
+      "官網": "https://aftck.com/track/clicks/9088/c627c2bc9b0528ddf08dec23d62e9e452d6848cb63b2a0f90e60ba0d71401de3c021e7e5593c99616c?t=https%253A%252F%252Fwww.esteelauder.com.tw%252Fesearch%253Fsearch%253D%25E5%25B0%258F%25E6%25A3%2595%25E7%2593%25B6%2526searchtype%253Dtrending_terms",
+      "yahoo購物中心": "https://twcouponcenter.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FESTEE-LAUDER%25E9%259B%2585%25E8%25A9%25A9%25E8%2598%25AD%25E9%25BB%259B-%25E7%2589%25B9%25E6%25BD%25A4%25E8%25B6%2585%25E5%25B0%258E%25E5%2585%25A8%25E6%2596%25B9%25E4%25BD%258D%25E4%25BF%25AE%25E8%25AD%25B7%25E9%259C%25B250ml-2-%25E5%25B0%258F%25E6%25A3%2595%25E7%2593%25B6-%25E7%25AC%25AC%25E4%25B8%2583%25E4%25BB%25A3-%25E6%25AD%25A3%25E7%25B5%25B1%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-11723329.html" 
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null
+      "官網": null,
+      "yahoo購物中心":null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "🩺 專業醫美"
@@ -14898,20 +14901,17 @@
     "skin": "所有膚質。",
     "category": "化妝水",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "官網",
+      "yahoo購物中心"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Estee%20Lauder%20%E9%9B%85%E8%A9%A9%E8%98%AD%E9%BB%9B%20%E5%8E%9F%E7%94%9F%E9%9C%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Estee%20Lauder%20%E9%9B%85%E8%A9%A9%E8%98%AD%E9%BB%9B%20%E5%8E%9F%E7%94%9F%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Estee%20Lauder%20%E9%9B%85%E8%A9%A9%E8%98%AD%E9%BB%9B%20%E5%8E%9F%E7%94%9F%E9%9C%B2"
+      "官網": "https://affsrc.com/track/clicks/9088/c627c2bc9b0528ddf08dec23d62e9e452d6848cb63b2a0f90e60ba0d71401de3c021e7e5593c99616c?t=https%253A%252F%252Fwww.esteelauder.com.tw%252Fproduct%252F26389%252F101853%252Fproduct-catalog%252Fskin-care%252Ftoner-treatment-lotion%252Fmicro-essence%252Ftreatment-lotion-with-bio-ferment",
+      "yahoo購物中心": "https://vbshoptrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FESTEE-LAUDER-%25E9%259B%2585%25E8%25A9%25A9%25E8%2598%25AD%25E9%25BB%259B-%25E5%25BE%25AE%25E5%2588%2586%25E5%25AD%2590%25E8%2582%258C%25E5%25BA%2595%25E5%258E%259F%25E7%2594%259F%25E9%259C%25B2-200ml-11758564.html"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "官網": null,
+      "yahoo購物中心": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
