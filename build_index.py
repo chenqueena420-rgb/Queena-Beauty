@@ -244,11 +244,11 @@ function renderBuyButtons(p) {{
         hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid transparent; padding: 8px; border-radius: 4px; background: transparent; opacity: 0; pointer-events: none; user-select: none;">前往 康是美 購買</a>';
     }}
     
-    // yahoo購物
+    // yahoo購物中心
     if (b !== "#" && b !== "") {{
-        activeButtons += '<a class="btn-buy" href="' + b + '" target="_blank" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid #ccc; padding: 8px; border-radius: 4px; background: #fff;">前往 yahoo購物 購買</a>';
+        activeButtons += '<a class="btn-buy" href="' + b + '" target="_blank" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid #ccc; padding: 8px; border-radius: 4px; background: #fff;">前往 yahoo購物中心 購買</a>';
     }} else {{
-        hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid transparent; padding: 8px; border-radius: 4px; background: transparent; opacity: 0; pointer-events: none; user-select: none;">前往 yahoo購物 購買</a>';
+        hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: 1px solid transparent; padding: 8px; border-radius: 4px; background: transparent; opacity: 0; pointer-events: none; user-select: none;">前往 yahoo購物中心 購買</a>';
     }}
    // 官網
 if (official !== "#" && official !== "") {{
