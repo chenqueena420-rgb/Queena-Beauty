@@ -226,6 +226,7 @@ function renderBuyButtons(p) {{
     var c = links["康是美"] || "";
     var b = links["yahoo購物"] || "";
      var official = links["官網"] || "";
+      var shopee = links["蝦皮商城"] || "";
     var activeButtons = "";
     var hiddenButtons = "";
     
@@ -255,6 +256,12 @@ if (official !== "#" && official !== "") {{
     activeButtons += '<a class="btn-buy" href="' + official + '" target="_blank" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold;">前往 官網 購買</a>';
 }} else {{
     hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; border: none; background: transparent; pointer-events: none;"></a>';
+}}
+// 蝦皮商城
+if (shopee !== "#" && shopee !== "") {{
+    activeButtons += '<a class="btn-buy" href="' + shopee + '" target="_blank" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; background-color: #ffe6e0; border-radius: 6px; padding: 10px;">去蝦皮買</a>';
+}} else {{
+    hiddenButtons += '<a class="btn-buy" style="color: #000000 !important; text-decoration: none; display: block; text-align: center; font-weight: bold; margin-bottom: 8px; background-color: #ffe6e0; border-radius: 6px; padding: 10px; opacity: 0.3; pointer-events: none;">去蝦皮買</a>';
 }}
     
     // 重點：把有網址的正常的按鈕全部放在最前面，透明的隱形按鈕全部塞到後面墊到底部！
