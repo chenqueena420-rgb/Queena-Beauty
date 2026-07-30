@@ -27,20 +27,14 @@
     "skin": "追求高效美白者、熟齡肌。",
     "category": "精華",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%B7%B4%E9%BB%8E%E8%90%8A%E9%9B%85%20%E6%B7%A8%E4%BA%AE%E7%99%BDMELA%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%B7%B4%E9%BB%8E%E8%90%8A%E9%9B%85%20%E6%B7%A8%E4%BA%AE%E7%99%BDMELA%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%B7%B4%E9%BB%8E%E8%90%8A%E9%9B%85%20%E6%B7%A8%E4%BA%AE%E7%99%BDMELA%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF"
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fsearch%253Fkeyword%253D%25E5%25B7%25B4%25E9%25BB%258E%25E8%2590%258A%25E9%259B%2585%2B%25E6%25B7%25A8%25E4%25BA%25AE%25E7%2599%25BDmela%25E6%25B7%25A1%25E6%2596%2591%25E7%25B2%25BE%25E8%258F%25AF"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "🩺 專業醫美"
