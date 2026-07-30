@@ -262,6 +262,10 @@ function renderCard(row) {
       if (p.links['官網']) {
           buyButtons += '<a class="btn-buy official" href="' + escAttr(p.links['官網']) + '" target="_blank" rel="noopener noreferrer">去官網買</a>';
       }
+      if (p.links['蝦皮'] || p.links['蝦皮購物']) {
+        let sLink = p.links['蝦皮'] || p.links['蝦皮購物'];
+        buyButtons += '<a class="btn-buy shopee" href="' + escAttr(sLink) + '" target="_blank" rel="noopener noreferrer">去蝦皮買</a>';
+    }
   }
   
   return (
