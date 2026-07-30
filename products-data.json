@@ -1280,33 +1280,6 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "雅漾 Avene 超能控油清爽防曬",
-    "features": "TriAsorB 專利濾鏡 (抗藍光)",
-    "pain": "長時間對電腦、油光滿面",
-    "skin": "油性肌、電腦族、術後肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E9%9B%85%E6%BC%BE%20Avene%20%E8%B6%85%E8%83%BD%E6%8E%A7%E6%B2%B9%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E9%9B%85%E6%BC%BE%20Avene%20%E8%B6%85%E8%83%BD%E6%8E%A7%E6%B2%B9%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E9%9B%85%E6%BC%BE%20Avene%20%E8%B6%85%E8%83%BD%E6%8E%A7%E6%B2%B9%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "brand": "雅漾",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
     "name": "ROUND LAB 白樺樹補水防曬",
     "features": "白樺樹汁、玻尿酸、清爽精華質地。",
     "pain": "韓系保養愛好者、想要像擦保濕精華一樣的感觸。",
@@ -12728,32 +12701,6 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Avène 雅漾 舒護活泉水 (大瓶)",
-    "features": "純淨活泉、舒緩噴霧。",
-    "pain": "肌膚燥熱、過敏不適、隨時補水。",
-    "skin": "所有膚質。",
-    "category": "化妝水",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Av%C3%A8ne%20%E9%9B%85%E6%BC%BE%20%E8%88%92%E8%AD%B7%E6%B4%BB%E6%B3%89%E6%B0%B4%20%28%E5%A4%A7%E7%93%B6%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Av%C3%A8ne%20%E9%9B%85%E6%BC%BE%20%E8%88%92%E8%AD%B7%E6%B4%BB%E6%B3%89%E6%B0%B4%20%28%E5%A4%A7%E7%93%B6%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Av%C3%A8ne%20%E9%9B%85%E6%BC%BE%20%E8%88%92%E8%AD%B7%E6%B4%BB%E6%B3%89%E6%B0%B4%20%28%E5%A4%A7%E7%93%B6%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
     "name": "Scholl 爽健 護足霜",
     "features": "深度保濕、修復龜裂。",
     "pain": "腳跟粗糙、厚繭。",
@@ -18302,7 +18249,7 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "雅漾 Avene 高效自然防曬霜",
+    "name": " Avene 高效自然防曬霜",
     "brand": "雅漾",
     "features": "100% 純物理防曬、抗氧化成分、舒緩敏弱肌不適",
     "pain": "化學防曬過敏、眼睛熏眼、尋找兒童可用防曬",
@@ -19505,33 +19452,6 @@
       "屈臣氏": "https://www.watsons.com.tw/search?text=理膚寶水+全面修復潤唇膏",
       "康是美": "https://shop.cosmed.com.tw/v2/Search?q=理膚寶水+全面修復潤唇膏",
       "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=理膚寶水+全面修復潤唇膏"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "雅漾 舒緩乾裂修護護唇膏",
-    "brand": "雅漾",
-    "features": "冷霜成分、雅漾活泉水、封閉性保護膜",
-    "pain": "極度乾裂、脫皮出血、環境寒冷刺激",
-    "skin": "乾敏唇、極受損肌",
-    "category": "唇部",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=雅漾+舒緩乾裂修護護唇膏",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=雅漾+舒緩乾裂修護護唇膏",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=雅漾+舒緩乾裂修護護唇膏"
     },
     "prices": {
       "標籤": "",
