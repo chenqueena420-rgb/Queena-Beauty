@@ -284,7 +284,7 @@ function renderCard(row) {
     "<h2>" +
     esc(p.name) +
     "</h2>" +
-    '<p class="price-note">售價：資料未收錄，請至通路查詢</p>' +
+    '<p class="price-note">售價：' + (p.level ? esc(p.level) : '資料未收錄，請至通路查詢') + '</p>' +
     '<dl class="dl">' +
     "<dt>核心成分與特性</dt><dd>" +
     esc(p.features) +
