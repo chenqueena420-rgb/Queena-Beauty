@@ -11,7 +11,7 @@ html_content = '''<!DOCTYPE html>
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>WAVE WAVE Shop - AI美妝保養選品與推薦</title>
+    <title> WAVE WAVE Shop - AI美妝保養選品與推薦</title>
     <meta name="description" content="以AI模型快速找到適合個人膚質的美妝保養產品，無論何年齡、需求或預算，皆可輕鬆搜尋。WAVE WAVE Shop 美妝選品，提供各類美妝、日常保養產品之名稱、成分、價格與解決痛點的搜尋功能，一眼就能找到適合當下需求的產品，且附上各大通路連結。"> 
 </head>
 <body>
