@@ -147,14 +147,16 @@
     "skin": "油痘肌、易長粉刺肌。",
     "category": "精華",
     "available_at": [
-      "屈臣氏"
+      "yahoo購物中心","蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E5%8D%B0%E7%BE%8E%E7%99%BD%E5%AF%B6"
+      "yahoo購物中心": "https://afftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.bid.yahoo.com%252Fitem%252F100850612645",
+      "蝦皮商城":"https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590NARUKO%25E7%2589%259B%25E7%2588%25BE%25E3%2580%2591%25E8%258C%25B6%25E6%25A8%25B9%25E7%2597%2598%25E5%258D%25B0%25E7%25BE%258E%25E7%2599%25BD%25E5%25AF%25B610ml-%25282%25E5%2585%25A5%2529-%2528%25E6%25AF%259B%25E5%25AD%2594%25E7%25B2%2589%25E5%2588%25BA-%25E7%25B2%25BE%25E8%258F%25AF-%25E7%2597%2598%25E7%2597%2598%2529-i.30978747.487115390%253FextraParams%253D%257B%2522display_model_id%2522%253A245886765935%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "✨ 平價"
@@ -1546,20 +1548,14 @@
     "skin": "油性肌、痘痘肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E7%97%98%E9%BB%91%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E7%97%98%E9%BB%91%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E7%97%98%E9%BB%91%E9%9D%A2%E8%86%9C"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590NARUKO%25E7%2589%259B%25E7%2588%25BE%25E3%2580%2591%25E8%258C%25B6%25E6%25A8%25B9%25E7%25A5%259E%25E5%25A5%2587%25E7%2597%2598%25E7%2597%2598%25E9%25BB%2591%25E9%259D%25A2%25E8%2586%259C16%25E7%2589%2587%2528%25E6%258A%2597%25E7%2597%2598-%25E6%25AF%259B%25E5%25AD%2594%25E7%25B2%2589%25E5%2588%25BA-%25E4%25BF%259D%25E6%25BF%2595%2529-i.30978747.423394865%253FextraParams%253D%257B%2522display_model_id%2522%253A235188865200%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1728,20 +1724,14 @@
     "skin": "油性肌、混合肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E7%97%98%E6%99%9A%E5%AE%89%E5%87%8D%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E7%97%98%E6%99%9A%E5%AE%89%E5%87%8D%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NARUKO%20%E8%8C%B6%E6%A8%B9%E7%97%98%E7%97%98%E6%99%9A%E5%AE%89%E5%87%8D%E8%86%9C"
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590NARUKO%25E7%2589%259B%25E7%2588%25BE%25E3%2580%2591%25E8%258C%25B6%25E6%25A8%25B9%25E7%2597%2598%25E7%2597%2598%25E7%25B2%2589%25E5%2588%25BA%25E8%25AA%25BF%25E7%2590%2586%25E6%2599%259A%25E5%25AE%2589%25E5%2587%258D%25E8%2586%259C80g%25282%25E5%2585%25A5%25E7%25B5%2584%2529-%2528%25E9%259D%25A2%25E8%2586%259C-%25E6%25AF%259B%25E5%25AD%2594%25E7%25B2%2589%25E5%2588%25BA%2529-i.30978747.451957825%253FextraParams%253D%257B%2522display_model_id%2522%253A62483163519%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1806,20 +1796,14 @@
     "skin": "乾性肌、缺水肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARUKO%20%E6%A3%AE%E7%8E%AB%E7%91%B0%E6%B0%B4%E7%AB%8B%E6%96%B9%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NARUKO%20%E6%A3%AE%E7%8E%AB%E7%91%B0%E6%B0%B4%E7%AB%8B%E6%96%B9%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NARUKO%20%E6%A3%AE%E7%8E%AB%E7%91%B0%E6%B0%B4%E7%AB%8B%E6%96%B9%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590NARUKO%25E7%2589%259B%25E7%2588%25BE%25E3%2580%2591%25E6%25A3%25AE%25E7%258E%25AB%25E7%2591%25B0%25E6%25B0%25B4%25E7%25AB%258B%25E6%2596%25B9%25E4%25BF%259D%25E6%25BF%2595%25E9%259D%25A2%25E8%2586%259CEX-%252840%25E7%2589%2587%2529%2528%25E4%25BF%259D%25E6%25BA%25BC-%25E8%25A3%259C%25E6%25B0%25B4%2529-i.30978747.8314470689%253FextraParams%253D%257B%2522display_model_id%2522%253A73678955804%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -18994,33 +18978,6 @@
       "屈臣氏": "https://www.watsons.com.tw/search?text=Kose+嬰兒肌面膜",
       "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Kose+嬰兒肌面膜",
       "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Kose+嬰兒肌面膜"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "NARUKO 茶樹黑面膜",
-    "brand": "NARUKO",
-    "features": "茶樹精油、控油祛痘、碳黑膜材淨化",
-    "pain": "油光滿面、痘痘粉刺、毛孔粗大",
-    "skin": "油性肌、痘痘肌",
-    "category": "面膜",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARUKO+茶樹黑面膜",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NARUKO+茶樹黑面膜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NARUKO+茶樹黑面膜"
     },
     "prices": {
       "標籤": "",
