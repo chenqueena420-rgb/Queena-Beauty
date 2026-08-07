@@ -122,20 +122,14 @@
     "skin": "乾性肌、一般肌。",
     "category": "精華",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%A4%9A%E6%95%88%E7%B2%BE%E8%8F%AF%E6%B0%B4%E6%84%9F%E5%87%9D%E9%9C%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%A4%9A%E6%95%88%E7%B2%BE%E8%8F%AF%E6%B0%B4%E6%84%9F%E5%87%9D%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%A4%9A%E6%95%88%E7%B2%BE%E8%8F%AF%E6%B0%B4%E6%84%9F%E5%87%9D%E9%9C%B2"
+      "蝦皮商城": "https://aftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E5%25A4%259A%25E6%2595%2588%25E7%25B2%25BE%25E8%258F%25AF%25E6%25B0%25B4%25E6%2584%259F%25E5%2587%259D%25E9%259C%25B2%25EF%25BC%2588180ml%25EF%25BC%2589-i.33206500.4102622545%253FextraParams%253D%257B%2522display_model_id%2522%253A61133741249%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "🌿 小資中價"
@@ -578,20 +572,14 @@
     "skin": "混合肌、油性肌",
     "category": "精華",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%AE%8C%E7%BE%8E%E5%A4%9A%E6%95%88%E7%BE%8E%E7%99%BD%E5%87%9D%E9%9C%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%AE%8C%E7%BE%8E%E5%A4%9A%E6%95%88%E7%BE%8E%E7%99%BD%E5%87%9D%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%AE%8C%E7%BE%8E%E5%A4%9A%E6%95%88%E7%BE%8E%E7%99%BD%E5%87%9D%E9%9C%B2"
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo-%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E9%25AB%2598%25E6%25A9%259F%25E8%2583%25BD%25E5%25A4%259A%25E6%2595%2588%25E7%25BE%258E%25E7%2599%25BD%25E5%2587%259D%25E9%259C%25B2100g%25EF%25BC%2588%25E9%259A%25A8%25E6%25A9%259F%25E5%2587%25BA%25E8%25B2%25A8%25EF%25BC%2589-i.33206500.602767249%253FextraParams%253D%257B%2522display_model_id%2522%253A31130276145%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "✨ 平價"
@@ -1464,26 +1452,23 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "肌研 光透潤系列 (美白/保濕)",
-    "features": "4重玻尿酸、傳明酸(美白款)",
-    "pain": "皮膚缺水暗沉、追求像日系透明感的膚質",
+    "name": "肌研光透潤亮澤緊緻面膜",
+    "features": "水解膠原蛋白、酵母精華、大豆胚芽精華",
+    "pain": "皮膚缺水暗沉、改善粗荒和細紋",
     "skin": "乾性肌、一般肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%B3%BB%E5%88%97%20%28%E7%BE%8E%E7%99%BD/%E4%BF%9D%E6%BF%95%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%B3%BB%E5%88%97%20%28%E7%BE%8E%E7%99%BD/%E4%BF%9D%E6%BF%95%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%B3%BB%E5%88%97%20%28%E7%BE%8E%E7%99%BD/%E4%BF%9D%E6%BF%95%29"
+      "yahoo購物中心": "https://affckr.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E8%2582%258C%25E7%25A0%2594-%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E9%259D%25A2%25E8%2586%259C-%25E7%2599%25BD%25E9%2587%2591%25E4%25BF%25AE%25E8%25AD%25B7-%25E4%25BA%25AE%25E7%2599%25BD-%25E6%25A5%25B5%25E8%2587%25B4%25E6%25B0%25B4%25E6%25BD%25A4-%25E7%259E%25AC%25E6%2595%2588%25E8%25A3%259C%25E6%25B0%25B4-%25E6%25B7%25B1%25E5%25B1%25A4%25E4%25BA%25AE%25E7%2599%25BD-%25E4%25BA%25AE%25E6%25BE%25A4%25E7%25B7%258A%25E7%25B7%25BB-%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-10904986.html",
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E4%25BA%25AE%25E6%25BE%25A4%25E7%25B7%258A%25E7%25B7%25BB%25E9%259D%25A2%25E8%2586%259C-6%25E7%2589%2587-i.28944793.3431412035%253FextraParams%253D%257B%2522display_model_id%2522%253A41133784183%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1692,26 +1677,23 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "肌研 光透潤玻尿酸緊緻面膜",
+    "name": "肌研 光透潤玻尿酸纖維緊緻透亮面膜",
     "features": "5 重玻尿酸、超細纖維膜布。",
     "pain": "缺水造成的細紋、底妝不服貼、深層乾燥。",
     "skin": "極乾肌、缺水肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%8E%BB%E5%B0%BF%E9%85%B8%E7%B7%8A%E7%B7%BB%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%8E%BB%E5%B0%BF%E9%85%B8%E7%B7%8A%E7%B7%BB%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%8E%BB%E5%B0%BF%E9%85%B8%E7%B7%8A%E7%B7%BB%E9%9D%A2%E8%86%9C"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%2597%25A5%25E6%259C%25ACROHTO%25E6%25A8%2582%25E6%2595%25A6-HADALABO%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E7%25BA%2596%25E7%25B6%25AD%25E9%259D%25A2%25E8%2586%259C6%25E7%2589%2587-%25E8%2597%258D%25E7%259B%2592-%25E7%25B7%258A%25E7%25B7%25BB%25E9%25BB%2583%25E6%25A8%2599-%25E6%25BD%25A4%25E6%25BE%25A4%25E4%25BF%25AE%25E8%25AD%25B7%25E7%25B2%25BE%25E8%258F%25AF%25E6%25B6%25B2%25E6%2595%25B7%25E8%2587%2589-12002668.html",
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E7%25BA%2596%25E7%25B6%25AD%25E7%25BE%258E%25E7%2599%25BD%25E9%259D%25A2%25E8%2586%259C6%25E7%2589%2587-i.28944793.28452255889%253FextraParams%253D%257B%2522display_model_id%2522%253A245986043421%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null 
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1842,20 +1824,17 @@
     "skin": "所有膚質、混合肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E9%85%B5%E6%AF%8D%E5%BE%8C%E7%94%9F%E5%85%83%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E9%85%B5%E6%AF%8D%E5%BE%8C%E7%94%9F%E5%85%83%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E9%85%B5%E6%AF%8D%E5%BE%8C%E7%94%9F%E5%85%83%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C"
+      "yahoo購物中心": "https://vbtrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%2597%25A5%25E6%259C%25ACROHTO%25E6%25A8%2582%25E6%2595%25A6-HADALABO%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E9%2585%25B5%25E6%25AF%258D%25E5%25BE%258C%25E7%2594%259F%25E5%2585%2583%25E9%259D%25A2%25E8%2586%259C5%25E7%2589%2587-%25E7%25B2%2589%25E7%259B%2592-%25E4%25BF%25AE%25E8%25AD%25B7%25E9%258A%2580%25E6%25A8%2599-%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E7%25B2%25BE%25E8%258F%25AF%25E8%2587%2589%25E9%2583%25A8%25E7%2589%2587%25E7%258B%2580-12014876.html",
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E9%2585%25B5%25E6%25AF%258D%25E5%25BE%258C%25E7%2594%259F%25E5%2585%2583%25E4%25BF%259D%25E6%25BF%2595%25E9%259D%25A2%25E8%2586%259C5%25E7%2589%2587%25E3%2580%2590%25E4%25B8%2589%25E5%258F%258B%25E8%2597%25A5%25E5%25A6%259DTomod%2527s%25E3%2580%2591-i.77273431.43711127175%253FextraParams%253D%257B%2522display_model_id%2522%253A265934428902%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -3218,7 +3197,7 @@
       "蝦皮商城"
     ],
     "links": {
-      "yahoo購物中心": "https://aftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fsearch%252Fproduct%253Fp%253D%25E9%259B%25AA%25E8%258A%2599%25E8%2598%25AD%2B%25E7%25B6%2593%25E5%2585%25B8%25E6%25BB%258B%25E6%25BD%25A4%25E8%25AD%25B7%25E5%2594%2587%25E8%2586%258F%2B",
+      "yahoo購物中心": "https://affclk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E9%259B%25AA%25E8%258A%2599%25E8%2598%25AD-%25E7%25B6%2593%25E5%2585%25B8%25E6%25BB%258B%25E6%25BD%25A4%25E8%25AD%25B7%25E5%2594%2587%25E8%2586%258F5g%25E5%2585%25A8%25E6%2596%25B0%25E5%258D%2587%25E7%25B4%259A-9726987.html",
       "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E9%259B%25AA%25E8%258A%2599%25E8%2598%25AD%25E3%2580%2591%25E7%25B6%2593%25E5%2585%25B8%25E6%25BB%258B%25E6%25BD%25A4%25E8%25AD%25B7%25E5%2594%2587%25E8%2586%258F5g%2528%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E8%2583%259C%25E8%2582%25BD-%25E5%2585%25A8%25E6%2596%25B0%25E5%258D%2587%25E7%25B4%259A%25E4%25B8%2589%25E9%2587%258D%25E5%25A4%25A9%25E7%2584%25B6%25E6%25A4%258D%25E7%2589%25A9%25E6%25B2%25B9%25E7%25B6%25BF%25E7%25BE%258A%25E6%25B2%25B9-%25E7%25B6%25AD%25E4%25BB%2596%25E5%2591%25BDE-%25E8%2598%2586%25E8%2596%2588-%25E7%2594%25B7%25E5%25A3%25AB%25E5%25B0%2588%25E7%2594%25A8%2529-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.12404714.3372311257%253FextraParams%253D%257B%2522display_model_id%2522%253A52961814090%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
@@ -6661,26 +6640,23 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "肌研 光透潤白金修護保濕面膜",
+    "name": "肌研 光透潤舒緩修護面膜",
     "features": "白金微粒、4重玻尿酸、神經醯胺。",
     "pain": "極度乾燥、屏障受損、換季敏感。",
     "skin": "敏弱肌、乾性肌。",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%99%BD%E9%87%91%E4%BF%AE%E8%AD%B7%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%99%BD%E9%87%91%E4%BF%AE%E8%AD%B7%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%85%89%E9%80%8F%E6%BD%A4%E7%99%BD%E9%87%91%E4%BF%AE%E8%AD%B7%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C"
+      "yahoo購物中心": "https://affclkr.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E8%2582%258C%25E7%25A0%2594-%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E9%259D%25A2%25E8%2586%259C-%25E7%2599%25BD%25E9%2587%2591%25E4%25BF%25AE%25E8%25AD%25B7-%25E4%25BA%25AE%25E7%2599%25BD-%25E6%25A5%25B5%25E8%2587%25B4%25E6%25B0%25B4%25E6%25BD%25A4-%25E7%259E%25AC%25E6%2595%2588%25E8%25A3%259C%25E6%25B0%25B4-%25E6%25B7%25B1%25E5%25B1%25A4%25E4%25BA%25AE%25E7%2599%25BD-%25E4%25BA%25AE%25E6%25BE%25A4%25E7%25B7%258A%25E7%25B7%25BB-%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-10904986.html",
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E8%2588%2592%25E7%25B7%25A9%25E4%25BF%25AE%25E8%25AD%25B7%25E9%259D%25A2%25E8%2586%259C%25EF%25BC%2588%25E7%259B%2592%25E8%25A3%259D6%25E5%2585%25A5%25EF%25BC%2589-i.33206500.21781339608%253FextraParams%253D%257B%2522display_model_id%2522%253A235359069884%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -6925,20 +6901,14 @@
     "skin": "所有膚質。",
     "category": "精華",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20H.A.%20Supreme%20%E6%BF%80%E4%BA%AE%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20H.A.%20Supreme%20%E6%BF%80%E4%BA%AE%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20H.A.%20Supreme%20%E6%BF%80%E4%BA%AE%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF"
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594H.A.-Supreme%25E6%25BF%2580%25E4%25BA%25AE%25E6%25B7%25A1%25E6%2596%2591%25E7%25B2%25BE%25E8%258F%25AF-30ml-i.28944793.55052290831%253FextraParams%253D%257B%2522display_model_id%2522%253A277210947849%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "✨ 平價"
@@ -7098,8 +7068,8 @@
       "蝦皮商城"
     ],
     "links": {
-      "yahoo購物中心": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E6%25B0%25B4%25E5%25B9%25B3%25E8%25A1%25A1%25E3%2580%2591%25E8%25B6%2585%25E6%25BF%2583%25E5%25AF%2586%25E6%25B0%25B4%25E6%2584%259F%25E6%25B3%25A1%25E6%25B3%25A1%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3100g%2528%25E5%258D%25B3%25E6%259C%259F%2529-2027.4-2028.01%25E6%259C%2588-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.12404714.22469990557%253FextraParams%253D%257B%2522display_model_id%2522%253A186792021794%252C%2522model_selection_logic%2522%253A3%257D",
-      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E6%25B0%25B4%25E5%25B9%25B3%25E8%25A1%25A1%25E3%2580%2591%25E8%25B6%2585%25E6%25BF%2583%25E5%25AF%2586%25E6%25B0%25B4%25E6%2584%259F%25E6%25B3%25A1%25E6%25B3%25A1%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3100g%2528%25E5%258D%25B3%25E6%259C%259F%2529-2027.4-2028.01%25E6%259C%2588-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.12404714.22469990557%253FextraParams%253D%257B%2522display_model_id%2522%253A186792021794%252C%2522model_selection_logic%2522%253A3%257D"
+      "yahoo購物中心": "https://afftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%25B0%25B4%25E5%25B9%25B3%25E8%25A1%25A1-%25E8%25B6%2585%25E6%25BF%2583%25E5%25AF%2586%25E6%25B0%25B4%25E6%2584%259F%25E6%25B3%25A1%25E6%25B3%25A1%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3100g-9688346.html",
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E3%2580%2590%25E6%25B0%25B4%25E5%25B9%25B3%25E8%25A1%25A1%25E3%2580%2591%25E8%25B6%2585%25E6%25BF%2583%25E5%25AF%2586%25E6%25B0%25B4%25E6%2584%259F%25E6%25B3%25A1%25E6%25B3%25A1%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3100g-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.12404714.2360900370%253FextraParams%253D%257B%2522display_model_id%2522%253A81816571249%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
@@ -7143,20 +7113,17 @@
     "skin": "所有膚質、乾性、不穩定肌。",
     "category": "洗面乳",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%9D%A2%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%9D%A2%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%9D%A2%E4%B9%B3"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0830263587131",
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3100g-%2528%25E5%258C%2585%25E8%25A3%259D%25E9%259A%25A8%25E6%25A9%259F%2529-i.33206500.602767269%253FextraParams%253D%257B%2522display_model_id%2522%253A22018483304%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -7296,20 +7263,14 @@
     "skin": "所有膚質、乾性、不穩定肌。",
     "category": "洗面乳",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%81%A5%E5%BA%B7%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E6%B4%97%E9%9D%A2%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%81%A5%E5%BA%B7%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E6%B4%97%E9%9D%A2%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%81%A5%E5%BA%B7%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E6%B4%97%E9%9D%A2%E4%B9%B3"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E5%2581%25A5%25E5%25BA%25B7%25E6%25B7%25B1%25E5%25B1%25A4%25E6%25B8%2585%25E6%25BD%2594%25E8%25AA%25BF%25E7%2590%2586%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3100g%2528%25E5%258C%2585%25E8%25A3%259D%25E9%259A%25A8%25E6%25A9%259F%2529-i.33206500.602924147%253FextraParams%253D%257B%2522display_model_id%2522%253A22018469542%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -7707,20 +7668,17 @@
     "skin": "所有膚質、油性肌。",
     "category": "化妝水",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E5%8C%96%E5%A6%9D%E6%B0%B4%20%28%E6%B8%85%E7%88%BD%E5%9E%8B%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E5%8C%96%E5%A6%9D%E6%B0%B4%20%28%E6%B8%85%E7%88%BD%E5%9E%8B%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E5%8C%96%E5%A6%9D%E6%B0%B4%20%28%E6%B8%85%E7%88%BD%E5%9E%8B%29"
+      "yahoo購物中心": "https://affone.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%2597%25A5%25E6%259C%25ACROHTO%25E6%25A8%2582%25E6%2595%25A6-HADALABO%25E8%2582%258C%25E7%25A0%2594%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B84%25E9%2587%258D%25E6%25A5%25B5%25E6%25BD%25A4%25E6%25BE%25A4%25E5%258C%2596%25E5%25A6%259D%25E6%25B0%25B4170ml-%25E7%2599%25BD%25E7%2593%25B6-%25E8%2587%2589%25E9%2583%25A8%25E7%25B2%25BE%25E8%258F%25AF%25E6%25B0%25B4-%25E8%2582%258C%25E5%25BA%2595%25E8%25AA%25BF%25E7%2590%2586-11212584.html",
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo-%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E5%258C%2596%25E7%25B2%25A7%25E6%25B0%25B4-%25E6%25B8%2585%25E7%2588%25BD%25E5%259E%258B170ml%2528%25E9%259A%25A8%25E6%25A9%259F%25E5%2587%25BA%25E8%25B2%25A8%2529-i.33206500.604349400%253FextraParams%253D%257B%2522display_model_id%2522%253A51130470276%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -7782,20 +7740,17 @@
     "skin": "所有膚質、追求美白者。",
     "category": "化妝水",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E7%BE%8E%E7%99%BD%E5%8C%96%E5%A6%9D%E6%B0%B4",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E7%BE%8E%E7%99%BD%E5%8C%96%E5%A6%9D%E6%B0%B4",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E7%BE%8E%E7%99%BD%E5%8C%96%E5%A6%9D%E6%B0%B4"
+      "yahoo購物中心": "https://affclkr.online/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0704212392319",
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E7%2599%25BD%25E6%25BD%25A4%25E7%25BE%258E%25E7%2599%25BD%25E5%258C%2596%25E7%25B2%25A7%25E6%25B0%25B4%2528%25E6%2596%25B0%25E8%2588%258A%25E5%258C%2585%25E8%25A3%259D%25E6%259B%25B4%25E6%258F%259B%25E6%259C%259F%2529%25E3%2580%2590%25E4%25B8%2589%25E5%258F%258B%25E8%2597%25A5%25E5%25A6%259DTomod%2527s%25E3%2580%2591-i.77273431.22870731221%253FextraParams%253D%257B%2522display_model_id%2522%253A146896249414%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -8050,32 +8005,6 @@
       "屈臣氏": "https://www.watsons.com.tw/search?text=Banila%20Co%20Zero%20%E9%9B%B6%E6%84%9F%E8%82%8C%E7%9E%AC%E5%8D%B8%E5%87%9D%E9%9C%9C",
       "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Banila%20Co%20Zero%20%E9%9B%B6%E6%84%9F%E8%82%8C%E7%9E%AC%E5%8D%B8%E5%87%9D%E9%9C%9C",
       "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Banila%20Co%20Zero%20%E9%9B%B6%E6%84%9F%E8%82%8C%E7%9E%AC%E5%8D%B8%E5%87%9D%E9%9C%9C"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Hada Labo 肌研 極潤保濕內外兼顧卸妝水",
-    "features": "5重玻尿酸、溫和卸除。",
-    "pain": "卸後皮膚乾澀、日常淡妝卸除。",
-    "skin": "乾性肌、敏弱肌。",
-    "category": "卸妝",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E5%85%A7%E5%A4%96%E5%85%BC%E9%A1%A7%E5%8D%B8%E5%A6%9D%E6%B0%B4",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E5%85%A7%E5%A4%96%E5%85%BC%E9%A1%A7%E5%8D%B8%E5%A6%9D%E6%B0%B4",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E5%85%A7%E5%A4%96%E5%85%BC%E9%A1%A7%E5%8D%B8%E5%A6%9D%E6%B0%B4"
     },
     "prices": {
       "標籤": "$$ (中價位)",
@@ -8686,20 +8615,14 @@
     "skin": "追求美白者。",
     "category": "精華",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E7%BE%8E%E7%99%BD%E7%B2%BE%E8%8F%AF%E6%B6%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E7%BE%8E%E7%99%BD%E7%B2%BE%E8%8F%AF%E6%B6%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E7%BE%8E%E7%99%BD%E7%B2%BE%E8%8F%AF%E6%B6%B2"
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E7%2599%25BD%25E6%25BD%25A4%25E9%25AB%2598%25E6%2595%2588%25E7%25BE%258E%25E7%2599%25BD%25E6%25B7%25A1%25E6%2596%2591%25E7%25B2%25BE%25E8%258F%25AF30g-i.28944793.21788667591%253FextraParams%253D%257B%2522display_model_id%2522%253A221596783029%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "level": "✨ 平價"
@@ -10479,20 +10402,17 @@
     "skin": "追求亮白者。",
     "category": "乳霜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E7%BE%8E%E7%99%BD%E4%B9%B3%E6%B6%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E7%BE%8E%E7%99%BD%E4%B9%B3%E6%B6%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E7%BE%8E%E7%99%BD%E4%B9%B3%E6%B6%B2"
+      "yahoo購物中心": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0704212392319",
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594-%25E7%2599%25BD%25E6%25BD%25A4%25E7%25BE%258E%25E7%2599%25BD%25E4%25B9%25B3%25E6%25B6%25B2-140ml-i.28944793.1181690858%253FextraParams%253D%257B%2522display_model_id%2522%253A71133649483%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -11861,20 +11781,14 @@
     "skin": "所有膚質。",
     "category": "化妝水",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%81%A5%E5%BA%B7%E5%8C%96%E7%B2%A7%E6%B0%B4",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%81%A5%E5%BA%B7%E5%8C%96%E7%B2%A7%E6%B0%B4",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E5%81%A5%E5%BA%B7%E5%8C%96%E7%B2%A7%E6%B0%B4"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo-%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E5%2581%25A5%25E5%25BA%25B7%25E5%258C%2596%25E7%25B2%25A7%25E6%25B0%25B4170ml%25EF%25BC%2588%25E9%259A%25A8%25E6%25A9%259F%25E5%2587%25BA%25E8%25B2%25A8%25EF%25BC%2589-i.33206500.602932499%253FextraParams%253D%257B%2522display_model_id%2522%253A71130377775%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -12950,32 +12864,6 @@
     "level": "✨ 平價"
   },
   {
-    "name": "Hada Labo 肌研 極潤保濕洗顏慕斯 (補充包)",
-    "features": "玻尿酸、薏仁萃取。",
-    "pain": "泡沫用量大、想省錢。",
-    "skin": "所有膚質、乾性、不穩定肌。",
-    "category": "洗面乳",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%A1%8F%E6%85%95%E6%96%AF%20%28%E8%A3%9C%E5%85%85%E5%8C%85%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%A1%8F%E6%85%95%E6%96%AF%20%28%E8%A3%9C%E5%85%85%E5%8C%85%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%A1%8F%E6%85%95%E6%96%AF%20%28%E8%A3%9C%E5%85%85%E5%8C%85%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
     "name": "Johnson's 強生 嬰兒洗髮精 (黃瓶)",
     "features": "無淚配方、經典香氣。",
     "pain": "小孩不愛洗頭、追求簡單。",
@@ -13861,20 +13749,17 @@
     "skin": "所有人。",
     "category": "乳霜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E4%B9%B3%E6%B6%B2%20%28%E5%A4%A7%E7%93%B6%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E4%B9%B3%E6%B6%B2%20%28%E5%A4%A7%E7%93%B6%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E4%B9%B3%E6%B6%B2%20%28%E5%A4%A7%E7%93%B6%29"
+      "屈臣氏": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%2597%25A5%25E6%259C%25ACROHTO%25E6%25A8%2582%25E6%2595%25A6-HADALABO%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A44%25E9%2587%258D%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E6%25B0%25B4%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E4%25B9%25B3%25E6%25B6%25B2140ml-%25E7%2599%25BD%25E7%2593%25B6-%25E8%2587%2589%25E9%2583%25A8%25E7%25B4%25A0%25E9%25A1%258F%25E4%25BF%259D%25E9%25A4%258A%25E4%25B9%25B3%25E9%259C%259C-10445682.html",
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E4%25B9%25B3%25E6%25B6%25B2140ml-i.33206500.604359665%253FextraParams%253D%257B%2522display_model_id%2522%253A41130470376%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -15467,26 +15352,23 @@
     "level": "✨ 平價"
   },
   {
-    "name": "Hada Labo 肌研 極潤保濕洗面乳",
-    "features": "玻尿酸、薏仁萃取。",
-    "pain": "洗完臉臉很乾、敏感肌洗臉。",
+    "name": "Hada Labo 肌研 卵肌洗顏慕斯",
+    "features": "AHA甘醇酸、BHA水楊酸。",
+    "pain": "洗完臉臉很乾、黑頭粉刺。",
     "skin": "所有膚質、乾性、不穩定肌。",
     "category": "洗面乳",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%9D%A2%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%9D%A2%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hada%20Labo%20%E8%82%8C%E7%A0%94%20%E6%A5%B5%E6%BD%A4%E4%BF%9D%E6%BF%95%E6%B4%97%E9%9D%A2%E4%B9%B3"
+      "yahoo購物中心": "https://vbshoptrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0830263576270",
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo%25E8%2582%258C%25E7%25A0%2594%25E5%258D%25B5%25E8%2582%258C%25E6%25BA%25AB%25E5%2592%258C%25E5%258E%25BB%25E8%25A7%2592%25E8%25B3%25AA%25E6%25B3%25A1%25E6%25B4%2597%25E9%25A1%258F-160ml-i.33206500.603036381%253FextraParams%253D%257B%2522display_model_id%2522%253A71130377805%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -19017,27 +18899,24 @@
     "level": "✨ 平價"
   },
   {
-    "name": "肌研 光透潤面膜",
+    "name": "肌研 光透潤極致水潤面膜",
     "brand": "肌研",
-    "features": "4重玻尿酸配方、薄透纖維布膜、瞬效滲透",
-    "pain": "追求極致保濕、妝前服貼、肌膚粗糙",
+    "features": "日本藍藻精華、賽絡美、水解玻尿酸、4重玻尿酸",
+    "pain": "追求極致保濕、乾燥脫皮、肌膚粗糙",
     "skin": "所有膚質、乾性肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=肌研+光透潤",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=肌研+光透潤",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=肌研+光透潤"
+      "yahoo購物中心": "https://affckr.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E8%2582%258C%25E7%25A0%2594-%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E9%259D%25A2%25E8%2586%259C-%25E7%2599%25BD%25E9%2587%2591%25E4%25BF%25AE%25E8%25AD%25B7-%25E4%25BA%25AE%25E7%2599%25BD-%25E6%25A5%25B5%25E8%2587%25B4%25E6%25B0%25B4%25E6%25BD%25A4-%25E7%259E%25AC%25E6%2595%2588%25E8%25A3%259C%25E6%25B0%25B4-%25E6%25B7%25B1%25E5%25B1%25A4%25E4%25BA%25AE%25E7%2599%25BD-%25E4%25BA%25AE%25E6%25BE%25A4%25E7%25B7%258A%25E7%25B7%25BB-%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-10904986.html",
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594%25E5%2585%2589%25E9%2580%258F%25E6%25BD%25A4%25E6%25A5%25B5%25E8%2587%25B4%25E6%25B0%25B4%25E6%25BD%25A4%25E9%259D%25A2%25E8%2586%259C-6%25E7%2589%2587-i.28944793.3731412050%253FextraParams%253D%257B%2522display_model_id%2522%253A71133794893%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -22032,22 +21911,20 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "肌研 極潤健康深層清潔調理洗面乳",
+    "name": "肌研  極潤保濕泡洗顏慕斯",
     "features": "薏仁、魚腥草、母菊花、迷迭香萃取。",
     "pain": "成人痘、下巴生理痘、膚況不穩。",
     "skin": "問題肌、混合肌。",
     "category": "洗面乳",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E5%81%A5%E5%BA%B7%E6%BD%94%E9%A1%8F%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%81%A5%E5%BA%B7%E6%BD%94%E9%A1%8F%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%81%A5%E5%BA%B7%E6%BD%94%E9%A1%8F%E4%B9%B3"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F2%25E4%25BB%25B6%25E7%25B5%2584-%25E8%2582%258C%25E7%25A0%2594-%25E6%25A5%25B5%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E6%25B3%25A1%25E6%25B4%2597%25E9%25A1%258F160ml-%25E8%25A3%259C%25E5%2585%2585%25E5%258C%2585140ml-%25E4%25BA%258C%25E6%25AC%25BE%25E4%25BB%25BB%25E9%2581%25B8-9785707.html",
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E8%2582%258C%25E7%25A0%2594-%25E6%25A5%25B5%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E6%25B3%25A1%25E6%25B4%2597%25E9%25A1%258F-160ml-i.28944793.23358977311%253FextraParams%253D%257B%2522display_model_id%2522%253A166166583510%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -22297,17 +22174,13 @@
     "pain": "成人痘、下巴油水失衡、不喜歡手搓泡。",
     "skin": "混合肌、問題肌。",
     "category": "洗面乳",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E5%81%A5%E5%BA%B7%E6%BD%94%E9%A1%8F%E6%85%95%E7%B5%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%81%A5%E5%BA%B7%E6%BD%94%E9%A1%8F%E6%85%95%E7%B5%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E5%81%A5%E5%BA%B7%E6%BD%94%E9%A1%8F%E6%85%95%E7%B5%B2"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F2%25E5%2585%25A5%25E7%25B5%2584-%25E8%2582%258C%25E7%25A0%2594-%25E6%25A5%25B5%25E6%25BD%25A4%25E4%25BF%259D%25E6%25BF%2595%25E6%25B3%25A1%25E6%25B4%2597%25E9%25A1%258F-%25E5%2581%25A5%25E5%25BA%25B7%25E6%25B7%25B1%25E5%25B1%25A4%25E6%25B8%2585%25E6%25BD%2594%25E8%25AA%25BF%25E7%2590%2586%25E6%25B3%25A1%25E6%25B4%2597%25E9%25A1%258F-160mL-9607017.html"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -22398,28 +22271,6 @@
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
-  },
-  {
-    "name": "肌研 白潤美白洗面乳 (升級版)",
-    "features": "高純度傳明酸、維他命C、玻尿酸。",
-    "pain": "日曬後暗沉、膚色不均、乾燥。",
-    "skin": "暗沉肌、全膚質。",
-    "category": "洗面乳",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E6%BD%94%E9%A1%8F",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E6%BD%94%E9%A1%8F",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E7%A0%94%20%E7%99%BD%E6%BD%A4%E6%BD%94%E9%A1%8F"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
   },
   {
     "name": "La Roche-Posay 理膚寶水 多容安舒緩保濕化妝水",
@@ -29501,13 +29352,11 @@
     "pain": "極度缺水、冬季乾荒、妝後浮粉。",
     "skin": "極乾肌、乾性肌。",
     "category": "乳霜",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=肌研極潤特濃乳霜",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=肌研極潤特濃乳霜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=肌研極潤特濃乳霜"
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FHada-Labo-%25E8%2582%258C%25E7%25A0%2594%25E6%25A5%25B5%25E6%25BD%25A4%25E9%2587%2591%25E7%25B7%25BB%25E9%25AB%2598%25E6%2595%2588%25E4%25BF%259D%25E6%25BF%2595%25E7%25B2%25BE%25E8%258F%25AF%25E9%259C%259C50g-i.33206500.1512754012%253FextraParams%253D%257B%2522display_model_id%2522%253A41133508379%252C%2522model_selection_logic%2522%253A3%257D"
     },
-    "prices": { "標籤": "$$ (中價位)", "屈臣氏": null, "康是美": null, "寶雅": null },
+    "prices": { "標籤": "$$ (中價位)", "蝦皮商城": null },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
