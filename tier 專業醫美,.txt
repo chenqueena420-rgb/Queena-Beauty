@@ -11,11 +11,10 @@
 
 cd "Desktop\my beauty"
 
-python build_index.py
-
+python fix-index.py
 
 git add .
-git commit -m "update seo keywords"
+git commit -m "update products' links"
 git push
 
 
