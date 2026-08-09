@@ -3328,20 +3328,14 @@
     "skin": "一般/健康膚質、學生族",
     "category": "唇部",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%87%A1%E5%A3%AB%E6%9E%97%E7%99%BD%E6%A1%83%E4%BF%AE%E8%AD%B7%E8%AD%B7%E5%94%87%E8%86%8F",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%87%A1%E5%A3%AB%E6%9E%97%E7%99%BD%E6%A1%83%E4%BF%AE%E8%AD%B7%E8%AD%B7%E5%94%87%E8%86%8F",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%87%A1%E5%A3%AB%E6%9E%97%E7%99%BD%E6%A1%83%E4%BF%AE%E8%AD%B7%E8%AD%B7%E5%94%87%E8%86%8F"
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%2587%25A1%25E5%25A3%25AB%25E6%259E%2597%25E7%2599%25BD%25E6%25A1%2583%25E4%25BF%25AE%25E8%25AD%25B7%25E8%25AD%25B7%25E5%2594%2587%25E8%2586%258F-3.5G-i.28944793.40529717706%253FextraParams%253D%257B%2522display_model_id%2522%253A297501977122%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
