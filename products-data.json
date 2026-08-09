@@ -3230,20 +3230,17 @@
     "skin": "極乾肌、醫美術後",
     "category": "唇部",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%BE%B3%E6%B4%B2%E7%A5%9E%E5%A5%87%E8%90%AC%E7%94%A8%E6%9C%A8%E7%93%9C%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%BE%B3%E6%B4%B2%E7%A5%9E%E5%A5%87%E8%90%AC%E7%94%A8%E6%9C%A8%E7%93%9C%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%BE%B3%E6%B4%B2%E7%A5%9E%E5%A5%87%E8%90%AC%E7%94%A8%E6%9C%A8%E7%93%9C%E9%9C%9C"
+      "yahoo購物中心": "https://affclk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FLUCAS-PAW%25E6%25BE%25B3%25E6%25B4%25B2%25E6%259C%25A8%25E7%2593%259C%25E9%259C%259C%25E7%25A5%259E%25E5%25A5%2587%25E8%2590%25AC%25E7%2594%25A8%25E9%259C%259C25g%25E8%25B6%2585%25E5%2580%25BC2%25E5%2585%25A5-9421955.html",
+      "蝦皮商城": "https://affone.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FPure-Paw-Paw-%25E6%25BE%25B3%25E6%25B4%25B2%25E7%25A5%259E%25E5%25A5%2587%25E8%2590%25AC%25E7%2594%25A8%25E6%259C%25A8%25E7%2593%259C%25E9%259C%259C-25g-i.28944793.22556185814%253FextraParams%253D%257B%2522display_model_id%2522%253A222073922061%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -20062,33 +20059,7 @@
     "tier": "平價",
     "level": "✨ 平價"
   },
-  {
-    "name": "澳洲神奇萬用木瓜霜",
-    "brand": "Lucas Papaw",
-    "features": "萬用修復，可用於嘴唇或任何乾燥脫皮處",
-    "pain": "追求多功能產品、局部嚴重脫皮、經濟實惠",
-    "skin": "極乾肌、一般唇",
-    "category": "唇部",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=木瓜霜",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=木瓜霜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=木瓜霜"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結比價",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
+  
   {
     "name": "魔唇 護唇膏 (滋潤/棒狀)",
     "brand": "SHISEIDO",
