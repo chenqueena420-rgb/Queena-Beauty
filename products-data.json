@@ -733,14 +733,14 @@
     "skin": "乾性至混合肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=DHC%20%E9%87%91%E9%9D%9A%E7%99%BD%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC"
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%2591DHC%25E9%2587%2591%25E9%259D%259A%25E7%2599%25BD%25E6%25B0%25B4%25E6%2584%259F%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-SPF50-PA-80g-%25E6%258A%2597%25E6%25B0%25B4-%25E6%258A%2597%25E6%25B1%2597-%25E9%2598%25B2%25E6%259B%25AC-i.50662979.42523366596%253FextraParams%253D%257B%2522display_model_id%2522%253A306900136630%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null 
+      "蝦皮商城": null 
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -771,79 +771,20 @@
     "level": "✨ 平價"
   },
   {
-    "name": "ALLIE 持采舒爽柔肌 (60g)",
-    "features": "吸脂抗汗粉體、抗摩擦技術",
-    "pain": "夏天出油導致的臉部黏膩、口罩導致的脫妝",
-    "skin": "油性肌、戶外運動者",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ALLIE%20%E6%8C%81%E9%87%87%E8%88%92%E7%88%BD%E6%9F%94%E8%82%8C%20%2860g%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ALLIE%20%E6%8C%81%E9%87%87%E8%88%92%E7%88%BD%E6%9F%94%E8%82%8C%20%2860g%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ALLIE%20%E6%8C%81%E9%87%87%E8%88%92%E7%88%BD%E6%9F%94%E8%82%8C%20%2860g%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "ALLIE 持采濾鏡 (杏桃茜妍)",
-    "features": "校色粉體、玻尿酸、控油",
-    "pain": "膚色蒼白不均、想要好氣色",
-    "skin": "膚色不均、偽素顏者",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ALLIE%20%E6%8C%81%E9%87%87%E6%BF%BE%E9%8F%A1%20%28%E6%9D%8F%E6%A1%83%E8%8C%9C%E5%A6%8D%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ALLIE%20%E6%8C%81%E9%87%87%E6%BF%BE%E9%8F%A1%20%28%E6%9D%8F%E6%A1%83%E8%8C%9C%E5%A6%8D%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ALLIE%20%E6%8C%81%E9%87%87%E6%BF%BE%E9%8F%A1%20%28%E6%9D%8F%E6%A1%83%E8%8C%9C%E5%A6%8D%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "brand": "ALLIE",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
     "name": "Biore 控油隔離乳液",
     "features": "皮脂吸收粉末、高係數",
     "pain": "T字出油脫妝、毛孔明顯",
     "skin": "極油肌、需妝前者",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Biore%20%E6%8E%A7%E6%B2%B9%E9%9A%94%E9%9B%A2%E4%B9%B3%E6%B6%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Biore%20%E6%8E%A7%E6%B2%B9%E9%9A%94%E9%9B%A2%E4%B9%B3%E6%B6%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Biore%20%E6%8E%A7%E6%B2%B9%E9%9A%94%E9%9B%A2%E4%B9%B3%E6%B6%B2"
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FBiore%25E9%25AB%2598%25E9%2598%25B2%25E6%259B%25AC%25E6%258E%25A7%25E6%25B2%25B9%25E9%259A%2594%25E9%259B%25A2%25E4%25B9%25B3%25E6%25B6%25B2SPF50-30ml-i.28944793.708011930%253FextraParams%253D%257B%2522display_model_id%2522%253A51133581851%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Biore",
@@ -857,20 +798,14 @@
     "skin": "油性肌、痘痘肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=SKINTIFIC%20%E5%95%9E%E5%85%89%E9%98%B2%E6%9B%AC%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=SKINTIFIC%20%E5%95%9E%E5%85%89%E9%98%B2%E6%9B%AC%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=SKINTIFIC%20%E5%95%9E%E5%85%89%E9%98%B2%E6%9B%AC%E9%9C%9C"
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSKINTIFIC%25E5%2595%259E%25E5%2585%2589%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%259C30g-i.28944793.40154303271%253FextraParams%253D%257B%2522display_model_id%2522%253A260365798979%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "SKINTIFIC",
@@ -884,14 +819,14 @@
     "skin": "有美白/淡斑需求者",
     "category": "防曬",
     "available_at": [
-      "屈臣氏"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E7%A2%A7%E6%AD%90%E6%96%AF%20%E8%B6%85%E8%83%BD%E7%85%A5%E7%99%BD%E6%A5%B5%E5%85%89%E9%98%B2%E6%9B%AC"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E7%25A2%25A7%25E6%25AD%2590%25E6%2596%25AF%25E3%2580%2591BIO%25E8%25B6%2585%25E8%2583%25BD%25E7%2585%25A5%25E7%2599%25BD%25E6%25A5%25B5%25E5%2585%2589%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%259CSPF50-PA-40g-%25E6%2595%2588%25E6%259C%259F%25E8%2587%25B32027.03%25E5%25BE%258C-i.30225933.22279343775%253FextraParams%253D%257B%2522display_model_id%2522%253A280271789694%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "碧歐斯",
@@ -905,20 +840,17 @@
     "skin": "所有膚質、機車族",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%87%AA%E7%99%BD%E8%82%8C%20%E7%8E%BB%E5%B0%BF%E9%85%B8%E6%B6%BC%E6%84%9F%E9%98%B2%E6%9B%AC%E4%B9%B3%E6%B6%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%87%AA%E7%99%BD%E8%82%8C%20%E7%8E%BB%E5%B0%BF%E9%85%B8%E6%B6%BC%E6%84%9F%E9%98%B2%E6%9B%AC%E4%B9%B3%E6%B6%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%87%AA%E7%99%BD%E8%82%8C%20%E7%8E%BB%E5%B0%BF%E9%85%B8%E6%B6%BC%E6%84%9F%E9%98%B2%E6%9B%AC%E4%B9%B3%E6%B6%B2"
+      "yahoo購物中心": "https://affclkr.online/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E8%2587%25AA%25E7%2599%25BD%25E8%2582%258C%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E6%25B6%25BC%25E6%2584%259F%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3%25E6%25B6%25B2SPF50-PA-11588909.html",
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E8%2587%25AA%25E7%2599%25BD%25E8%2582%258C-%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E6%25B6%25BC%25E6%2584%259F%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3%25E6%25B6%25B2SPF50-PA-%25E3%2580%2590%25E4%25B8%2589%25E5%258F%258B%25E8%2597%25A5%25E5%25A6%259DTomod%2527s%25E3%2580%2591-i.77273431.49458130464%253FextraParams%253D%257B%2522display_model_id%2522%253A272500668003%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "自白肌",
@@ -932,17 +864,17 @@
     "skin": "戶外運動、易流汗者",
     "category": "防曬",
     "available_at": [
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Anessa%20%E5%AE%89%E8%80%90%E6%9B%AC%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Anessa%20%E5%AE%89%E8%80%90%E6%9B%AC%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E9%9C%B2"
+      "yahoo購物中心": "https://affckr.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FSHISEIDO-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582-%25E5%25AE%2589%25E8%2580%2590%25E6%259B%25AC-%25E9%2587%2591%25E9%2591%25BD%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2NA-5X%25E7%2589%258860ml-%25E5%258F%25B0%25E7%2581%25A3%25E5%25B0%2588%25E6%25AB%2583%25E8%25B2%25A8-11059404.html",
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%2595%2588%25E6%259C%259F%25E8%2587%25B32027-10-%25E5%25AE%2589%25E8%2580%2590%25E6%259B%25AC%25E9%2587%2591%25E9%2591%25BD%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2NA5X-60ml%25E3%2580%2590%25E6%2584%259B%25E8%25B2%25B7%25E3%2580%2591-i.19788054.25775078265%253FextraParams%253D%257B%2522display_model_id%2522%253A99547770239%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -978,20 +910,14 @@
     "skin": "環保主義者、戶外運動",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Neogence%20%E9%9C%93%E6%B7%A8%E6%80%9D%20%E5%85%A8%E5%A4%A9%E5%80%99%E6%A5%B5%E6%95%88%E6%8A%97%E9%99%BD",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Neogence%20%E9%9C%93%E6%B7%A8%E6%80%9D%20%E5%85%A8%E5%A4%A9%E5%80%99%E6%A5%B5%E6%95%88%E6%8A%97%E9%99%BD",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Neogence%20%E9%9C%93%E6%B7%A8%E6%80%9D%20%E5%85%A8%E5%A4%A9%E5%80%99%E6%A5%B5%E6%95%88%E6%8A%97%E9%99%BD"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259C%2593%25E6%25B7%25A8%25E6%2580%259D-%25E5%2585%25A8%25E6%2596%25B0%25E5%258D%2587%25E7%25B4%259A%25E2%2598%2585%25E5%2585%25A8%25E5%25A4%25A9%25E5%2580%2599%25E9%2595%25B7%25E6%2595%2588%25E6%258A%2597%25E9%2599%25BD%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-SPF50-PA-50ml-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.26209760.27029319837%253FextraParams%253D%257B%2522display_model_id%2522%253A223927518341%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Neogence",
@@ -999,26 +925,23 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "貝膚黛瑪 全能強效防曬乳",
+    "name": "貝膚黛瑪 超耐曬清爽保濕防曬液",
     "features": "SUN ACTIVE DEFENSE 專利、純物理配方。",
     "pain": "極度對化學防曬過敏、雷射術後滲透期。",
     "skin": "極敏肌、術後修復肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%B2%9D%E8%86%9A%E9%BB%9B%E7%91%AA%20%E5%85%A8%E8%83%BD%E5%BC%B7%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%B2%9D%E8%86%9A%E9%BB%9B%E7%91%AA%20%E5%85%A8%E8%83%BD%E5%BC%B7%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%B2%9D%E8%86%9A%E9%BB%9B%E7%91%AA%20%E5%85%A8%E8%83%BD%E5%BC%B7%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "yahoo購物中心": "https://affone.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FBIODERMA-%25E8%25B2%259D%25E8%2586%259A%25E9%25BB%259B%25E7%2591%25AA-%25E8%25B6%2585%25E8%2580%2590%25E6%259B%25AC%25E6%25B8%2585%25E7%2588%25BD%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E6%25B6%25B2SPF50-PA-11638987.html",
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%2591BIODERMA-%25E8%25B2%259D%25E8%2586%259A%25E9%25BB%259B%25E7%2591%25AA-%25E8%25B6%2585%25E8%2580%2590%25E6%259B%25AC%25E6%25B8%2585%25E7%2588%25BD%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E6%25B6%25B2SPF50-PA--i.50662979.50205164870%253FextraParams%253D%257B%2522display_model_id%2522%253A415602726784%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -1031,14 +954,12 @@
     "skin": "乾癢肌、敏感肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=CeraVe%20%E9%81%A9%E6%A8%82%E8%86%9A%20%E4%BF%9D%E6%BF%95%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=CeraVe%20%E9%81%A9%E6%A8%82%E8%86%9A%20%E4%BF%9D%E6%BF%95%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=CeraVe%20%E9%81%A9%E6%A8%82%E8%86%9A%20%E4%BF%9D%E6%BF%95%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "yahoo購物中心": "https://aftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCeraVe%25E9%2581%25A9%25E6%25A8%2582%25E8%2586%259A-%25E6%2597%25A5%25E9%2596%2593%25E6%25BA%25AB%25E5%2592%258C%25E4%25BF%259D%25E6%25BF%2595%25E4%25B9%25B3SPF25-52-8735189.html",
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCeraVe%25E5%2585%25A8%25E6%2595%2588%25E6%25B8%2585%25E7%2588%25BD%25E4%25BF%25AE%25E8%25AD%25B7%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-SPF50-52ml-i.28944793.29877910236%253FextraParams%253D%257B%2522display_model_id%2522%253A159041888384%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
@@ -1058,20 +979,14 @@
     "skin": "中性肌、混合肌 (韓系控)",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ROUND%20LAB%20%E7%99%BD%E6%A8%BA%E6%A8%B9%E8%A3%9C%E6%B0%B4%E9%98%B2%E6%9B%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ROUND%20LAB%20%E7%99%BD%E6%A8%BA%E6%A8%B9%E8%A3%9C%E6%B0%B4%E9%98%B2%E6%9B%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ROUND%20LAB%20%E7%99%BD%E6%A8%BA%E6%A8%B9%E8%A3%9C%E6%B0%B4%E9%98%B2%E6%9B%AC"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259F%2593%25E5%259C%258B-Round-LAB-%25E7%2599%25BD%25E6%25A8%25BA%25E6%25A8%25B9%25E9%259A%2594%25E9%259B%25A2%25E9%259C%259C-50ml-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.28636650223%253FextraParams%253D%257B%2522display_model_id%2522%253A325377972238%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1084,14 +999,12 @@
     "skin": "一般肌、學生族 (高 CP 值)",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Skin%20Aqua%20%E8%B6%85%E4%BF%9D%E6%BF%95%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E9%9C%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Skin%20Aqua%20%E8%B6%85%E4%BF%9D%E6%BF%95%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Skin%20Aqua%20%E8%B6%85%E4%BF%9D%E6%BF%95%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E9%9C%B2"
+      "yahoo購物中心": "https://affclkr.online/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%259B%25BC%25E7%25A7%2580%25E9%259B%25B7%25E6%2595%25A6-%25E6%25B0%25B4%25E6%25BD%25A4%25E8%2582%258C%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595%25E6%25B0%25B4%25E6%2584%259F%25E9%2598%25B2%25E6%259B%25AC%25E5%2587%259D%25E9%259C%25B2-SPF50-PA-110%25E5%2585%25AC%25E5%2585%258BX2%25E7%2593%25B6-12074392.html",
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%259B%25BC%25E7%25A7%2580%25E9%259B%25B7%25E6%2595%25A6%25E6%25B0%25B4%25E6%25BD%25A4%25E8%2582%258C%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595%25E6%25B0%25B4%25E6%2584%259F%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2110g-%2528%25E5%258C%2585%25E8%25A3%259D%25E9%259A%25A8%25E6%25A9%259F%2529-i.33206500.9613396988%253FextraParams%253D%257B%2522display_model_id%2522%253A24279440961%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
@@ -1110,20 +1023,17 @@
     "skin": "乾燥敏感肌 (日系專精)",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Cur%C3%A9l%20%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%BF%95%E8%BC%95%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Cur%C3%A9l%20%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%BF%95%E8%BC%95%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Cur%C3%A9l%20%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%BF%95%E8%BC%95%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "yahoo購物中心": "https://affclkr.online/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCurel%25E7%258F%2582%25E6%25BD%25A4-%25E6%25BD%25A4%25E6%25B5%25B8%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3SPF50-%25E8%2587%2589-%25E8%25BA%25AB%25E9%25AB%2594%25E7%2594%25A8-60ml-%25E6%25BD%25A4%25E6%25B5%25B8%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-%25E8%2587%2589%25E9%2583%25A8%25E7%2594%25A8-30ml-9596110.html",
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCurel-%25E7%258F%2582%25E6%25BD%25A4%25E6%25BD%25A4%25E6%25B5%25B8%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3SPF50%25EF%25BC%258B%25EF%25BC%259C%25E8%2587%2589%25EF%25BC%258E%25E8%25BA%25AB%25E9%25AB%2594%25E7%2594%25A8%25EF%25BC%259E-i.33206500.29381398930%253FextraParams%253D%257B%2522display_model_id%2522%253A224021438434%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
       "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "康是美": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -1136,20 +1046,14 @@
     "skin": "環境敏感肌、蠟黃肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=d%20program%20%E6%95%8F%E6%84%9F%E8%A9%B1%E9%A1%8C%20%E6%B7%A8%E5%8C%96%E9%9A%94%E9%9A%94%E9%9B%A2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=d%20program%20%E6%95%8F%E6%84%9F%E8%A9%B1%E9%A1%8C%20%E6%B7%A8%E5%8C%96%E9%9A%94%E9%9A%94%E9%9B%A2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=d%20program%20%E6%95%8F%E6%84%9F%E8%A9%B1%E9%A1%8C%20%E6%B7%A8%E5%8C%96%E9%9A%94%E9%9A%94%E9%9B%A2"
+      "蝦皮商城": "https://aftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fd-program-%25E6%2595%258F%25E6%2584%259F%25E8%25A9%25B1%25E9%25A1%258C-%25E6%25B7%25A8%25E5%258C%2596%25E9%259A%2594%25E9%259B%25A2%25E9%2598%25B2%25E8%25AD%25B7%25E7%25B5%2584%25E3%2580%2590watashi-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582%25E5%25AE%2598%25E6%2596%25B9%25E5%25BA%2597%25E3%2580%2591BB%25E9%259C%259C-%25E6%25B7%25A8%25E5%258C%2596%25E9%259A%2594%25E9%259B%25A2%25E9%2598%25B2%25E8%25AD%25B7%25E7%25B2%25BE%25E8%258F%25AF-%25E6%2595%258F%25E5%25BC%25B1%25E8%2582%258C-%25E6%2595%258F%25E6%2584%259F%25E8%2582%258C-i.364593558.27135415906%253FextraParams%253D%257B%2522display_model_id%2522%253A341075044534%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -1162,52 +1066,22 @@
     "skin": "乾性至混合肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Anessa%20%E5%AE%89%E8%80%90%E6%9B%AC%20%E8%87%89%E9%83%A8%E6%BF%BE%E9%8F%A1%E9%98%B2%E6%9B%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Anessa%20%E5%AE%89%E8%80%90%E6%9B%AC%20%E8%87%89%E9%83%A8%E6%BF%BE%E9%8F%A1%E9%98%B2%E6%9B%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Anessa%20%E5%AE%89%E8%80%90%E6%9B%AC%20%E8%87%89%E9%83%A8%E6%BF%BE%E9%8F%A1%E9%98%B2%E6%9B%AC"
+      "yahoo購物中心": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FSHISEIDO-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582-%25E5%25AE%2589%25E8%2580%2590%25E6%259B%25AC%25E6%25BF%25BE%25E9%258F%25A1%25E7%25BE%258E%25E9%25A1%258F%25E6%2597%25A5%25E9%2596%2593%25E9%2598%25B2%25E8%25AD%25B7%25E7%25B2%25BE%25E8%258F%25AF-6ML-x-2-12055972.html",
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FANESSA-%25E5%25AE%2589%25E8%2580%2590%25E6%259B%25AC-%25E6%25BF%25BE%25E9%258F%25A1%25E7%25BE%258E%25E9%25A1%258F%25E6%2597%25A5%25E9%2596%2593%25E9%2598%25B2%25E8%25AD%25B7%25E7%25B2%25BE%25E8%258F%25AF-30ml%25E3%2580%2590watashi-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582%25E5%25AE%2598%25E6%2596%25B9%25E5%25BA%2597%25E3%2580%2591%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-i.364593558.10494002685%253FextraParams%253D%257B%2522display_model_id%2522%253A200721540284%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Anessa",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
-  },
-  {
-    "name": "My Beauty Diary 蜜若藍高保濕防曬",
-    "features": "蜜若藍萃取、高滲透水膜",
-    "pain": "冷氣房待久、防曬後出乾紋",
-    "skin": "辦公室族、缺水肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=My%20Beauty%20Diary%20%E8%9C%9C%E8%8B%A5%E8%97%8D%E9%AB%98%E4%BF%9D%E6%BF%95%E9%98%B2%E6%9B%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=My%20Beauty%20Diary%20%E8%9C%9C%E8%8B%A5%E8%97%8D%E9%AB%98%E4%BF%9D%E6%BF%95%E9%98%B2%E6%9B%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=My%20Beauty%20Diary%20%E8%9C%9C%E8%8B%A5%E8%97%8D%E9%AB%98%E4%BF%9D%E6%BF%95%E9%98%B2%E6%9B%AC"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "brand": "My Beauty Diary",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
   },
   {
     "name": "理膚寶水 全護極致抗陽防曬液 (UVMUNE 400)",
@@ -1234,79 +1108,23 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "ROUND LAB 白樺樹補水防曬",
-    "features": "白樺樹汁、玻尿酸、清爽精華質地。",
-    "pain": "韓系保養愛好者、想要像擦保濕精華一樣的感觸。",
-    "skin": "中性肌、混合肌 (韓系控)",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ROUND%20LAB%20%E7%99%BD%E6%A8%BA%E6%A8%B9%E8%A3%9C%E6%B0%B4%E9%98%B2%E6%9B%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ROUND%20LAB%20%E7%99%BD%E6%A8%BA%E6%A8%B9%E8%A3%9C%E6%B0%B4%E9%98%B2%E6%9B%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ROUND%20LAB%20%E7%99%BD%E6%A8%BA%E6%A8%B9%E8%A3%9C%E6%B0%B4%E9%98%B2%E6%9B%AC"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Curél 潤浸保濕輕透防曬乳",
-    "features": "潤浸保濕 Ceramide、物理防曬粉體",
-    "pain": "異位性皮膚炎、乾燥導致屏障低下",
-    "skin": "乾燥敏感肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Cur%C3%A9l%20%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%BF%95%E8%BC%95%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Cur%C3%A9l%20%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%BF%95%E8%BC%95%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Cur%C3%A9l%20%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%BF%95%E8%BC%95%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "brand": "Curél",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "貝膚黛瑪 全能強效防曬乳",
+    "name": "貝膚黛瑪 ABV保濕防曬乳",
     "features": "SUN ACTIVE DEFENSE 專利、純物理",
     "pain": "極度對化學防曬過敏、雷射術後",
     "skin": "極敏肌、術後修復肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%B2%9D%E8%86%9A%E9%BB%9B%E7%91%AA%20%E5%85%A8%E8%83%BD%E5%BC%B7%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%B2%9D%E8%86%9A%E9%BB%9B%E7%91%AA%20%E5%85%A8%E8%83%BD%E5%BC%B7%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%B2%9D%E8%86%9A%E9%BB%9B%E7%91%AA%20%E5%85%A8%E8%83%BD%E5%BC%B7%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "yahoo購物中心": "https://affclk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FBIODERMA-%25E8%25B2%259D%25E8%2586%259A%25E9%25BB%259B%25E7%2591%25AA-ABV%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-40ml-11638468.html",
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590BIODERMA-%25E8%25B2%259D%25E8%2586%259A%25E9%25BB%259B%25E7%2591%25AA%25E3%2580%2591ABV%25E4%25BF%259D%25E6%25BF%2595%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-40ml-%25E5%25AE%2598%25E6%2596%25B9%25E7%259B%25B4%25E7%2587%259F-i.448342987.25433923107%253FextraParams%253D%257B%2522display_model_id%2522%253A236579925212%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "貝膚黛瑪",
@@ -1314,23 +1132,23 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Skin Aqua 超保濕水感防曬露",
+    "name": "Skin Aqua水潤肌超保濕極效防禦防曬露",
     "features": "4重保濕、水感轉化技術",
     "pain": "追求像水一樣完全無感",
     "skin": "一般肌、學生族",
     "category": "防曬",
     "available_at": [
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Skin%20Aqua%20%E8%B6%85%E4%BF%9D%E6%BF%95%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Skin%20Aqua%20%E8%B6%85%E4%BF%9D%E6%BF%95%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E9%9C%B2"
+      "yahoo購物中心": "https://affclkr.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E6%259B%25BC%25E7%25A7%2580%25E9%259B%25B7%25E6%2595%25A6-%25E6%25B0%25B4%25E6%25BD%25A4%25E8%2582%258C%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595%25E6%25A5%25B5%25E6%2595%2588%25E9%2598%25B2%25E7%25A6%25A6%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2100g-%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-12031282.html",
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%259B%25BC%25E7%25A7%2580%25E9%259B%25B7%25E6%2595%25A6%25E6%25B0%25B4%25E6%25BD%25A4%25E8%2582%258C%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595%25E6%25A5%25B5%25E6%2595%2588%25E9%2598%25B2%25E7%25A6%25A6%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2100g-i.28944793.25169280856%253FextraParams%253D%257B%2522display_model_id%2522%253A69754309517%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Skin Aqua",
@@ -1344,14 +1162,14 @@
     "skin": "登山、機車族",
     "category": "防曬",
     "available_at": [
-      "康是美"
+      "蝦皮商城"
     ],
     "links": {
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20SUNPLAY%20%E6%88%B6%E5%A4%96%E5%BC%B7%E6%95%88%E5%99%B4%E9%9C%A7"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%259B%25BC%25E7%25A7%2580%25E9%259B%25B7%25E6%2595%25A6-Sunplay%25E9%2598%25B2%25E6%259B%25AC%25E5%2599%25B4%25E9%259C%25A7%2528%25E9%2585%25B7%25E6%25B6%25BC%25E6%25B8%2585%25E7%2588%25BD%25E5%259E%258B%2529165ml-%25E3%2580%2590%25E5%25B0%258F%25E4%25B8%2589%25E7%25BE%258E%25E6%2597%25A5%25E3%2580%2591%25E7%25A9%25BA%25E9%2581%258B%25E7%25A6%2581%25E9%2580%2581-DS014058-i.11527054.22767996290%253FextraParams%253D%257B%2522display_model_id%2522%253A88708590932%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "康是美": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "曼秀雷敦",
@@ -1359,26 +1177,20 @@
     "level": "✨ 平價"
   },
   {
-    "name": "Dr.Satin 魚子校色隔離防曬 (綠)",
+    "name": "Dr.Satin 魚子保濕清透隔離防曬乳",
     "features": "魚子精華、綠色修容",
     "pain": "臉部泛紅、痘疤明顯",
     "skin": "泛紅肌、痘痘瑕疵肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Dr.Satin%20%E9%AD%9A%E5%AD%90%E6%A0%A1%E8%89%B2%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%20%28%E7%B6%A0%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Dr.Satin%20%E9%AD%9A%E5%AD%90%E6%A0%A1%E8%89%B2%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%20%28%E7%B6%A0%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Dr.Satin%20%E9%AD%9A%E5%AD%90%E6%A0%A1%E8%89%B2%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%20%28%E7%B6%A0%29"
+      "蝦皮商城": "https://www.watsons.com.tw/search?text=Dr.Satin%20%E9%AD%9A%E5%AD%90%E6%A0%A1%E8%89%B2%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%20%28%E7%B6%A0%29"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Dr.Satin",
@@ -4263,46 +4075,14 @@
     "skin": "一般肌、混合肌、戶外活動肌。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ANESSA%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E5%87%9D%E8%86%A0NA",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ANESSA%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E5%87%9D%E8%86%A0NA",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ANESSA%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E5%87%9D%E8%86%A0NA"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FSHISEIDO-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582-%25E5%25AE%2589%25E8%2580%2590%25E6%259B%25AC%25E9%2587%2591%25E9%2591%25BD%25E9%25AB%2598%25E6%2595%2588%25E6%25B0%25B4%25E6%2584%259F%25E9%2598%25B2%25E6%259B%25AC%25E5%2587%259D%25E8%2586%25A0NA-90g-12148224.html"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "ANESSA 金鑽高效防曬乳NA(敏弱肌)",
-    "features": "低刺激防曬濾劑、耐水耐摩擦、溫和配方。",
-    "pain": "敏感肌防曬刺痛、曬紅、長時間外出。",
-    "skin": "敏感肌、乾性肌、一般肌。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ANESSA%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3NA%28%E6%95%8F%E5%BC%B1%E8%82%8C%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ANESSA%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3NA%28%E6%95%8F%E5%BC%B1%E8%82%8C%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ANESSA%20%E9%87%91%E9%91%BD%E9%AB%98%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3NA%28%E6%95%8F%E5%BC%B1%E8%82%8C%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -4315,46 +4095,37 @@
     "skin": "混合肌、油性肌、一般肌。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Biore%20UV%20Aqua%20Rich%20%E5%85%89%E6%84%9F%E5%B9%BB%E7%99%BD%E9%98%B2%E6%9B%AC%E7%B2%BE%E8%8F%AF",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Biore%20UV%20Aqua%20Rich%20%E5%85%89%E6%84%9F%E5%B9%BB%E7%99%BD%E9%98%B2%E6%9B%AC%E7%B2%BE%E8%8F%AF",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Biore%20UV%20Aqua%20Rich%20%E5%85%89%E6%84%9F%E5%B9%BB%E7%99%BD%E9%98%B2%E6%9B%AC%E7%B2%BE%E8%8F%AF"
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FBiore%25E5%2590%25AB%25E6%25B0%25B4%25E9%2598%25B2%25E6%259B%25AC%25E5%25B9%25BB%25E5%2585%2589%25E6%25B0%25B4%25E5%2587%259D%25E4%25B9%25B3SPF50-PA-70g-i.28944793.12890424426%253FextraParams%253D%257B%2522display_model_id%2522%253A106447987315%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "NIVEA SUN 水感清透防曬凝露",
+    "name": "NIVEA妮維雅全護專業抗UV防曬露 隱形輕水感",
     "features": "清爽凝露、保濕成分、廣譜UV防護。",
     "pain": "厚重泛白、流汗脫落、夏季黏膩。",
     "skin": "一般肌、混合肌、油性肌。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NIVEA%20SUN%20%E6%B0%B4%E6%84%9F%E6%B8%85%E9%80%8F%E9%98%B2%E6%9B%AC%E5%87%9D%E9%9C%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NIVEA%20SUN%20%E6%B0%B4%E6%84%9F%E6%B8%85%E9%80%8F%E9%98%B2%E6%9B%AC%E5%87%9D%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NIVEA%20SUN%20%E6%B0%B4%E6%84%9F%E6%B8%85%E9%80%8F%E9%98%B2%E6%9B%AC%E5%87%9D%E9%9C%B2"
+      "yahoo購物中心": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FNIVEA%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585%25E5%2585%25A8%25E8%25AD%25B7%25E5%25B0%2588%25E6%25A5%25AD%25E6%258A%2597UV%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2-%25E9%259A%25B1%25E5%25BD%25A2%25E8%25BC%2595%25E6%25B0%25B4%25E6%2584%259F-%25E6%25B5%25B7%25E6%25B4%258B%25E5%258F%258B%25E5%2596%2584-%25E9%259A%2594%25E9%259B%25A2%25E4%25B9%25B3-SPF50-11527030.html",
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585%25E5%2585%25A8%25E8%25AD%25B7%25E6%258A%2597UV%25E9%2598%25B2%25E6%259B%25AC%25E9%259C%25B2-%25E9%259A%25B1%25E5%25BD%25A2%25E8%25BC%2595%25E6%25B0%25B4%25E6%2584%259F40ml%25E3%2580%2590%25E4%25BD%25B3%25E7%2591%25AA%25E3%2580%2591%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-i.298057162.27583777176%253FextraParams%253D%257B%2522display_model_id%2522%253A157800142160%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -4367,46 +4138,37 @@
     "skin": "一般肌、戶外運動肌。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Banana%20Boat%20%E6%B0%B4%E6%84%9F%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3SPF50",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Banana%20Boat%20%E6%B0%B4%E6%84%9F%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3SPF50",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Banana%20Boat%20%E6%B0%B4%E6%84%9F%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3SPF50"
+      "蝦皮商城": "https://www.watsons.com.tw/search?text=Banana%20Boat%20%E6%B0%B4%E6%84%9F%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3SPF50"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "Neutrogena 細白晶透防曬乳",
+    "name": "露得清水感透亮防曬乳",
     "features": "UVA/UVB 防護、亮白修護",
     "pain": "曬後暗沈、光老化",
     "skin": "暗沈肌、一般、混合",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Neutrogena%20%E7%B4%B0%E7%99%BD%E6%99%B6%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Neutrogena%20%E7%B4%B0%E7%99%BD%E6%99%B6%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Neutrogena%20%E7%B4%B0%E7%99%BD%E6%99%B6%E9%80%8F%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E9%259C%25B2%25E5%25BE%2597%25E6%25B8%2585%25E6%25B0%25B4%25E6%2584%259F%25E9%2580%258F%25E4%25BA%25AE%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3SPF50-40ml-11993695.html",
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FNeutrogena-%25E9%259C%25B2%25E5%25BE%2597%25E6%25B8%2585%25E6%25B0%25B4%25E6%2584%259F%25E9%2580%258F%25E4%25BA%25AE%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3SPF50-40ml-i.33206500.54606681762%253FextraParams%253D%257B%2522display_model_id%2522%253A365600431870%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Neutrogena",
@@ -4414,104 +4176,40 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "Kose Suncut UV 完美防曬凝膠",
+    "name": "高絲 SUNCUT UV 曬可皙 高效防曬精華",
     "features": "高防曬係數、超防水、清爽凝膠。",
     "pain": "流汗掉防曬、戶外曝曬、黏膩不適。",
     "skin": "油性肌、混合肌、戶外肌。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Kose%20Suncut%20UV%20%E5%AE%8C%E7%BE%8E%E9%98%B2%E6%9B%AC%E5%87%9D%E8%86%A0",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Kose%20Suncut%20UV%20%E5%AE%8C%E7%BE%8E%E9%98%B2%E6%9B%AC%E5%87%9D%E8%86%A0",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Kose%20Suncut%20UV%20%E5%AE%8C%E7%BE%8E%E9%98%B2%E6%9B%AC%E5%87%9D%E8%86%A0"
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%25AB%2598%25E7%25B5%25B2-SUNCUT-UV-%25E6%259B%25AC%25E5%258F%25AF%25E7%259A%2599-%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E7%25B2%25BE%25E8%258F%25AF80g-%25E6%25A5%25B5%25E6%2595%2588%25E9%2598%25B2%25E6%25B0%25B4%25E5%259E%258B-i.28944793.26176958181%253FextraParams%253D%257B%2522display_model_id%2522%253A79522062457%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "Mentholatum Skin Aqua 亮白隔離防曬精華",
-    "features": "維他命C衍生物、保濕因子、防曬隔離。",
-    "pain": "暗沉無光、曬後膚色不均、妝前乾紋。",
-    "skin": "一般肌、混合肌、暗沉肌。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Mentholatum%20Skin%20Aqua%20%E4%BA%AE%E7%99%BD%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%E7%B2%BE%E8%8F%AF",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Mentholatum%20Skin%20Aqua%20%E4%BA%AE%E7%99%BD%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%E7%B2%BE%E8%8F%AF",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Mentholatum%20Skin%20Aqua%20%E4%BA%AE%E7%99%BD%E9%9A%94%E9%9B%A2%E9%98%B2%E6%9B%AC%E7%B2%BE%E8%8F%AF"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Avene 高效自然防曬乳",
-    "features": "高穩定濾劑、溫和防護、抗氧化配方。",
-    "pain": "日曬泛紅、敏弱不耐受、長時間曝曬。",
-    "skin": "敏感肌、乾性肌、一般肌。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Avene%20%E9%AB%98%E6%95%88%E8%87%AA%E7%84%B6%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Avene%20%E9%AB%98%E6%95%88%E8%87%AA%E7%84%B6%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Avene%20%E9%AB%98%E6%95%88%E8%87%AA%E7%84%B6%E9%98%B2%E6%9B%AC%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Vichy 薇姿 極效清爽防曬乳",
+    "name": "薇姿Capital Soleil 清爽特護防曬乳液",
     "features": "高係數防護、清爽控油科技",
     "pain": "油光脫妝、曬黑、悶熱感",
     "skin": "油性肌、混合肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Vichy%20%E8%96%87%E5%A7%BF%20%E6%A5%B5%E6%95%88%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Vichy%20%E8%96%87%E5%A7%BF%20%E6%A5%B5%E6%95%88%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Vichy%20%E8%96%87%E5%A7%BF%20%E6%A5%B5%E6%95%88%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E8%2596%2587%25E5%25A7%25BF-Capital-Soleil-%25E6%25B8%2585%25E7%2588%25BD%25E7%2589%25B9%25E8%25AD%25B7%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3%25E6%25B6%25B2-SPF-50-%25E9%2598%25B2%25E6%25B0%25B4-i.171452234.46503619316%253FextraParams%253D%257B%2522display_model_id%2522%253A350344504896%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Vichy",
@@ -4519,52 +4217,23 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Eucerin Sun Oil Control 控油防曬乳",
-    "features": "L-Carnitine控油、UVA/UVB防護、啞光質地。",
-    "pain": "滿臉油光、毛孔堵塞、夏天防曬厚重。",
-    "skin": "油性肌、痘痘肌、混合偏油肌。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Eucerin%20Sun%20Oil%20Control%20%E6%8E%A7%E6%B2%B9%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Eucerin%20Sun%20Oil%20Control%20%E6%8E%A7%E6%B2%B9%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Eucerin%20Sun%20Oil%20Control%20%E6%8E%A7%E6%B2%B9%E9%98%B2%E6%9B%AC%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Cetaphil 全日護清爽防曬凝乳",
+    "name": "舒特膚 高效防曬凝露 SPF50",
     "features": "溫和濾劑、甘油保濕",
     "pain": "敏感肌曬後刺癢、乾燥緊繃",
     "skin": "敏感、乾性肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Cetaphil%20%E5%85%A8%E6%97%A5%E8%AD%B7%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E5%87%9D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Cetaphil%20%E5%85%A8%E6%97%A5%E8%AD%B7%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E5%87%9D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Cetaphil%20%E5%85%A8%E6%97%A5%E8%AD%B7%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E5%87%9D%E4%B9%B3"
+      "yahoo購物中心": "https://afflnk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCetaphil%25E8%2588%2592%25E7%2589%25B9%25E8%2586%259A-%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E5%2587%259D%25E9%259C%25B2SPF50-UVA-UVB-50ml-10967256.html",
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E8%2588%2592%25E7%2589%25B9%25E8%2586%259A-%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E5%2587%259D%25E9%259C%25B2-SPF50-%2528UVA-UVB%2529-50ml-%25E5%25A4%25A7%25E6%25A8%25B9-i.76312747.8790996341%253FextraParams%253D%257B%2522display_model_id%2522%253A47077867851%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "Cetaphil",
