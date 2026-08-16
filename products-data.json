@@ -11257,32 +11257,6 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Biore 蜜妮 含水防曬保濕水凝乳",
-    "features": "水感質地、SPF50+。",
-    "pain": "怕油膩、防曬長痘。",
-    "skin": "所有膚質。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Biore%20%E8%9C%9C%E5%A6%AE%20%E5%90%AB%E6%B0%B4%E9%98%B2%E6%9B%AC%E4%BF%9D%E6%BF%95%E6%B0%B4%E5%87%9D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Biore%20%E8%9C%9C%E5%A6%AE%20%E5%90%AB%E6%B0%B4%E9%98%B2%E6%9B%AC%E4%BF%9D%E6%BF%95%E6%B0%B4%E5%87%9D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Biore%20%E8%9C%9C%E5%A6%AE%20%E5%90%AB%E6%B0%B4%E9%98%B2%E6%9B%AC%E4%BF%9D%E6%BF%95%E6%B0%B4%E5%87%9D%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
     "name": "DHC 睫毛修護液",
     "features": "植物萃取、強韌睫毛。",
     "pain": "睫毛易斷、稀疏、想接睫毛後保養。",
@@ -11798,104 +11772,20 @@
     "level": "✨ 平價"
   },
   {
-    "name": "Skin Aqua 曼秀雷敦 水潤肌柔光透亮防曬飾底凝露",
-    "features": "薰衣草紫、校正膚色。",
-    "pain": "蠟黃肌、想要偽素顏妝感。",
-    "skin": "蠟黃肌、所有膚質。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Skin%20Aqua%20%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20%E6%B0%B4%E6%BD%A4%E8%82%8C%E6%9F%94%E5%85%89%E9%80%8F%E4%BA%AE%E9%98%B2%E6%9B%AC%E9%A3%BE%E5%BA%95%E5%87%9D%E9%9C%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Skin%20Aqua%20%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20%E6%B0%B4%E6%BD%A4%E8%82%8C%E6%9F%94%E5%85%89%E9%80%8F%E4%BA%AE%E9%98%B2%E6%9B%AC%E9%A3%BE%E5%BA%95%E5%87%9D%E9%9C%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Skin%20Aqua%20%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20%E6%B0%B4%E6%BD%A4%E8%82%8C%E6%9F%94%E5%85%89%E9%80%8F%E4%BA%AE%E9%98%B2%E6%9B%AC%E9%A3%BE%E5%BA%95%E5%87%9D%E9%9C%B2"
-    },
-    "prices": {
-      "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "Biore 蜜妮 A極效防曬乳 (戶外專用)",
-    "features": "極效抗水抗汗、持久防禦。",
-    "pain": "衝浪、海邊活動、極端環境。",
-    "skin": "所有膚質。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Biore%20%E8%9C%9C%E5%A6%AE%20A%E6%A5%B5%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3%20%28%E6%88%B6%E5%A4%96%E5%B0%88%E7%94%A8%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Biore%20%E8%9C%9C%E5%A6%AE%20A%E6%A5%B5%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3%20%28%E6%88%B6%E5%A4%96%E5%B0%88%E7%94%A8%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Biore%20%E8%9C%9C%E5%A6%AE%20A%E6%A5%B5%E6%95%88%E9%98%B2%E6%9B%AC%E4%B9%B3%20%28%E6%88%B6%E5%A4%96%E5%B0%88%E7%94%A8%29"
-    },
-    "prices": {
-      "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "Suncut 曬可艾 防曬噴霧 (大容量)",
-    "features": "清爽不黏、快速大面積。",
-    "pain": "身體補擦太麻煩、噴霧更均勻。",
-    "skin": "所有膚質。",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Suncut%20%E6%9B%AC%E5%8F%AF%E8%89%BE%20%E9%98%B2%E6%9B%AC%E5%99%B4%E9%9C%A7%20%28%E5%A4%A7%E5%AE%B9%E9%87%8F%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Suncut%20%E6%9B%AC%E5%8F%AF%E8%89%BE%20%E9%98%B2%E6%9B%AC%E5%99%B4%E9%9C%A7%20%28%E5%A4%A7%E5%AE%B9%E9%87%8F%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Suncut%20%E6%9B%AC%E5%8F%AF%E8%89%BE%20%E9%98%B2%E6%9B%AC%E5%99%B4%E9%9C%A7%20%28%E5%A4%A7%E5%AE%B9%E9%87%8F%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
     "name": "Mentholatum 曼秀雷敦 抗痘隔離霜",
     "features": "潤色抗痘、SPF50+。",
     "pain": "長痘痘想化妝、防曬抗痘兩合一。",
     "skin": "油痘肌。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Mentholatum%20%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20%E6%8A%97%E7%97%98%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Mentholatum%20%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20%E6%8A%97%E7%97%98%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Mentholatum%20%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6%20%E6%8A%97%E7%97%98%E9%9A%94%E9%9B%A2%E9%9C%9C"
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%259B%25BC%25E7%25A7%2580%25E9%259B%25B7%25E6%2595%25A6Acnes%25E5%25A4%259A%25E6%2595%2588%25E6%258A%2597%25E7%2597%2598UV%25E6%25BD%25A4%25E8%2589%25B2%25E9%259A%2594%25E9%259B%25A2%25E4%25B9%25B330g-i.28944793.28213986441%253FextraParams%253D%257B%2522display_model_id%2522%253A215459243689%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -12048,26 +11938,23 @@
     "lowest_price_store": "請點擊連結查看即時價格"
   },
   {
-    "name": "Senka 專科 完美水感防曬乳",
+    "name": "專科 全效抗汗防曬乳",
     "features": "極輕透、不泛白。",
     "pain": "防曬像戴面具、厚重感。",
     "skin": "所有膚質。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Senka%20%E5%B0%88%E7%A7%91%20%E5%AE%8C%E7%BE%8E%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Senka%20%E5%B0%88%E7%A7%91%20%E5%AE%8C%E7%BE%8E%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Senka%20%E5%B0%88%E7%A7%91%20%E5%AE%8C%E7%BE%8E%E6%B0%B4%E6%84%9F%E9%98%B2%E6%9B%AC%E4%B9%B3"
+      "yahoo購物中心": "https://affone.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E5%25B0%2588%25E7%25A7%2591-%25E5%2585%25A8%25E6%2595%2588%25E6%258A%2597%25E6%25B1%2597%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-40mL-12009583.html",
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSENKA-%25E5%25B0%2588%25E7%25A7%2591-%25E5%2585%25A8%25E6%2595%2588%25E6%258A%2597%25E6%25B1%2597%25E9%2598%25B2%25E6%259B%25AC%25E4%25B9%25B3-40mL-%25E3%2580%2590%25E6%2597%25A5%25E6%259C%25ACFineToday%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597%25E3%2580%2591-i.683464894.24769178079%253FextraParams%253D%257B%2522display_model_id%2522%253A226138984883%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -13804,26 +13691,23 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "M.A.C 超顯白系列 妝前乳",
+    "name": "M.A.C 超漾光高防曬妝前乳",
     "features": "提亮防護、妝前打底",
     "pain": "膚色暗沈、底妝不貼",
     "skin": "所有膚質",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=M.A.C%20%E8%B6%85%E9%A1%AF%E7%99%BD%E7%B3%BB%E5%88%97%20%E5%A6%9D%E5%89%8D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=M.A.C%20%E8%B6%85%E9%A1%AF%E7%99%BD%E7%B3%BB%E5%88%97%20%E5%A6%9D%E5%89%8D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=M.A.C%20%E8%B6%85%E9%A1%AF%E7%99%BD%E7%B3%BB%E5%88%97%20%E5%A6%9D%E5%89%8D%E4%B9%B3"
+      "yahoo購物中心": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FM-A-C-%25E8%25B6%2585%25E6%25BC%25BE%25E5%2585%2589%25E9%25AB%2598%25E9%2598%25B2%25E6%259B%25AC%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-30ml-11538206.html",
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-%25E8%25B6%2585%25E6%25BC%25BE%25E5%2585%2589%25E9%25AB%2598%25E9%2598%25B2%25E6%259B%25AC%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-30ml-%25E5%2585%25A9%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.28480089618%253FextraParams%253D%257B%2522display_model_id%2522%253A227539327803%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "brand": "M.A.C",
@@ -14448,26 +14332,20 @@
   },
 
   {
-    "name": "Biore 蜜妮 高防曬約會必備隔離乳",
+    "name": "Biore 蜜妮 高防曬無瑕潤色隔離乳",
     "features": "潤色效果、SPF50+、抗油汗。",
     "pain": "約會妝感要完美、怕曬黑油亮。",
     "skin": "所有膚質。",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Biore%20%E8%9C%9C%E5%A6%AE%20%E9%AB%98%E9%98%B2%E6%9B%AC%E7%B4%84%E6%9C%83%E5%BF%85%E5%82%99%E9%9A%94%E9%9B%A2%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Biore%20%E8%9C%9C%E5%A6%AE%20%E9%AB%98%E9%98%B2%E6%9B%AC%E7%B4%84%E6%9C%83%E5%BF%85%E5%82%99%E9%9A%94%E9%9B%A2%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Biore%20%E8%9C%9C%E5%A6%AE%20%E9%AB%98%E9%98%B2%E6%9B%AC%E7%B4%84%E6%9C%83%E5%BF%85%E5%82%99%E9%9A%94%E9%9B%A2%E4%B9%B3"
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590Bior%25C3%25A9%25E3%2580%2591%25E9%25AB%2598%25E9%2598%25B2%25E6%259B%25AC%25E7%2584%25A1%25E7%2591%2595%25E6%25BD%25A4%25E8%2589%25B2%25E9%259A%2594%25E9%259B%25A2%25E4%25B9%25B3-30ml-%25283%25E6%25AC%25BE%25E4%25BB%25BB%25E9%2581%25B8%2529%2528%25E9%2583%25A8%25E5%2588%2586%25E5%2595%2586%25E5%2593%2581%25E6%2595%2588%25E6%259C%259F%25E4%25BE%259D%25E8%25A6%258F%25E6%25A0%25BC%25E6%25A8%2599%25E7%25A4%25BA%25E7%2582%25BA%25E4%25B8%25BB%2529%25E2%2594%2582%25E8%258A%25B1%25E7%258E%258B%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8-i.129737734.25129216369%253FextraParams%253D%257B%2522display_model_id%2522%253A250787763737%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -15383,60 +15261,6 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Anessa 安耐曬 金鑽高效防曬凝膠NA",
-    "brand": "Anessa",
-    "features": "Auto Booster 自動防禦技術（遇汗水/熱增強）、綠茶萃取、膠原蛋白、玻尿酸",
-    "pain": "防曬脫落快、質地厚重感、汗水造成的防曬空洞",
-    "skin": "一般、混合、戶外活動肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=安耐曬+金鑽高效防曬凝膠",
-      "康是美": "https://www.cosmed.com.tw/search?q=安耐曬+金鑽高效防曬凝膠",
-      "寶雅": "https://www.poya.com.tw/search?q=安耐曬+金鑽高效防曬凝膠"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Anessa 安耐曬 金鑽高效防曬乳(敏弱肌)",
-    "brand": "Anessa",
-    "features": "Smooth Protect 滑順保護技術、無添加酒精/香料、超寬頻濾劑、抗摩擦科技",
-    "pain": "敏肌防曬刺痛、曬紅、嬰幼兒防曬需求",
-    "skin": "敏感肌、乾性肌、六個月以上嬰幼兒",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=安耐曬+金鑽高效防曬乳+敏弱肌",
-      "康是美": "https://www.cosmed.com.tw/search?q=安耐曬+金鑽高效防曬乳+敏弱肌",
-      "寶雅": "https://www.poya.com.tw/search?q=安耐曬+金鑽高效防曬乳+敏弱肌"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
     "name": "雅漾 Avene 高效自然防曬乳",
     "brand": "雅漾",
     "features": "獨創穩定光防護系統（Sunsitive protection®）、維他命 E 原（抗氧化）、雅漾活泉水",
@@ -15461,60 +15285,6 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "CeraVe 適樂膚 全效清爽修護防曬乳",
-    "brand": "CeraVe",
-    "features": "三種必需神經醯胺、MVE 長效釋放技術、菸鹼醯胺（舒緩）、不含香料",
-    "pain": "日曬老化、乾燥敏弱、洗完臉後屏障受損",
-    "skin": "敏感肌、乾性肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=CeraVe+全效清爽修護防曬乳",
-      "康是美": "https://www.cosmed.com.tw/search?q=CeraVe+全效清爽修護防曬乳",
-      "寶雅": "https://www.poya.com.tw/search?q=CeraVe+全效清爽修護防曬乳"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "d program 敏感話題 淨化隔離",
-    "brand": "d program",
-    "features": "Allerbarrier Technology 淨化隔離、金縷梅葉萃取、防止靜電吸附灰塵與花粉",
-    "pain": "換季皮膚癢、環境污染敏感、花粉症困擾、肌膚蠟黃",
-    "skin": "環境敏感肌、蠟黃肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=敏感話題+淨化隔離",
-      "康是美": "https://www.cosmed.com.tw/search?q=敏感話題+淨化隔離",
-      "寶雅": "https://www.poya.com.tw/search?q=敏感話題+淨化隔離"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
     "name": "Eucerin 控油防曬乳",
     "brand": "Eucerin",
     "features": "L-Carnitine 控油技術、亞油酸、吸油微粒（長效霧面感）",
@@ -15522,101 +15292,14 @@
     "skin": "油性肌、痘痘肌",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Eucerin+控油防曬乳",
-      "康是美": "https://www.cosmed.com.tw/search?q=Eucerin+控油防曬乳",
-      "寶雅": "https://www.poya.com.tw/search?q=Eucerin+控油防曬乳"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25F0%259F%2587%25A9%25F0%259F%2587%25AA%25E5%25BE%25B7%25E5%259C%258B-Eucerin-%25E6%258E%25A7%25E6%25B2%25B9%25E8%25BC%2595%25E7%2588%25BD%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E9%259D%25A2%25E9%259C%259C-SPF50-Oil-Control-i.1622560000.51861768475%253FextraParams%253D%257B%2522display_model_id%2522%253A218841378709%252C%2522model_selection_logic%2522%253A3%257D%2526sp_atk%253Df7502c67-386a-476a-a854-a0bdf0a5dec4%2526xptdk%253Df7502c67-386a-476a-a854-a0bdf0a5dec4"
     },
     "prices": {
       "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Target Pro 低敏亮白防曬乳(防水型)",
-    "brand": "Target Pro",
-    "features": "S7 複合成分（積雪草/洋甘菊等）、傳明酸（亮白）、耐水抗摩擦",
-    "pain": "敏肌不耐受、流汗脫落、戶外曬黑",
-    "skin": "敏感肌、戶外活動肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Target+Pro+低敏亮白防曬乳+防水型",
-      "康是美": "https://www.cosmed.com.tw/search?q=Target+Pro+低敏亮白防曬乳+防水型",
-      "寶雅": "https://www.poya.com.tw/search?q=Target+Pro+低敏亮白防曬乳+防水型"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Target Pro 肌膚專研低敏亮白防曬乳",
-    "brand": "Target Pro",
-    "features": "鑽石亮白因子、維他命 B3、神經醯胺修護、超細粉體質地",
-    "pain": "曬黑暗沈、流汗脫落、妝感不服貼",
-    "skin": "敏感肌、混合肌",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Target+Pro+肌膚專研低敏亮白防曬乳",
-      "康是美": "https://www.cosmed.com.tw/search?q=Target+Pro+肌膚專研低敏亮白防曬乳",
-      "寶雅": "https://www.poya.com.tw/search?q=Target+Pro+肌膚專研低敏亮白防曬乳"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "ALLIE 持采高效防曬水凝乳EX",
-    "brand": "ALLIE",
-    "features": "極效抗摩擦技術、海洋友善配方（不含氧苯酮）、玻尿酸保濕",
-    "pain": "口罩摩擦掉防曬、環保考量、身體臉部共用需求",
-    "skin": "所有膚質、戶外族",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ALLIE+持采高效防曬水凝乳",
-      "康是美": "https://www.cosmed.com.tw/search?q=ALLIE+持采高效防曬水凝乳",
-      "寶雅": "https://www.poya.com.tw/search?q=ALLIE+持采高效防曬水凝乳"
-    },
-    "prices": {
-      "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -15630,20 +15313,17 @@
     "skin": "油性肌、戶外運動者",
     "category": "防曬",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ALLIE+持采舒爽柔肌",
-      "康是美": "https://www.cosmed.com.tw/search?q=ALLIE+持采舒爽柔肌",
-      "寶雅": "https://www.poya.com.tw/search?q=ALLIE+持采舒爽柔肌"
+      "yahoo購物中心": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FKanebo%25E4%25BD%25B3%25E9%25BA%2597%25E5%25AF%25B6-ALLIE-%25E6%258C%2581%25E9%2587%2587%25E8%2588%2592%25E7%2588%25BD%25E6%259F%2594%25E8%2582%258CUV%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E6%25B0%25B4%25E5%2587%259D%25E4%25B9%25B3-60g-11082476.html",
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FKanebo-%25E4%25BD%25B3%25E9%25BA%2597%25E5%25AF%25B6-ALLIE-%25E6%258C%2581%25E9%2587%2587%25E8%2588%2592%25E7%2588%25BD%25E6%259F%2594%25E8%2582%258CUV%25E9%25AB%2598%25E6%2595%2588%25E9%2598%25B2%25E6%259B%25AC%25E6%25B0%25B4%25E5%2587%259D%25E4%25B9%25B3-60g-%2528%25E9%2583%25A8%25E4%25BB%25BD%25E6%2595%2588%25E6%259C%259F%25E5%2593%2581%2529-i.110851857.24329089342%253FextraParams%253D%257B%2522display_model_id%2522%253A196366867944%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
