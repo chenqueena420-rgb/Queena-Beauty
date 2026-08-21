@@ -669,58 +669,6 @@
     "level": "✨ 平價"
   },
   {
-    "name": "專科 全效防曬系列",
-    "features": "蠶絲蛋白精華、雙重玻尿酸、玄米油",
-    "pain": "防曬後肌膚乾澀、緊繃",
-    "skin": "乾肌/混合偏乾",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%B0%88%E7%A7%91%20%E5%85%A8%E6%95%88%E9%98%B2%E6%9B%AC%E7%B3%BB%E5%88%97",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%B0%88%E7%A7%91%20%E5%85%A8%E6%95%88%E9%98%B2%E6%9B%AC%E7%B3%BB%E5%88%97",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%B0%88%E7%A7%91%20%E5%85%A8%E6%95%88%E9%98%B2%E6%9B%AC%E7%B3%BB%E5%88%97"
-    },
-    "prices": {
-      "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "L`EGERE 安瓶防曬系列",
-    "features": "三胜肽、維他命 B3 (菸鹼醯胺)",
-    "pain": "單純防曬不夠，想兼顧保養抗老",
-    "skin": "熟齡肌/想美白者",
-    "category": "防曬",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=LEGERE%20%E5%AE%89%E7%93%B6%E9%98%B2%E6%9B%AC%E7%B3%BB%E5%88%97&useDefaultSearch=false&brandRedirect=true",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=L%60EGERE%20%E5%AE%89%E7%93%B6%E9%98%B2%E6%9B%AC%E7%B3%BB%E5%88%97",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=L%60EGERE%20%E5%AE%89%E7%93%B6%E9%98%B2%E6%9B%AC%E7%B3%BB%E5%88%97"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
     "name": "DHC 金靚白水感防曬",
     "features": "輔酶 Q10、橄欖精華、水感透明質地",
     "pain": "怕傳統高係數防曬的厚重油膩感、防曬同時抗氧化",
