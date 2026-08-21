@@ -27694,47 +27694,17 @@
     "level": "✨ 平價"
   },
   {
-    "name": "Snail White 蝸牛晶亮面霜",
-    "features": "蝸牛黏液萃取，兼具提亮膚色與彈力修護。",
-    "pain": "膚色暗沉、彈力流失、細紋顯現。",
-    "skin": "混合肌、暗沉肌。",
-    "category": "乳霜",
-    "available_at": ["寶雅"],
-    "links": {
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Snail%20White%20面霜"
-    },
-    "prices": { "標籤": "$$ (中價位)", "寶雅": null },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "💰 小資中價"
-  },
-  {
-    "name": "一理潤 神經醯胺舒敏集中修護霜",
-    "features": "高濃度神經醯胺膠囊，韓國國民級舒敏霜。",
-    "pain": "屏障脆弱、換季不穩、身體臉部乾癢。",
-    "skin": "乾性肌、敏感肌。",
-    "category": "乳霜",
-    "available_at": ["寶雅", "康是美"],
-    "links": {
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=一理潤",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=一理潤"
-    },
-    "prices": { "標籤": "$$ (中價位)", "寶雅": null, "康是美": null },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Arencia 聖牛膝草柔嫩乳霜",
+    "name": "Arencia 聖牛膝草凝膠精華 ",
     "features": "天然植物萃取，提供肌膚細緻光澤感。",
     "pain": "乾燥缺乏光澤、膚況不穩定。",
     "skin": "一般肌、混合肌。",
     "category": "乳霜",
-    "available_at": ["寶雅"],
+    "available_at": ["yahoo購物中心","蝦皮商城"],
     "links": {
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Arencia"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FArencia-%25E8%2581%2596%25E7%2589%259B%25E8%2586%259D%25E8%258D%2589%25E5%2587%259D%25E8%2586%25A0%25E7%25B2%25BE%25E8%258F%25AF-50ml-%25E6%25B8%2585%25E7%2588%25BD%25E4%25BF%259D%25E6%25BF%2595-%25E6%2597%25A5%25E5%25B8%25B8%25E8%25A3%259C%25E6%25B0%25B4-%25E7%25B2%25BE%25E8%258F%25AF%25E6%25B6%25B2-%25E4%25BA%25AE%25E7%2599%25BD%25E7%25B2%25BE%25E8%258F%25AF-%25E5%2586%25B7%25E8%25AA%25BF%25E7%25B2%25BE%25E8%258F%25AF-12012313.html",
+      "蝦皮商城":"https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E9%259F%2593%25E5%259C%258BArencia-%25E7%2589%259B%25E8%2586%259D%25E8%258D%2589%25E5%2587%259D%25E8%2586%25A0%25E7%25B2%25BE%25E8%258F%25AF-50g-i.33206500.25493118522%253FextraParams%253D%257B%2522display_model_id%2522%253A178809851495%252C%2522model_selection_logic%2522%253A3%257D"
     },
-    "prices": { "標籤": "$$ (中價位)", "寶雅": null },
+    "prices": { "標籤": "$$ (中價位)", "蝦皮商城":null,"寶雅": null },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
@@ -27745,13 +27715,12 @@
     "pain": "表情細紋、臉部鬆弛、抗老需求。",
     "skin": "熟齡肌、初老肌。",
     "category": "乳霜",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Dr.Wu超逆齡霜",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Dr.Wu超逆齡霜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Dr.Wu超逆齡霜"
+      "yahoo購物中心": "https://affone.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FDR-WU%25E8%25B6%2585%25E9%2580%2586%25E9%25BD%25A1%25E8%2582%258C%25E5%259B%25A0%25E5%2586%258D%25E7%2594%259F%25E7%25B2%25BE%25E8%258F%25AF%25E9%259C%259C50ML-11365829.html",
+      "蝦皮商城": "https://aftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252FDR.WU-%25E9%2581%2594%25E7%2588%25BE%25E8%2586%259A%25E8%25B6%2585%25E9%2580%2586%25E9%25BD%25A1%25E8%2582%258C%25E5%259B%25A0%25E5%2586%258D%25E7%2594%259F%25E7%25B2%25BE%25E8%258F%25AF%25E9%259C%259C50MLx2%25E4%25BB%25B6%25E7%25B5%2584-i.33206500.40577085487%253FextraParams%253D%257B%2522display_model_id%2522%253A345265661508%252C%2522model_selection_logic%2522%253A3%257D"
     },
-    "prices": { "標籤": "$$$ (高價位)", "屈臣氏": null, "康是美": null, "寶雅": null },
+    "prices": { "標籤": "$$$ (高價位)", "yahoo購物中心": null, "蝦皮商城": null },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
@@ -27779,12 +27748,11 @@
     "pain": "皮膚粗糙、基礎保養需求。",
     "skin": "所有膚質。",
     "category": "乳霜",
-    "available_at": ["屈臣氏", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=森田藥粧乳霜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=森田藥粧乳霜"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fmall.shopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%2591%25E6%25A3%25AE%25E7%2594%25B0%25E8%2597%25A5%25E7%25B2%25A7-%25E9%25AB%2598%25E7%25B4%2594%25E5%25BA%25A6%25E7%258E%25BB%25E5%25B0%25BF%25E9%2585%25B8%25E6%25BD%25A4%25E6%25BE%25A4%25E9%259D%25A2%25E8%2586%259C-30%25E7%2589%2587-%25E7%25AE%25B1-%25E4%25BF%259D%25E6%25BF%2595-%25E8%25A3%259C%25E6%25B0%25B4-%25E9%259D%25A2%25E8%2586%259C%25E5%25B8%2583-%25E6%259F%2594%25E7%25BE%25BD%25E7%25B5%25B2-i.50662979.41581249031%253FextraParams%253D%257B%2522display_model_id%2522%253A272652464256%252C%2522model_selection_logic%2522%253A3%257D"
     },
-    "prices": { "標籤": "$ (平價)", "屈臣氏": null, "寶雅": null },
+    "prices": { "標籤": "$ (平價)", "蝦皮商城": null },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
