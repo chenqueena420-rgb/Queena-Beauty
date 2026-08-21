@@ -1146,20 +1146,17 @@
     "skin": "醫美術後、繁忙小資女",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%9C%AA%E4%BE%86%E7%BE%8E%208%E5%88%86%E9%90%98%E6%A5%B5%E9%80%9F/%E5%A4%96%E6%B3%8C%E9%AB%94%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%9C%AA%E4%BE%86%E7%BE%8E%208%E5%88%86%E9%90%98%E6%A5%B5%E9%80%9F/%E5%A4%96%E6%B3%8C%E9%AB%94%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%9C%AA%E4%BE%86%E7%BE%8E%208%E5%88%86%E9%90%98%E6%A5%B5%E9%80%9F/%E5%A4%96%E6%B3%8C%E9%AB%94%E9%9D%A2%E8%86%9C"
+      "yahoo購物中心": "https://affclkr.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FMIRAE%25E6%259C%25AA%25E4%25BE%2586%25E7%25BE%258E-EX8%25E5%2588%2586%25E9%2590%2598%25E6%25A5%25B5%25E9%2580%259F%25E9%259D%25A2%25E8%2586%259C-%25E8%25A3%259C%25E6%25B0%25B4-%25E6%25B7%25A8%25E7%2599%25BD-%25E8%2588%2592%25E7%25B7%25A9-%25E4%25BF%25AE%25E8%25AD%25B7-5%25E5%2585%25A5-%25E7%259B%2592-x4-11596881.html",
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%2591MIRAE-%25E6%259C%25AA%25E4%25BE%2586%25E7%25BE%258E-EX8%25E5%2588%2586%25E9%2590%2598%25E6%25A5%25B5%25E9%2580%259F%25E9%259D%25A2%25E8%2586%259C-5%25E7%2589%2587-%25E7%259B%2592-%25E8%25A3%259C%25E6%25B0%25B4-%25E6%25B7%25A8%25E7%2599%25BD-%25E8%2588%2592%25E7%25B7%25A9%25E4%25BF%25AE%25E8%25AD%25B7-i.50662979.48756882646%253FextraParams%253D%257B%2522display_model_id%2522%253A430613775314%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -1189,52 +1186,20 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "提提研 黑面膜系列 (金箔/浸潤)",
-    "features": "備長炭纖維、金箔、長效保濕因子",
-    "pain": "毛孔髒污堆積、長效補水需求、面膜服貼度要求高",
-    "skin": "所有膚質 (尤其是混合肌)",
-    "category": "面膜",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%8F%90%E6%8F%90%E7%A0%94%20%E9%BB%91%E9%9D%A2%E8%86%9C%E7%B3%BB%E5%88%97%20%28%E9%87%91%E7%AE%94/%E6%B5%B8%E6%BD%A4%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%8F%90%E6%8F%90%E7%A0%94%20%E9%BB%91%E9%9D%A2%E8%86%9C%E7%B3%BB%E5%88%97%20%28%E9%87%91%E7%AE%94/%E6%B5%B8%E6%BD%A4%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%8F%90%E6%8F%90%E7%A0%94%20%E9%BB%91%E9%9D%A2%E8%86%9C%E7%B3%BB%E5%88%97%20%28%E9%87%91%E7%AE%94/%E6%B5%B8%E6%BD%A4%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
     "name": "提提研 超級纖維超導水",
     "features": "蘑菇萃取、極細纖維抓水力",
     "pain": "面膜精華滴落、吸收速度慢",
     "skin": "所有膚質、追求極致服貼感",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%8F%90%E6%8F%90%E7%A0%94%20%E8%B6%85%E7%B4%9A%E7%BA%96%E7%B6%AD%E8%B6%85%E5%B0%8E%E6%B0%B4",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%8F%90%E6%8F%90%E7%A0%94%20%E8%B6%85%E7%B4%9A%E7%BA%96%E7%B6%AD%E8%B6%85%E5%B0%8E%E6%B0%B4",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%8F%90%E6%8F%90%E7%A0%94%20%E8%B6%85%E7%B4%9A%E7%BA%96%E7%B6%AD%E8%B6%85%E5%B0%8E%E6%B0%B4"
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%258F%2590%25E6%258F%2590%25E7%25A0%2594%25E8%25B6%2585%25E7%25B4%259A%25E7%25BA%2596%25E7%25B6%25AD%25E8%25B6%2585%25E5%25B0%258E%25E6%25B0%25B4%25E4%25BF%259D%25E6%25BF%2595%25E9%259D%25A2%25E8%2586%259C5%25E5%2585%25A5-i.33206500.11603109905%253FextraParams%253D%257B%2522display_model_id%2522%253A65367256777%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1261,52 +1226,66 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "專科 極輕透保濕系列",
+    "name": "專科極輕透保濕亮澤面膜",
     "features": "蠶絲蛋白精華、玄米油、無酒精配方",
     "pain": "皮膚緊繃不適、需要溫和低負擔的補水",
     "skin": "敏感肌、缺水肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%B0%88%E7%A7%91%20%E6%A5%B5%E8%BC%95%E9%80%8F%E4%BF%9D%E6%BF%95%E7%B3%BB%E5%88%97",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%B0%88%E7%A7%91%20%E6%A5%B5%E8%BC%95%E9%80%8F%E4%BF%9D%E6%BF%95%E7%B3%BB%E5%88%97",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%B0%88%E7%A7%91%20%E6%A5%B5%E8%BC%95%E9%80%8F%E4%BF%9D%E6%BF%95%E7%B3%BB%E5%88%97"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0830264997286",
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25B0%2588%25E7%25A7%2591-%25E6%25A5%25B5%25E8%25BC%2595%25E9%2580%258F%25E4%25BF%259D%25E6%25BF%2595%25E4%25BA%25AE%25E6%25BE%25A4%25E9%259D%25A2%25E8%2586%259C7%25E7%2589%2587-%25E7%259B%2592%25E3%2580%2590%25E4%25BB%25BB2%25E4%25BB%25B65%25E6%258A%2598%252A%25E9%259C%2580%25E4%25B8%258B%25E5%2596%25AE2%25E4%25BB%25B6%25E3%2580%2591-i.33206500.23246775178%253FextraParams%253D%257B%2522display_model_id%2522%253A79672448784%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (小資價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "我的心機 安瓶+面膜組",
+    "name": "專科 極輕透保濕特潤面膜",
+    "features": "蠶絲蛋白精華、玄米油、無酒精配方",
+    "pain": "皮膚緊繃不適、需要溫和低負擔的補水",
+    "skin": "敏感肌、缺水肌",
+    "category": "面膜",
+    "available_at": [
+      "yahoo購物中心",
+      "蝦皮商城"
+    ],
+    "links": {
+      "yahoo購物中心": "https://affclkr.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0830264996964",
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25B0%2588%25E7%25A7%2591-%25E6%25A5%25B5%25E8%25BC%2595%25E9%2580%258F%25E4%25BF%259D%25E6%25BF%2595%25E7%2589%25B9%25E6%25BD%25A4%25E9%259D%25A2%25E8%2586%259C7%25E7%2589%2587%25E3%2580%2590%25E4%25B8%2589%25E5%258F%258B%25E8%2597%25A5%25E5%25A6%259DTomod%2527s%25E3%2580%2591-i.77273431.19586142330%253FextraParams%253D%257B%2522display_model_id%2522%253A176207712981%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$ (小資價)",
+      "yahoo購物中心": null,
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "小資中價",
+    "level": "🌿 小資中價"
+  },
+  {
+    "name": "我的心機 超能保濕鎖水3安瓶+3面膜組",
     "features": "高效能安瓶精華、鎖水薄膜",
     "pain": "皮膚遇到瓶頸期(吸收不良)、需要高強度補水",
     "skin": "乾性肌、熬夜急救",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%88%91%E7%9A%84%E5%BF%83%E6%A9%9F%20%E5%AE%89%E7%93%B6%2B%E9%9D%A2%E8%86%9C%E7%B5%84",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%88%91%E7%9A%84%E5%BF%83%E6%A9%9F%20%E5%AE%89%E7%93%B6%2B%E9%9D%A2%E8%86%9C%E7%B5%84",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%88%91%E7%9A%84%E5%BF%83%E6%A9%9F%20%E5%AE%89%E7%93%B6%2B%E9%9D%A2%E8%86%9C%E7%B5%84"
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%2588%2591%25E7%259A%2584%25E5%25BF%2583%25E6%25A9%259F-%25E8%25B6%2585%25E8%2583%25BD%25E4%25BF%259D%25E6%25BF%2595%25E9%258E%2596%25E6%25B0%25B43%25E5%25AE%2589%25E7%2593%25B6-3%25E9%259D%25A2%25E8%2586%259C%25E7%25B5%2584-i.28944793.28119495065%253FextraParams%253D%257B%2522display_model_id%2522%253A188030026392%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1319,46 +1298,96 @@
     "skin": "蠟黃肌、熟齡肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=OLAY%20%E6%B0%B4%E6%84%9F%E9%80%8F%E7%99%BD%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=OLAY%20%E6%B0%B4%E6%84%9F%E9%80%8F%E7%99%BD%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=OLAY%20%E6%B0%B4%E6%84%9F%E9%80%8F%E7%99%BD%E9%9D%A2%E8%86%9C"
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%2591OLAY-%25E6%25B0%25B4%25E6%2584%259F%25E9%2580%258F%25E7%2599%25BD%25E9%259D%25A2%25E8%2586%259C5%25E7%2589%2587-%25E7%25BE%258E%25E7%2599%25BD%25E9%259D%25A2%25E8%2586%259C-i.50662979.40529548056%253FextraParams%253D%257B%2522display_model_id%2522%253A320692163850%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "霓淨思 無針水光維他命 C/E",
-    "features": "水光導入技術、維他命 C (美白) / E (潤澤)。",
-    "pain": "膚色暗沉不均、換季導致的臉部乾燥緊繃。",
+    "name": "霓淨思 無針水光維他命A緊緻面膜",
+    "features": "水光導入技術、維他命A醇、撫紋抗皺澎潤、榖胱甘肽。",
+    "pain": "鬆垮肌、肌膚老化。",
     "skin": "暗沉肌、乾燥肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E9%9C%93%E6%B7%A8%E6%80%9D%20%E7%84%A1%E9%87%9D%E6%B0%B4%E5%85%89%E7%B6%AD%E4%BB%96%E5%91%BD%20C/E",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E9%9C%93%E6%B7%A8%E6%80%9D%20%E7%84%A1%E9%87%9D%E6%B0%B4%E5%85%89%E7%B6%AD%E4%BB%96%E5%91%BD%20C/E",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E9%9C%93%E6%B7%A8%E6%80%9D%20%E7%84%A1%E9%87%9D%E6%B0%B4%E5%85%89%E7%B6%AD%E4%BB%96%E5%91%BD%20C/E"
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FNeogence-%25E9%259C%2593%25E6%25B7%25A8%25E6%2580%259D%25E7%2584%25A1%25E9%2587%259D%25E6%25B0%25B4%25E5%2585%2589%25E7%25B6%25AD%25E4%25BB%2596%25E5%2591%25BDA%25E7%25B7%258A%25E7%25B7%25BB%25E9%259D%25A2%25E8%2586%259C5%25E7%2589%2587%25E3%2580%2590%25E4%25BB%25BB2%25E4%25BB%25B65%25E6%258A%2598%252A%25E9%259C%2580%25E4%25B8%258B%25E5%2596%25AE2%25E4%25BB%25B6%25E3%2580%2591-i.33206500.25892561015%253FextraParams%253D%257B%2522display_model_id%2522%253A195870234173%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "專業醫美",
+    "level": "🩺 專業醫美"
+  },
+  {
+    "name": "霓淨思 無針水光維他命B保濕面膜",
+    "features": "水光導入技術、維他命A醇、撫紋抗皺澎潤、榖胱甘肽。",
+    "pain": "鬆垮肌、肌膚老化。",
+    "skin": "暗沉肌、乾燥肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": ""
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "專業醫美",
+    "level": "🩺 專業醫美"
+  },
+  
+  {
+    "name": "霓淨思 無針水光維他命E保濕面膜",
+    "features": "水光導入技術、維他命E、神經醯胺、水光透亮。",
+    "pain": "乾荒肌、角質層厚。",
+    "skin": "暗沉肌、乾燥肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259C%2593%25E6%25B7%25A8%25E6%2580%259D%25E7%2584%25A1%25E9%2587%259D%25E6%25B0%25B4%25E5%2585%2589%25E7%25B6%25AD%25E4%25BB%2596%25E5%2591%25BDE%25E6%25BD%25A4%25E6%25BE%25A4%25E9%259D%25A2%25E8%2586%259C5%25E5%2585%25A5-i.28944793.28283170070%253FextraParams%253D%257B%2522display_model_id%2522%253A258160829918%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "專業醫美",
+    "level": "🩺 專業醫美"
+  },
+  
+  {
+    "name": "霓淨思 無針水光維他命c美白面膜",
+    "features": "水光導入技術、乙基維他命C、傳明酸、白皙無瑕。",
+    "pain": "膚色不均、斑點。",
+    "skin": "暗沉肌、乾燥肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259C%2593%25E6%25B7%25A8%25E6%2580%259D%25E7%2584%25A1%25E9%2587%259D%25E6%25B0%25B4%25E5%2585%2589%25E7%25B6%25AD%25E4%25BB%2596%25E5%2591%25BDC%25E7%25BE%258E%25E7%2599%25BD%25E9%259D%25A2%25E8%2586%259C5%25E5%2585%25A5-i.28944793.29316879747%253FextraParams%253D%257B%2522display_model_id%2522%253A109313195695%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -1371,20 +1400,17 @@
     "skin": "疲憊肌、混合偏乾",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "yahoo購物中心",
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%8F%90%E6%8F%90%E7%A0%94%20%E4%BF%9D%E6%BF%95%E9%87%91%E7%AE%94%E9%BB%91%E9%9D%A2%E8%86%9C%20%28Plus%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%8F%90%E6%8F%90%E7%A0%94%20%E4%BF%9D%E6%BF%95%E9%87%91%E7%AE%94%E9%BB%91%E9%9D%A2%E8%86%9C%20%28Plus%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%8F%90%E6%8F%90%E7%A0%94%20%E4%BF%9D%E6%BF%95%E9%87%91%E7%AE%94%E9%BB%91%E9%9D%A2%E8%86%9C%20%28Plus%29"
+      "yahoo購物中心": "https://afftck.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F%25E5%258D%2587%25E7%25B4%259A%25E7%2589%2588%25E4%25BF%259D%25E6%25BF%2595%25E9%2587%2591%25E7%25AE%2594%25E9%25BB%2591%25E9%259D%25A2%25E8%2586%259C15%25E5%2585%25A5-Kitty%25E8%2581%25AF%25E5%2590%258D%25E6%25AC%25BE-11396978.html",
+      "蝦皮商城":"https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%258F%2590%25E6%258F%2590%25E7%25A0%2594%25E4%25BF%259D%25E6%25BF%2595%25E9%2587%2591%25E7%25AE%2594%25E9%25BB%2591%25E9%259D%25A2%25E8%2586%259C%2528Plus%2529-6%25E5%2585%25A5-i.28944793.15894956723%253FextraParams%253D%257B%2522display_model_id%2522%253A107721509782%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1434,52 +1460,20 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "BIAEffect 醫美級安瓶面膜",
-    "features": "安瓶級精華、高濃度玻尿酸、膠原蛋白。",
-    "pain": "平價面膜保濕力不足、需要醫美診所般的封存感。",
-    "skin": "一般膚質、小資族",
-    "category": "面膜",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=BIAEffect%20%E9%86%AB%E7%BE%8E%E7%B4%9A%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=BIAEffect%20%E9%86%AB%E7%BE%8E%E7%B4%9A%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=BIAEffect%20%E9%86%AB%E7%BE%8E%E7%B4%9A%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
     "name": "Bella Beauty 蘆薈保濕凝膠",
     "features": "高純度蘆薈萃取、大容量 (300ml)。",
     "pain": "戶外曝曬後發紅發燙、除毛後皮膚脆弱。",
     "skin": "曬後肌、全家人適用",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Bella%20Beauty%20%E8%98%86%E8%96%88%E4%BF%9D%E6%BF%95%E5%87%9D%E8%86%A0",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Bella%20Beauty%20%E8%98%86%E8%96%88%E4%BF%9D%E6%BF%95%E5%87%9D%E8%86%A0",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Bella%20Beauty%20%E8%98%86%E8%96%88%E4%BF%9D%E6%BF%95%E5%87%9D%E8%86%A0"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FBella-Beauty-%25E8%25B2%259D%25E6%258B%2589%25E7%25BE%258E%25E4%25BA%25BA-99-%25E8%2598%2586%25E8%2596%2588%25E4%25BF%259D%25E6%25BF%2595%25E5%2587%259D%25E5%2587%258D%2528300ml%2529-%25E8%2598%2586%25E8%2596%2588%25E5%2587%259D%25E8%2586%25A0-%25E9%258E%25AE%25E5%25AE%259A-%25E4%25BF%259D%25E6%25BF%2595%25E3%2580%2590%25E5%25B0%258F%25E4%25B8%2589%25E7%25BE%258E%25E6%2597%25A5%25E3%2580%2591DS018975-i.11527054.24103261298%253FextraParams%253D%257B%2522display_model_id%2522%253A194808748210%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -1506,26 +1500,100 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "天天美麗 Pro+ 水光舒緩安瓶面膜",
-    "features": "高濃度安瓶精華、積雪草舒緩、水光導入技術。",
+    "name": "天天美麗 Pro+水光 緊緻嫩膚安瓶面膜",
+    "features": "高濃度玻尿酸、維生素C、熊果素。",
+    "pain": "色斑和細紋、改善膚質。",
+    "skin": "敏感肌、受損肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A4%25A9%25E5%25A4%25A9%25E7%25BE%258E%25E9%25BA%2597-Pro-%25E6%25B0%25B4%25E5%2585%2589-%25E7%25B7%258A%25E7%25B7%25BB%25E5%25AB%25A9%25E8%2586%259A%25E5%25AE%2589%25E7%2593%25B6%25E9%259D%25A2%25E8%2586%259C4%25E5%2585%25A5-i.28944793.41422786840%253FextraParams%253D%257B%2522display_model_id%2522%253A243989009175%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "小資中價",
+    "level": "🌿 小資中價"
+  },
+  {
+    "name": "天天美麗 Pro+水光 亮采煥白安瓶面膜",
+    "features": "B3菸鹼醯胺、海藻玻尿酸、酒釀酵母。",
+    "pain": "皮膚暗沉、膚色不均、乾燥肌。",
+    "skin": "敏感肌、受損肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A4%25A9%25E5%25A4%25A9%25E7%25BE%258E%25E9%25BA%2597-Pro-%25E6%25B0%25B4%25E5%2585%2589-%25E4%25BA%25AE%25E9%2587%2587%25E7%2585%25A5%25E7%2599%25BD%25E5%25AE%2589%25E7%2593%25B6%25E9%259D%25A2%25E8%2586%259C4%25E5%2585%25A5-i.28944793.41331390181%253FextraParams%253D%257B%2522display_model_id%2522%253A376003455570%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "小資中價",
+    "level": "🌿 小資中價"
+  },
+  {
+    "name": "天天美麗 Pro+水光 舒緩修護安瓶面膜",
+    "features": "B3菸鹼醯胺、海藻玻尿酸、金盞花萃取。",
     "pain": "膚況不穩導致的泛紅、環境刺激引起的躁動。",
     "skin": "敏感肌、受損肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%A4%A9%E5%A4%A9%E7%BE%8E%E9%BA%97%20Pro%2B%20%E6%B0%B4%E5%85%89%E8%88%92%E7%B7%A9%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%A4%A9%E5%A4%A9%E7%BE%8E%E9%BA%97%20Pro%2B%20%E6%B0%B4%E5%85%89%E8%88%92%E7%B7%A9%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%A4%A9%E5%A4%A9%E7%BE%8E%E9%BA%97%20Pro%2B%20%E6%B0%B4%E5%85%89%E8%88%92%E7%B7%A9%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A4%25A9%25E5%25A4%25A9%25E7%25BE%258E%25E9%25BA%2597-Pro-%25E6%25B0%25B4%25E5%2585%2589-%25E8%2588%2592%25E7%25B7%25A9%25E4%25BF%25AE%25E8%25AD%25B7%25E5%25AE%2589%25E7%2593%25B6%25E9%259D%25A2%25E8%2586%259C4%25E5%2585%25A5-i.28944793.57111538195%253FextraParams%253D%257B%2522display_model_id%2522%253A401003455674%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "小資中價",
+    "level": "🌿 小資中價"
+  },
+  {
+    "name": "天天美麗 Pro+水光 保濕彈潤安瓶面膜",
+    "features": "B3菸鹼醯胺、海藻玻尿酸、甜菜鹼。",
+    "pain": "膚況不穩導致的泛紅、乾燥脫皮。",
+    "skin": "敏感肌、受損肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A4%25A9%25E5%25A4%25A9%25E7%25BE%258E%25E9%25BA%2597-Pro-%25E6%25B0%25B4%25E5%2585%2589-%25E4%25BF%259D%25E6%25BF%2595%25E5%25BD%2588%25E6%25BD%25A4%25E5%25AE%2589%25E7%2593%25B6%25E9%259D%25A2%25E8%2586%259C4%25E5%2585%25A5-i.28944793.48261567157%253FextraParams%253D%257B%2522display_model_id%2522%253A351003455662%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "小資中價",
+    "level": "🌿 小資中價"
+  },
+  {
+    "name": "天天美麗 Pro+水光 淨化調理安瓶面膜",
+    "features": "B5泛醇、海藻玻尿酸、高山黃芩萃取。",
+    "pain": "膚況不穩導致的泛紅、環境刺激引起的躁動。",
+    "skin": "敏感肌、受損肌",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A4%25A9%25E5%25A4%25A9%25E7%25BE%258E%25E9%25BA%2597-Pro-%25E6%25B0%25B4%25E5%2585%2589-%25E6%25B7%25A8%25E5%258C%2596%25E8%25AA%25BF%25E7%2590%2586%25E5%25AE%2589%25E7%2593%25B6%25E9%259D%25A2%25E8%2586%259C4%25E5%2585%25A5-i.28944793.40222790844%253FextraParams%253D%257B%2522display_model_id%2522%253A276850734428%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -1555,52 +1623,20 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "41度C 蒸氣眼罩 (經典綜合組)",
-    "features": "恆溫蒸氣技術、多種植萃香氛 (艾草/金木犀等)。",
-    "pain": "長時間用眼過度、眼周沉重、睡眠品質不佳。",
-    "skin": "所有膚質 (眼部護理)",
-    "category": "面膜",
-    "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
-    ],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=41%E5%BA%A6C%20%E8%92%B8%E6%B0%A3%E7%9C%BC%E7%BD%A9%20%28%E7%B6%93%E5%85%B8%E7%B6%9C%E5%90%88%E7%B5%84%29",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=41%E5%BA%A6C%20%E8%92%B8%E6%B0%A3%E7%9C%BC%E7%BD%A9%20%28%E7%B6%93%E5%85%B8%E7%B6%9C%E5%90%88%E7%B5%84%29",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=41%E5%BA%A6C%20%E8%92%B8%E6%B0%A3%E7%9C%BC%E7%BD%A9%20%28%E7%B6%93%E5%85%B8%E7%B6%9C%E5%90%88%E7%B5%84%29"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
     "name": "BANOBAGI PDRN 外泌體毛孔調理",
     "features": "PDRN (鮭魚DNA)、外泌體、毛孔緊緻因子。",
     "pain": "毛孔粗大、皮膚彈性疲乏、醫美後的細緻修復。",
     "skin": "粗大毛孔肌、油性肌",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=BANOBAGI%20PDRN%20%E5%A4%96%E6%B3%8C%E9%AB%94%E6%AF%9B%E5%AD%94%E8%AA%BF%E7%90%86",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=BANOBAGI%20PDRN%20%E5%A4%96%E6%B3%8C%E9%AB%94%E6%AF%9B%E5%AD%94%E8%AA%BF%E7%90%86",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=BANOBAGI%20PDRN%20%E5%A4%96%E6%B3%8C%E9%AB%94%E6%AF%9B%E5%AD%94%E8%AA%BF%E7%90%86"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FBANOBAGI-%25E4%25BD%25B0%25E8%25AB%25BE%25E4%25BD%25B0%25E7%2590%25AA%25E8%25B3%25A6%25E6%25B4%25BBPDRN%25E5%25A4%2596%25E6%25B3%258C%25E9%25AB%2594%25E6%25AF%259B%25E5%25AD%2594%25E8%25AA%25BF%25E7%2590%2586%25E9%259D%25A2%25E8%2586%259C5%25E5%2585%25A5%25EF%25BC%2588%25E5%25A4%2596%25E6%25B3%258C%25E9%25AB%2594%25E9%259D%25A2%25E8%2586%259C%25EF%25BC%2589-%25E5%25B1%2588%25E8%2587%25A3%25E6%25B0%258F-Watsons-i.28944793.29488276686%253FextraParams%253D%257B%2522display_model_id%2522%253A275598096027%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
