@@ -7742,26 +7742,20 @@
     "lowest_price_store": "請點擊連結查看即時價格"
   },
   {
-    "name": "Abib 魚腥草舒緩面膜",
-    "features": "高純度魚腥草、服貼膜布。",
-    "pain": "肌膚過敏、紅腫癢、保養停滯。",
-    "skin": "敏感肌、痘痘肌。",
+    "name": "Abib 口香糖膠原蛋白牛奶面膜",
+    "features": "膠原蛋白牛奶、服貼膜布。",
+    "pain": "肌膚乾燥、紅腫癢、膠原蛋白流失。",
+    "skin": "敏感肌、下垂肌。",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Abib%20%E9%AD%9A%E8%85%A5%E8%8D%89%E8%88%92%E7%B7%A9%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Abib%20%E9%AD%9A%E8%85%A5%E8%8D%89%E8%88%92%E7%B7%A9%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Abib%20%E9%AD%9A%E8%85%A5%E8%8D%89%E8%88%92%E7%B7%A9%E9%9D%A2%E8%86%9C"
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FAbib-%25E5%258F%25A3%25E9%25A6%2599%25E7%25B3%2596%25E8%2586%25A0%25E5%258E%259F%25E8%259B%258B%25E7%2599%25BD%25E7%2589%259B%25E5%25A5%25B6%25E9%259D%25A2%25E8%2586%259C%2528%25E6%2596%25B0%2529%25E3%2580%2590%25E4%25B8%2589%25E5%258F%258B%25E8%2597%25A5%25E5%25A6%259DTomod%2527s%25E3%2580%2591-i.77273431.28020316672%253FextraParams%253D%257B%2522display_model_id%2522%253A215630617284%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
