@@ -8494,26 +8494,41 @@
     "level": "🌿 小資中價"
   },
   {
-    "name": "Papa Recipe 茄子泥面膜",
-    "features": "清潔毛孔、舒緩痘痘。",
+    "name": "I'm from 艾草塗抹面膜",
+    "features": "清潔毛孔、舒緩痘痘、江華艾草。",
     "pain": "清潔泥膜太乾、敏感肌清潔。",
     "skin": "所有膚質。",
     "category": "面膜",
     "available_at": [
-      "屈臣氏",
-      "康是美",
-      "寶雅"
+      "蝦皮商城"
     ],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Papa%20Recipe%20%E8%8C%84%E5%AD%90%E6%B3%A5%E9%9D%A2%E8%86%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Papa%20Recipe%20%E8%8C%84%E5%AD%90%E6%B3%A5%E9%9D%A2%E8%86%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Papa%20Recipe%20%E8%8C%84%E5%AD%90%E6%B3%A5%E9%9D%A2%E8%86%9C"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F-I%2527m-from-%25E8%2589%25BE%25E8%258D%2589%25E5%25A1%2597%25E6%258A%25B9%25E9%259D%25A2%25E8%2586%259C-110g-i.39566623.23830935634%253FextraParams%253D%257B%2522display_model_id%2522%253A165693408864%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
+    },
+    "lowest_price_store": "請點擊連結查看即時價格",
+    "tier": "小資中價",
+    "level": "🌿 小資中價"
+  },
+  
+  {
+    "name": "I'm from 大米塗抹面膜",
+    "features": "清潔毛孔、舒緩痘痘、驪州大米。",
+    "pain": "清潔泥膜太乾、敏感肌清潔。",
+    "skin": "所有膚質。",
+    "category": "面膜",
+    "available_at": [
+      "蝦皮商城"
+    ],
+    "links": {
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F-I%2527m-from-%25E5%25A4%25A7%25E7%25B1%25B3%25E5%25A1%2597%25E6%258A%25B9%25E9%259D%25A2%25E8%2586%259C-110g-i.39566623.22483988334%253FextraParams%253D%257B%2522display_model_id%2522%253A108212068942%252C%2522model_selection_logic%2522%253A3%257D"
+    },
+    "prices": {
+      "標籤": "$$ (中價位)",
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
