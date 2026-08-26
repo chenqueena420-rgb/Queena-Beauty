@@ -231,6 +231,8 @@ function escAttr(s) {
 
 function catClass(c) {
   const valid = ["精華", "防曬", "面膜", "唇部", "洗面乳", "乳霜", "化妝水", "卸妝", "身體保養", "彩妝", "個人護理", "香氛"];
+  const k = valid.includes(c) ? c : "其他";
+  return "cat-" + k;
 }
 
 function renderCard(row) {
