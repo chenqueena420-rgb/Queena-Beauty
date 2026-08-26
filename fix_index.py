@@ -90,7 +90,6 @@ header .sub { color: var(--muted); max-width: 40rem; line-height: 1.6; margin-to
 .cat-卸妝 { background: linear-gradient(135deg, #c084fc, #a855f7, #9333ea); }
 .cat-身體保養 { background: linear-gradient(135deg, #2dd4bf, #14b8a6, #0d9488); }
 .cat-彩妝 { background: linear-gradient(135deg, #fca5a5, #ef4444, #b91c1c); }
-.cat-頭髮護理 { background: linear-gradient(135deg, #60a5fa, #2563eb, #1e40af); }
 .cat-個人護理 { background: linear-gradient(135deg, #d1d5db, #9ca3af, #4b5563); }
 .cat-香氛 { background: linear-gradient(135deg, #ddd6fe, #a78bfa, #7c3aed); }
 .cat-其他 { background: linear-gradient(135deg, #94a3b8, #64748b, #475563); }
@@ -165,7 +164,7 @@ const W_PHRASE = 20;
 const CAT_EMOJI = { 
   精華: "🧴", 防曬: "☀️", 面膜: "🧖", 唇部: "💄", 
   洗面乳: "🧼", 乳霜: "🧴", 化妝水: "💧", 卸妝: "🧖", 身體保養: "🛀",
-  彩妝: "🎨", 頭髮護理: "💇", 個人護理: "🧴",
+  彩妝: "🎨",  個人護理: "🧴",
   香氛: "✨", 其他: "✨" 
 };
 
@@ -232,7 +231,7 @@ function escAttr(s) {
 }
 
 function catClass(c) {
-  const valid = ["精華", "防曬", "面膜", "唇部", "洗面乳", "乳霜", "化妝水", "卸妝", "身體保養", "彩妝", "頭髮護理", "個人護理", "香氛"];
+  const valid = ["精華", "防曬", "面膜", "唇部", "洗面乳", "乳霜", "化妝水", "卸妝", "身體保養", "彩妝", "個人護理", "香氛"];
   const k = valid.includes(c) ? c : "其他";
   return "cat-" + k;
 }
