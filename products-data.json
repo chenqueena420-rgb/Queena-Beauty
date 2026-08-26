@@ -21203,110 +21203,74 @@
     "level": "✨ 平價"
   },
   {
-    "name": "NIVEA 妮維雅 深層卸妝乳",
+    "name": "NIVEA 妮維雅極淨深層眼部卸妝液",
     "features": "溫和去除日常彩妝、保持肌膚水分、洗後不緊繃。",
     "pain": "卸妝後臉部乾燥、追求溫和清潔、不想給肌膚負擔。",
     "skin": "乾燥肌、敏感肌、一般膚質。",
-    "category": "臉部清潔",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "category": "卸妝",
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Nivea%20卸妝乳",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Nivea%20卸妝乳",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Nivea%20卸妝乳"
+      "yahoo購物中心": "https://affclkr.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FNIVEA-%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585-%25E6%25A5%25B5%25E6%25B7%25A8%25E6%25B7%25B1%25E5%25B1%25A4-%25E6%25A5%25B5%25E6%25B7%25A8%25E9%2580%258F%25E4%25BA%25AE-%25E7%259C%25BC%25E9%2583%25A8%25E5%258D%25B8%25E5%25A6%259D%25E6%25B6%25B2125ml-%25E4%25BB%25BB%25E9%2581%25B82%25E5%2585%25A5%25E7%25B5%2584-5%25E7%25A7%2592%25E6%25BD%2594%25E6%25B7%25A8%25E8%2597%258D%25E7%259C%25BC%25E5%258D%25B8-5%25E7%25A7%2592%25E6%25BD%2594%25E6%25B7%25A8%25E7%25B2%2589-11259522.html",
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FNIVEA-%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585%25E6%25A5%25B5%25E6%25B7%25A8%25E6%25B7%25B1%25E5%25B1%25A4%25E7%259C%25BC%25E9%2583%25A8%25E5%258D%25B8%25E5%25A6%259D%25E6%25B6%25B2125ml-i.33206500.606863858%253FextraParams%253D%257B%2522display_model_id%2522%253A51131101627%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (平價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "NIVEA 妮維雅 鎖水深層保濕化妝水",
-    "features": "密集補水、穩定肌膚油水平衡、促進後續保養吸收。",
-    "pain": "洗臉後覺得緊繃、肌膚缺水導致脫妝、後續保養不吃妝。",
-    "skin": "所有膚質，特別是缺水型肌膚。",
-    "category": "臉部保養",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Nivea%20化妝水",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Nivea%20化妝水",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Nivea%20化妝水"
-    },
-    "prices": {
-      "標籤": "$ (平價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "NIVEA 妮維雅 淨膚毛孔緊緻洗面乳",
+    "name": "NIVEA 妮維雅 妮維雅自律舒敏洗卸水凝乳",
     "features": "深層潔淨毛孔、改善黑頭與粉刺、控油與細緻毛孔。",
     "pain": "黑頭粉刺明顯、油脂分泌旺盛、毛孔粗大。",
     "skin": "油性肌、混合肌。",
-    "category": "臉部清潔",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "category": "洗面乳",
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Nivea%20毛孔",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Nivea%20毛孔",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Nivea%20毛孔"
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%2591NIVEA-%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585-%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585%25E8%2587%25AA%25E5%25BE%258B%25E8%2588%2592%25E6%2595%258F%25E6%25B4%2597%25E5%258D%25B8%25E6%25B0%25B4%25E5%2587%259D%25E4%25B9%25B3150ml-%25E6%25B4%2597%25E9%259D%25A2%25E4%25B9%25B3-%25E6%25BD%2594%25E9%25A1%258F-i.50662979.24948005133%253FextraParams%253D%257B%2522display_model_id%2522%253A267432946589%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (平價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "NIVEA 妮維雅 Q10抗皺保濕眼霜",
-    "features": "添加輔酶Q10、撫平眼周細紋、深層滋潤抗老。",
+    "name": "NIVEA 妮維雅 LUMINOUS 630®淡斑煥白亮眼霜",
+    "features": "添加輔酶LUMINOUS 630、撫平眼周細紋、深層滋潤抗老。",
     "pain": "眼下乾紋明顯、眼周鬆弛、看起來顯老。",
     "skin": "熟齡肌、有細紋困擾者。",
-    "category": "臉部保養",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "category": "乳霜",
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Nivea%20Q10%20眼霜",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Nivea%20Q10%20眼霜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Nivea%20Q10%20眼霜"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590NIVEA-%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585%25E3%2580%2591LUMINOUS-630%25C2%25AE%25E6%25B7%25A1%25E6%2596%2591%25E7%2585%25A5%25E7%2599%25BD%25E4%25BA%25AE%25E7%259C%25BC%25E9%259C%259C15ML%2528%25E7%25A6%258F%25E5%2588%25A9%25E5%2593%2581%2529%25E6%25B7%25A1%25E6%2596%2591-%25E4%25BA%25AE%25E7%2599%25BD-i.12642741.50364970384%253FextraParams%253D%257B%2522display_model_id%2522%253A431285356561%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (平價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "NIVEA 妮維雅 晶鑽彈力亮白晚霜",
+    "name": "妮維雅LUMINOUS630淡斑煥白修護霜",
     "features": "夜間密集滋養、改善膚色不均、提升緊緻度。",
     "pain": "肌膚暗沉、鬆弛、需要夜間高效率修護。",
     "skin": "一般膚質、初老肌。",
-    "category": "臉部保養",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "category": "乳霜",
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Nivea%20晚霜",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Nivea%20晚霜",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Nivea%20晚霜"
+      "蝦皮商城": "https://affone.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%25A6%25AE%25E7%25B6%25AD%25E9%259B%2585LUMINOUS630%25E6%25B7%25A1%25E6%2596%2591%25E7%2585%25A5%25E7%2599%25BD%25E4%25BF%25AE%25E8%25AD%25B7%25E9%259C%259C50ml-i.28944793.24064112301%253FextraParams%253D%257B%2522display_model_id%2522%253A166341887040%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (平價)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -21417,14 +21381,13 @@
     "features": "漢方植萃成分，保濕兼具透明感提亮。",
     "pain": "肌膚暗沉蠟黃、缺乏透明感。",
     "skin": "混合肌、暗沉肌。",
-    "category": "凝霜",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "category": "乳霜",
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=雪肌精凝露",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=雪肌精凝露",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=雪肌精凝露"
+      "屈臣氏": "https://twshop4coupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FKOSE%25E9%25AB%2598%25E7%25B5%25B2-%25E9%259B%25AA%25E8%2582%258C%25E7%25B2%25BE%25E5%2585%25A8%25E8%2583%25BD%25E6%25B4%25BB%25E8%2586%259A%25E5%2587%259D%25E9%259C%25B280g-%25E6%25AD%25A3%25E7%25B5%25B1%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-9189701.html",
+      "康是美": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FKOSE-%25E9%25AB%2598%25E7%25B5%25B2-%25E9%259B%25AA%25E8%2582%258C%25E7%25B2%25BE%25E5%2585%25A8%25E8%2583%25BD%25E6%25B4%25BB%25E8%2586%259A%25E5%2587%259D%25E9%259C%25B2-80g-i.912743535.22830924343%253FextraParams%253D%257B%2522display_model_id%2522%253A243334005639%252C%2522model_selection_logic%2522%253A3%257D"
     },
-    "prices": { "標籤": "$$ (中價位)", "屈臣氏": null, "康是美": null, "寶雅": null },
+    "prices": { "標籤": "$$ (中價位)", "yahoo購物中心": null, "蝦皮商城": null },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"

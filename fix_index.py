@@ -92,7 +92,6 @@ header .sub { color: var(--muted); max-width: 40rem; line-height: 1.6; margin-to
 .cat-彩妝 { background: linear-gradient(135deg, #fca5a5, #ef4444, #b91c1c); }
 .cat-個人護理 { background: linear-gradient(135deg, #d1d5db, #9ca3af, #4b5563); }
 .cat-香氛 { background: linear-gradient(135deg, #ddd6fe, #a78bfa, #7c3aed); }
-.cat-其他 { background: linear-gradient(135deg, #94a3b8, #64748b, #475563); }
 .card-body { padding: 1.1rem 1.25rem 1.25rem; display: flex; flex-direction: column; flex: 1; gap: .65rem; }
 .badges { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; }
 .badge-cat { font-size: .7rem; font-weight: 700; padding: .2rem .55rem; border-radius: 999px; background: #f1f5f9; color: #475569; }
