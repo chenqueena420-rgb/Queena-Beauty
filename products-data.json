@@ -15538,110 +15538,40 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Shiseido 資生堂 柔護防曬妝前乳",
-    "features": "高規格防曬與防護科技、溫和不易致痘、水潤提亮膚色。",
-    "pain": "擦防曬容易敏感長痘脫皮、上完防曬後皮膚乾燥缺水。",
-    "skin": "敏弱肌、全膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%B3%87%E7%94%9F%E5%A0%82%20%E5%A6%9D%E5%85%8D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%B3%87%E7%94%9F%E5%A0%82%20%E5%A6%9D%E5%85%8D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%B3%87%E7%94%9F%E5%A0%82%20%E5%A6%9D%E5%85%8D%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Clinique 倩碧 花漾腮紅 (小雛菊)",
+    "name": "Clinique 倩碧 花漾腮紅",
     "features": "獨特慢火烘焙技術、無粉感、打造由內而外的自然紅潤好氣色。",
     "pain": "容易下手過重變成猴子屁股、粉質腮紅容易顯毛孔和粗糙感。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%80%A9%E7%A2%A7%20%E5%B0%8F%E9%9B%9B%E8%8F%8A",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%80%A9%E7%A2%A7%20%E5%B0%8F%E9%9B%9B%E8%8F%8A",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%80%A9%E7%A2%A7%20%E5%B0%8F%E9%9B%9B%E8%8F%8A"
+      "yahoo購物中心": "https://vbshoptrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCLINIQUE%25E5%2580%25A9%25E7%25A2%25A7-%25E8%258A%25B1%25E6%25BC%25BE%25E8%2585%25AE%25E7%25B4%25853-5g-%25E5%25A4%259A%25E8%2589%25B2%25E4%25BB%25BB%25E9%2581%25B8-10560540.html",
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCLINIQUE%25E5%2580%25A9%25E7%25A2%25A7%25EF%25BD%259C%25E8%258A%25B1%25E6%25BC%25BE%25E8%2585%25AE%25E7%25B4%2585-3.5g-i.159523419.20080323687%253FextraParams%253D%257B%2522display_model_id%2522%253A127596204059%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Bobbi Brown 流雲持久防水眼線膠",
-    "features": "濃郁顯色、極致防水抗暈、質地絲滑好勾勒。",
-    "pain": "用眼線筆極易暈成熊貓眼、眼線液筆尖太硬容易畫得不自然。",
-    "skin": "所有膚質、眼皮極易出油者。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Bobbi%20Brown%20%E7%9C%BC%E7%B7%9A%E8%86%A0",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Bobbi%20Brown%20%E7%9C%BC%E7%B7%9A%E8%86%A0",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Bobbi%20Brown%20%E7%9C%BC%E7%B7%9A%E8%86%A0"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Lancome 蘭蔻 超極光精華水粉底",
+    "name": "LANCOME 蘭蔻 零粉感超持久粉底",
     "features": "注入保濕精華、打造爆水感水光肌、輕薄修飾暗沉。",
     "pain": "皮膚暗沉無光澤、上妝乾裂卡粉、想打造法式輕透底妝。",
     "skin": "乾性肌、混合偏乾肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%98%AD%E8%94%BB%20%E6%A5%B5%E5%85%89%20%E7%B2%89%E5%BA%95",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%98%AD%E8%94%BB%20%E6%A5%B5%E5%85%89%20%E7%B2%89%E5%BA%95",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%98%AD%E8%94%BB%20%E6%A5%B5%E5%85%89%20%E7%B2%89%E5%BA%95"
+      "yahoo購物中心": "https://afftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FLANCOME%25E8%2598%25AD%25E8%2594%25BB-%25E9%259B%25B6%25E7%25B2%2589%25E6%2584%259F%25E8%25B6%2585%25E6%258C%2581%25E4%25B9%2585%25E7%25B2%2589%25E5%25BA%2595SPF-40-PA-30ml--12204144.html",
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FLANCOME-%25E8%2598%25AD%25E8%2594%25BB-%25E9%259B%25B6%25E7%25B2%2589%25E6%2584%259F%25E8%25B6%2585%25E6%258C%2581%25E4%25B9%2585%25E7%25B2%2589%25E5%25BA%2595-%25E6%2596%25B0%25E7%2589%2588-SPF40-PA-%25EF%25BC%2583B-01-30ml-%25E5%25B9%25B3%25E8%25A1%258C%25E8%25BC%25B8%25E5%2585%25A5-eslite%25E8%25AA%25A0%25E5%2593%2581-i.211208801.26544236162%253FextraParams%253D%257B%2522display_model_id%2522%253A445559009984%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Giorgio Armani 奢華絲絨訂製唇萃",
-    "features": "絲絨半霧面質地、高顯色度、極致舒適不乾澀、低調優雅。",
-    "pain": "霧面唇彩讓唇紋原形畢露、或者擦口紅容易倒吸水分乾裂。",
-    "skin": "所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=GA%20%E5%94%87%E8%90%83",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=GA%20%E5%94%87%E8%90%83",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=GA%20%E5%94%87%E8%90%83"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -15653,17 +15583,15 @@
     "pain": "睫毛短小塌陷、害怕難卸的防水睫毛膏拉扯眼周肌膚。",
     "skin": "所有人群、日常淡妝族。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Dejavu%20%E7%9D%AB%E6%AF%9B%E8%8A%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Dejavu%20%E7%9D%AB%E6%AF%9B%E8%8A%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Dejavu%20%E7%9D%AB%E6%AF%9B%E8%8A%AC"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fdejavu-%25E6%2594%25BE%25E8%2582%2586%25E9%25A9%259A%25E8%2589%25B7%25E7%25BA%2596%25E9%2595%25B7%25E7%259D%25AB%25E6%25AF%259B%25E8%2586%258F-%25E9%25BB%2591%25E8%2589%25B2-9449911.html",
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fdejavu-%25E6%2594%25BE%25E8%2582%2586%25E9%25A9%259A%25E8%2589%25B7%25E7%25BA%2596%25E9%2595%25B7%25E7%259D%25AB%25E6%25AF%259B%25E8%2586%258F-%25E9%25BB%2591%25E8%2589%25B27.2g-i.33206500.57209344380%253FextraParams%253D%257B%2522display_model_id%2522%253A375826836998%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -15675,83 +15603,51 @@
     "pain": "夾好的睫毛一上膏馬上垂下來、到下午眼底就暈成一團黑。",
     "skin": "所有人、細塌睫毛者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ETUDE%20%E7%9D%AB%E6%AF%9B%E8%8A%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ETUDE%20%E7%9D%AB%E6%AF%9B%E8%8A%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ETUDE%20%E7%9D%AB%E6%AF%9B%E8%8A%AC"
+      "蝦皮商城": "https://affone.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FETUDE-%25E7%259D%25AB%25E5%25B0%258D%25E5%2587%25BA%25E8%2589%25B2%25C3%2597%25E7%259C%25BC%25E9%2587%2587%25E9%25A3%259B%25E6%258F%259A-%25E9%2598%25B2%25E6%25B0%25B4%25E5%25AE%259A%25E5%25A6%259D%25E7%25B5%2584-%25E9%259F%2593%25E5%259C%258B-%25E7%259D%25AB%25E6%25AF%259B%25E8%2586%258F-%25E9%2598%25B2%25E6%25B0%25B4%25E7%259D%25AB%25E6%25AF%259B%25E8%2586%258F-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.121790231.46561321545%253FextraParams%253D%257B%2522display_model_id%2522%253A340983724879%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 胜肽光澤亮唇釉",
+    "name": "rom&nd 果汁唇釉",
     "features": "打造豐盈透亮的果汁玻璃唇、水感輕薄、不顯厚重黏膩。",
     "pain": "嘴唇乾燥蒼白、傳統唇蜜太過黏膩容易黏頭髮、追求韓系清透妝感。",
     "skin": "所有人。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=romand%20%E5%94%87%E9%85%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=romand%20%E5%94%87%E9%85%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=romand%20%E5%94%87%E9%85%89"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0704264908573",
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E6%259E%259C%25E6%25B1%2581%25E5%2594%2587%25E9%2587%25892.0-3.5g-i.478848180.27224978954%253FextraParams%253D%257B%2522display_model_id%2522%253A195761678217%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "Integrate 櫻特芮 三度漸層光綻眼影盒",
-    "features": "經典日系溫柔配色、質地親膚綿密、自帶微光低調打亮色。",
-    "pain": "化妝新手怕眼影邊界明顯、不喜歡過於誇張或亮片太大的歐美眼妝。",
-    "skin": "所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Integrate%20%E7%9C%BC%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Integrate%20%E7%9C%BC%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Integrate%20%E7%9C%BC%E5%BD%B1"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Cezanne 塞尚 浪漫柔花腮紅",
+    "name": "CEZANNE 柔潤腮紅",
     "features": "日系開架長青樹、粉質輕柔帶有透明感、附贈極柔軟好刷的腮紅刷。",
     "pain": "開架腮紅常常不附刷具出門不便、兩夾氣色不佳想打造柔和透明肌。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Cezanne%20%E8%85%B9%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Cezanne%20%E8%85%B9%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Cezanne%20%E8%85%B9%E7%B4%85"
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCEZANNE-%25E6%259F%2594%25E6%25BD%25A4%25E8%2585%25AE%25E7%25B4%2585%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E7%259B%25B4%25E7%2587%259F-%25E7%25BE%258E%25E6%25BB%25BF%25E5%25A0%2582Beautyfull%25E3%2580%2591-i.79641701.23874428904%253FextraParams%253D%257B%2522display_model_id%2522%253A127780098697%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -15763,17 +15659,13 @@
     "pain": "晨間上妝前皮膚太乾容易脫皮、尋找溫和不刺激且自帶防曬係數的底妝。",
     "skin": "乾性肌、混合偏乾肌、敏弱肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%B1%86%E4%B9%B3%20%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%B1%86%E4%B9%B3%20%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%B1%86%E4%B9%B3%20%E9%9A%94%E9%9B%A2%E9%9C%9C"
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590SANA%25E8%258E%258E%25E5%25A8%259C%25E3%2580%2591%25E8%25B1%2586%25E4%25B9%25B3%25E7%25BE%258E%25E8%2582%258C%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-i.389472992.29286932956%253FextraParams%253D%257B%2522display_model_id%2522%253A305180273876%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -15785,17 +15677,13 @@
     "pain": "瀏海容易出油扁塌、T字部位出油讓底妝暗沉斑駁。",
     "skin": "油性肌、混合肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=UNNY%20%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=UNNY%20%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=UNNY%20%E8%9C%9C%E7%B2%89"
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FUNNY-CLUB-%25E6%25B8%2585%25E9%2580%258F%25E7%2584%25A1%25E7%2591%2595%25E8%259C%259C%25E7%25B2%25898g-unny%25E6%2595%25A3%25E7%25B2%2589-%25E6%258E%25A7%25E6%25B2%25B9%25E8%259C%259C%25E7%25B2%2589%25E8%25BC%2595%25E9%2580%258F%25E8%259C%259C%25E7%25B2%2589%25E6%2595%25A3%25E7%25B2%2589%25E5%25AE%259A%25E5%25A6%259D%25E8%259C%259C%25E7%25B2%2589%25E5%25AE%259A%25E5%25A6%259D%25E7%25B2%2589%25E5%25BA%2595%25E5%25A6%259D%25E8%259C%259C%25E7%25B2%2589-%25E6%2595%25A3%25E7%25B2%2589-%25E6%25AD%25A3%25E5%2593%2581-i.38017328.8336844702%253FextraParams%253D%257B%2522display_model_id%2522%253A25153899688%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -15807,17 +15695,13 @@
     "pain": "眼睛容易水腫、一般亮片眼影過於浮誇、希望找高質感的開架日常色。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Visee%20%E7%9C%BC%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Visee%20%E7%9C%BC%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Visee%20%E7%9C%BC%E5%BD%B1"
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FVISEE-%25E6%259F%2594%25E5%25BD%25B1%25E5%2585%25A8%25E9%25A3%25BE%25E7%259C%25BC%25E5%25BD%25A9%25E7%259B%2592-9%25E8%2589%25B2-%25E6%2596%25B0%25E8%2589%25B2-008-009-%25E3%2580%2590%25E4%25BD%25B3%25E7%2591%25AA%25E3%2580%2591%25E7%259C%25BC%25E5%25BD%25B1-%25E7%259C%25BC%25E5%25BD%25A9%25E7%259B%25A4-i.298057162.15813675181%253FextraParams%253D%257B%2522display_model_id%2522%253A132807062568%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -15829,127 +15713,87 @@
     "pain": "修容顏色太黃或太紅導致妝感顯髒、下手太重線條生硬。",
     "skin": "所有人、亞洲膚色。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=TCFS%20%E4%BF%AE%E5%AE%B9",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=TCFS%20%E4%BF%AE%E5%AE%B9",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=TCFS%20%E4%BF%AE%E5%AE%B9"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590too-cool-for-school%25E3%2580%2591-%25E7%25BE%258E%25E8%25A1%2593%25E8%25AA%25B2%25E7%25AB%258B%25E9%25AB%2594%25E4%25BF%25AE%25E5%25AE%25B9%25E7%25B2%2589%25E9%25A4%2585-%25E4%25B8%2589%25E8%2589%25B2%25E4%25BF%25AE%25E5%25AE%25B9-%25E6%2589%2593%25E4%25BA%25AE-%25E4%25BF%25AE%25E5%25AE%25B9%25E7%259B%25A4-9.5g-i.111518986.1723772471%253FextraParams%253D%257B%2522display_model_id%2522%253A4422676401%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "Opera 渲漾水色唇膏",
-    "features": "神級花嫁色、極致水潤清透、隨體溫及時間稍微美妙校色。",
-    "pain": "不喜歡口紅的厚重異物感、嘴唇常年乾燥死皮多不適合擦一般口紅。",
-    "skin": "所有人、乾唇人首選。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Opera%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Opera%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Opera%20%E5%8F%A3%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Solone 經典極細眼線液筆",
+    "name": "Solone 持久流暢眼線液筆EX",
     "features": "0.01mm極細極彈筆頭、速乾薄膜防水配方、出水量極度均勻。",
     "pain": "化妝新手手抖線條不順、眼角容易出油脂導致眼線下午就斷成兩截。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Solone%20%E7%9C%BC%E7%B7%9A%E6%B0%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Solone%20%E7%9C%BC%E7%B7%9A%E6%B0%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Solone%20%E7%9C%BC%E7%B7%9A%E6%B0%B2"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSolone-%25E6%258C%2581%25E4%25B9%2585%25E6%25B5%2581%25E6%259A%25A2%25E7%259C%25BC%25E7%25B7%259A%25E6%25B6%25B2%25E7%25AD%2586EX-%25282%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8%2529%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8%25E3%2580%2591-i.364683762.27814273934%253FextraParams%253D%257B%2522display_model_id%2522%253A233330625829%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "Solone 大師系列專業神采雙色遮瑕盤",
+    "name": "Solone 全能校色遮瑕盤",
     "features": "針對亞洲肌膚校色、質地滋潤服貼不卡紋、完美修飾黑眼圈。",
     "pain": "黑眼圈太重用單色遮瑕會發灰、眼下乾紋明顯一遮瑕就斑駁龜裂。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Solone%20%E9%81%AE%E7%91%A3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Solone%20%E9%81%AE%E7%91%A3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Solone%20%E9%81%AE%E7%91%A3"
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSolone-%25E5%2585%25A8%25E8%2583%25BD%25E6%25A0%25A1%25E8%2589%25B2%25E9%2581%25AE%25E7%2591%2595%25E7%259B%25A4-5.4g%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8%25E3%2580%2591-i.364683762.55254934502%253FextraParams%253D%257B%2522display_model_id%2522%253A345455961355%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "Essence 艾森絲 柔霧名媛腮紅",
+    "name": "essence 艾森絲 雲朵慕絲腮紅",
     "features": "高性價比經典、粉質細緻霧面妝效、完全沒有誇張粉感。",
     "pain": "學生小資族預算有限、尋找顯色度適中不會失手的超平價腮紅。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Essence%20%E5%A7%93%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Essence%20%E5%A7%93%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Essence%20%E5%A7%93%E7%B4%85"
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fessence-%25E8%2589%25BE%25E6%25A3%25AE%25E7%25B5%25B2-%25E9%259B%25B2%25E6%259C%25B5%25E6%2585%2595%25E7%25B5%25B2%25E8%2585%25AE%25E7%25B4%2585-i.32687380.41056997000%253FextraParams%253D%257B%2522display_model_id%2522%253A290593553320%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "1028 持久迷步隱形抗暈妝前乳",
-    "features": "強效控油持妝、平滑粗糙毛孔、輕薄乳霜質地好吸收。",
+    "name": "1028 Dew Block! 超保濕UV水潤校色飾底乳EX",
+    "features": "水潤持妝、平滑粗糙毛孔、輕薄乳霜質地好吸收。",
     "pain": "夏日出油旺盛導致底妝土石流、妝前保養太乾或太黏不舒服。",
     "skin": "油性肌、混合偏油肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=1028%20%E5%A6%9D%E5%85%8D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=1028%20%E5%A6%9D%E5%85%8D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=1028%20%E5%A6%9D%E5%85%8D%E4%B9%B3"
+      "yahoo購物中心": "https://vbshoptrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F1028-Dew-Block-%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595UV%25E6%25B0%25B4%25E6%25BD%25A4%25E6%25A0%25A1%25E8%2589%25B2%25E9%25A3%25BE%25E5%25BA%2595%25E4%25B9%25B3EX-SPF27-4%25E6%25AC%25BE%25E4%25BB%25BB%25E9%2581%25B8-11903891.html",
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%25911028-Dew-Block%2521-%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595UV%25E6%25B0%25B4%25E6%25BD%25A4%25E6%25A0%25A1%25E8%2589%25B2%25E9%25A3%25BE%25E5%25BA%2595%25E4%25B9%25B3EX-SPF27%25E2%2598%2585%25E2%2598%2585-%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-%25E9%25A3%25BE%25E5%25BA%2595%25E4%25B9%25B3-i.50662979.42477327161%253FextraParams%253D%257B%2522display_model_id%2522%253A365313998816%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -15961,61 +15805,13 @@
     "pain": "開架外國修容往往顏色不合亞洲人膚色、外型沉重不易攜帶補妝。",
     "skin": "所有人。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=heme%20%E4%BF%AE%E5%AE%B9",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=heme%20%E4%BF%AE%E5%AE%B9",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=heme%20%E4%BF%AE%E5%AE%B9"
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fheme-%25E5%2596%259C%25E8%259C%259C-%25E4%25B8%2589%25E8%2589%25B2%25E4%25BF%25AE%25E5%25AE%25B9%25E9%25A4%2585%25289g%2529-%25E6%25AC%25BE%25E5%25BC%258F%25E5%258F%25AF%25E9%2581%25B8%25E3%2580%2590%25E5%25B0%258F%25E4%25B8%2589%25E7%25BE%258E%25E6%2597%25A5%25E3%2580%2591%25E7%25A9%25BA%25E9%2581%258B%25E7%25A6%2581%25E9%2580%2581-D768439-i.11527054.22735467645%253FextraParams%253D%257B%2522display_model_id%2522%253A204129169576%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "Chifure 經典霧面口紅",
-    "features": "日本高CP值國民品牌、保濕成分配合、顯色度高、可自由搭配外殼。",
-    "pain": "口紅容易乾裂、想多嘗試幾款不同的顏色但預算有限。",
-    "skin": "所有人。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Chifure%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Chifure%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Chifure%20%E5%8F%A3%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "Biore 蜜妮 含水防曬保濕水凝乳",
-    "features": "防曬界長青樹、水感質地如化妝水般輕薄、完全無黏膩厚重感。",
-    "pain": "討厭高係數防曬的黏悶感、擦完防曬後上底妝容易起屑衝突。",
-    "skin": "所有膚質、日常室內與日常上學防曬。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%9C%9C%E5%A6%AE%20%E9%98%B2%E6%9B%AC%20%E6%B0%B4%E5%87%9D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%9C%9C%E5%A6%AE%20%E9%98%B2%E6%9B%AC%20%E6%B0%B4%E5%87%9D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%9C%9C%E5%A6%AE%20%E9%98%B2%E6%9B%AC%20%E6%B0%B4%E5%87%9D%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -16027,17 +15823,15 @@
     "pain": "唇部狀態差、希望有高透亮感又不顯厚重的日常唇彩。",
     "skin": "所有人、極乾唇。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=I%27M%20MEME%20%E5%94%87%E8%83%96",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=I%27M%20MEME%20%E5%94%87%E8%83%96",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=I%27M%20MEME%20%E5%94%87%E8%83%96"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FI-M-MEME-%25E6%2588%2591%25E6%2584%259B%25E5%2594%2587%25E6%25AC%25B2%25E6%25B0%25B4%25E5%2585%2589%25E5%2594%2587%25E9%2587%2589-%25E6%25B0%25B4%25E5%25AB%25A9%25E9%2580%258F%25E4%25BA%25AE%25E5%2598%259F%25E7%25BF%25B9%25E5%2594%2587-10849143.html",
+      "蝦皮商城": "https://aftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590I%2527M-MEME%25E3%2580%2591%25E6%2588%2591%25E6%2584%259B%25E5%2594%2587%25E6%25AC%25B2%25E6%25B0%25B4%25E5%2585%2589%25E5%2594%2587%25E9%2587%2589-i.694450123.18272254426%253FextraParams%253D%257B%2522display_model_id%2522%253A230839600182%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -16049,83 +15843,51 @@
     "pain": "市面開架腮紅常不夠顯色、下午就掉光氣色不佳。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=4U2%20%E8%85%B5%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=4U2%20%E8%85%B5%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=4U2%20%E8%85%B5%E7%B4%85"
+      "蝦皮商城": "https://aftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%25904U2%25E3%2580%2591%25E5%2594%25AF%25E4%25BD%25A0%25E8%25A8%2582%25E8%25A3%25BD%25E5%2588%25BB%25E5%25AD%2597%25E8%2585%25AE%25E7%25B4%2585-%25E9%259C%25A7%25E9%259D%25A2-%25E4%25BA%25AE%25E9%259D%25A2-%2528NG%25E5%2593%2581%2529-2027-101-i.11580883.22544746041%253FextraParams%253D%257B%2522display_model_id%2522%253A196797502626%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "Flormar 經典極細絲滑防水眼線筆",
-    "features": "歐洲平價彩妝黑馬、筆芯柔滑好上色、抗暈染抗淚水。",
-    "pain": "用眼線液筆畫內眼線眼睛敏感難受、尋找柔軟且不暈的眼線膠筆。",
-    "skin": "所有人群。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Flormar%20%E7%9C%BC%E7%B7%9A",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Flormar%20%E7%9C%BC%E7%B7%9A",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Flormar%20%E7%9C%BC%E7%B7%9A"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "Clio 珂莉奧 柔霧慕斯唇釉",
+    "name": "CLIO珂莉奧 水晶糖心光潤唇釉 櫻桃限定版",
     "features": "絲滑慕斯質地、高飽和顯色、極致柔焦暈染暈唇妝。",
     "pain": "霧面唇彩容易卡唇紋、上妝時間久了容易嘴唇乾裂。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Clio%20%E5%94%87%E9%85%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Clio%20%E5%94%87%E9%85%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Clio%20%E5%94%87%E9%85%89"
+      "yahoo購物中心": "https://twcouponcenter.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCLIO%25E7%258F%2582%25E8%258E%2589%25E5%25A5%25A7-%25E6%25B0%25B4%25E6%2599%25B6%25E7%25B3%2596%25E5%25BF%2583%25E5%2585%2589%25E6%25BD%25A4%25E5%2594%2587%25E9%2587%2589-%25E6%25AB%25BB%25E6%25A1%2583%25E9%2599%2590%25E5%25AE%259A%25E7%2589%2588-11952487.html",
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E7%258F%2582%25E8%258E%2589%25E5%25A5%25A7-%25E6%25B0%25B4%25E6%2599%25B6%25E7%25B3%2596%25E5%25BF%2583%25E5%2585%2589%25E6%25BD%25A4%25E5%2594%2587%25E9%2587%2589-%25E6%25AB%25BB%25E6%25A1%2583%25E9%2599%2590%25E5%25AE%259A%25E7%2589%2588%25E3%2580%2590%25E4%25B8%2589%25E5%258F%258B%25E8%2597%25A5%25E5%25A6%259DTomod%2527s%25E3%2580%2591-i.77273431.57356113991%253FextraParams%253D%257B%2522display_model_id%2522%253A350556731568%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "Canmake 完美高效眼影盤",
+    "name": "Judydoll橘朵朵朵四色眼影盤",
     "features": "全霧面細緻粉質、溫和日系配色、可兼作眉粉與眼線色。",
     "pain": "腫泡眼找不到全霧面眼影、不喜歡閃爍亮片、追求自然低調眼妝。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Canmake%20%E7%9C%BC%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Canmake%20%E7%9C%BC%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Canmake%20%E7%9C%BC%E5%BD%B1"
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E6%2596%25B0%25E6%2589%258B%25E5%259B%259B%25E8%2589%25B2-4%25E8%2589%25B2%25E3%2580%2591Judydoll%25E6%25A9%2598%25E6%259C%25B5%25E6%259C%25B5%25E6%259C%25B5%25E5%259B%259B%25E8%2589%25B2%25E7%259C%25BC%25E5%25BD%25B1%25E7%259B%25A4-%25E7%258F%25A0%25E5%2585%2589%25E5%2595%259E%25E5%2585%2589%25E7%25B4%25B0%25E9%2596%2583-%25E9%2598%25B2%25E6%25B0%25B4%25E9%2598%25B2%25E6%25B1%2597%25E4%25B8%258D%25E6%259A%2588%25E6%259F%2593%25E5%25AF%25A6%25E7%2594%25A8%25E7%2599%25BE%25E6%2590%25AD%25E5%25B0%258F%25E5%25B7%25A7%25E4%25BE%25BF%25E6%2594%259C-i.327920197.6562319665%253FextraParams%253D%257B%2522display_model_id%2522%253A31779787286%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -16137,39 +15899,13 @@
     "pain": "高光亮片太大顯毛孔、開架打亮容易發白不自然。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=CEZANNE%20%E6%89%93%E4%BA%AE",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=CEZANNE%20%E6%89%93%E4%BA%AE",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=CEZANNE%20%E6%89%93%E4%BA%AE"
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCezanne-%25E5%25A1%259E%25E5%25B0%259A-%25E7%258F%25A0%25E5%2585%2589%25E4%25BF%25AE%25E5%25AE%25B9%25E9%259C%259C-%25E6%2597%25A5%25E6%259C%25AC-%25E5%2596%25AE%25E8%2589%25B2%25E9%25AB%2598%25E5%2585%2589-%25E6%2589%2593%25E4%25BA%25AE-%25E8%2587%25A5%25E8%25A0%25B6%25E6%258F%2590%25E4%25BA%25AE-%25E9%25A1%25B4%25E9%25AA%25A8%25E6%258F%2590%25E4%25BA%25AE-%25E5%258F%25B0%25E7%2581%25A3%25E7%258F%25BE%25E8%25B2%25A8-%25E5%25BF%25AB%25E9%2580%259F%25E5%2587%25BA%25E8%25B2%25A8%25E3%2580%2590%25E4%25BB%258A%25E5%25A4%25A9%25E4%25B9%259F%25E8%25A6%2581%25E7%25BE%258E%25E7%25BE%258E%25E9%25B4%25A8%25E3%2580%2591-i.4126911.52651798379%253FextraParams%253D%257B%2522display_model_id%2522%253A267179484906%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Excel 絲緞持色唇膏",
-    "features": "柔滑如絲緞、滋潤顯色兼具、極具知性優雅感的大人系調色。",
-    "pain": "開架唇膏顏色太過鮮豔幼稚、嘴唇容易乾燥死皮嚴重。",
-    "skin": "所有人、乾唇人。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Excel%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Excel%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Excel%20%E5%8F%A3%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -16181,17 +15917,15 @@
     "pain": "眼線膠筆太硬畫起來刺痛、內眼線下午就融化乾淨。",
     "skin": "所有膚質、敏感眼周適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Dejavu%20%E7%9C%BC%E7%B7%9A%E8%86%A0%E7%AD%86",
-      "康美": "https://shop.cosmed.com.tw/v2/Search?q=Dejavu%20%E7%9C%BC%E7%B7%9A%E8%86%A0%E7%AD%86",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Dejavu%20%E7%9C%BC%E7%B7%9A%E8%86%A0%E7%AD%86"
+      "yahoo購物中心": "https://aftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fdejavu-%25E5%25B0%25B1%25E6%2598%25AF%25E4%25B8%258D%25E6%259A%2588%25E6%259F%2594%25E9%259C%259C%25E7%259C%25BC%25E8%2586%25A0%25E7%25AD%2586-%25E8%2587%25AA%25E7%2584%25B6%25E6%25A3%2595-9452790.html",
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fdejavu-%25E5%25B0%25B1%25E6%2598%25AF%25E4%25B8%258D%25E6%259A%2588%25E6%258C%2581%25E4%25B9%2585%25E6%259F%2594%25E9%259C%259C%25E7%259C%25BC%25E8%2586%25A0%25E7%25AD%2586-%25E5%258F%25A6%25E6%259C%2589%25E6%2596%25B0%25E6%25AC%25BE%2528%25E5%2585%25B13%25E8%2589%25B2%2529-i.217576770.7515342617%253FextraParams%253D%257B%2522display_model_id%2522%253A257265846195%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -16203,17 +15937,13 @@
     "pain": "擦了高係數防曬後續底妝斑駁起屑、出油脫妝嚴重。",
     "skin": "油性肌、混合肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Kate%20%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Kate%20%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Kate%20%E9%9A%94%E9%9B%A2%E9%9C%9C"
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FKATE-%25E5%2587%25B1%25E5%25A9%25B7%25E9%259B%25B6%25E7%2591%2595%25E8%2582%258C%25E5%25AF%2586%25E9%25AB%2598%25E9%2581%25AE%25E7%2591%2595BB%25E9%259C%259C%25EF%25BC%2588%25E6%258E%25A7%25E6%25B2%25B9%25EF%25BC%2589-EX-1-i.33206500.16679210065%253FextraParams%253D%257B%2522display_model_id%2522%253A181223787015%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -16225,17 +15955,13 @@
     "pain": "用手塗底妝有指紋且不均勻、傳統海綿吃粉嚴重浪費粉底。",
     "skin": "所有人。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Solone%20%E7%B2%89%E6%撲",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Solone%20%E7%B2%89%E6%撲",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Solone%20%E7%B2%89%E6%撲"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSolone-%25E8%25A8%2582%25E8%25A3%25BD-%25E5%25BD%2588%25E5%258A%259B%25E8%25A8%2582%25E8%25A3%25BD%25E8%2588%2592%25E8%258A%2599%25E8%2595%25BE%25E6%25B5%25B7%25E7%25B6%25BF-%2528%25E5%25A4%259A%25E6%25AC%25BE%25E5%258F%25AF%25E9%2581%25B8-%25E7%25B7%259E%25E5%25B8%25B6%25E7%2599%25BD-%25E5%25BD%2588%25E5%258A%259B%25E5%258F%25AF%25E5%258F%25AF%2529%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8%25E3%2580%2591-i.364683762.10473211501%253FextraParams%253D%257B%2522display_model_id%2522%253A140097934037%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -16247,39 +15973,35 @@
     "pain": "眉毛下午就因出油少一塊、粗筆芯容易失手畫成蠟筆小新。",
     "skin": "所有人。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=heme%20%E7%9C%89%E7%AD%86",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=heme%20%E7%9C%89%E7%AD%86",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=heme%20%E7%9C%89%E7%AD%86"
+      "yahoo購物中心": "https://affone.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0704236959341",
+      "蝦皮商城": "https://affone.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fheme-%25E5%2596%259C%25E8%259C%259C-%25E9%2598%25B2%25E6%25B0%25B4%25E6%258C%2581%25E8%2589%25B2%25E7%259C%2589%25E7%25AD%2586%25280.5g%2529-%25E6%25AC%25BE%25E5%25BC%258F%25E5%258F%25AF%25E9%2581%25B8-%25E7%259C%2589%25E5%2588%25B7-%25E8%259E%25BA%25E6%2597%258B%25E7%259C%2589%25E5%2588%25B7-%25E7%259C%25BC%25E5%25A6%259D-%25E5%25AE%258C%25E7%25BE%258E%25E6%258C%2581%25E5%25A6%259D%25E3%2580%2590%25E5%25B0%258F%25E4%25B8%2589%25E7%25BE%258E%25E6%2597%25A5%25E3%2580%2591%25E7%25A9%25BA%25E9%2581%258B%25E7%25A6%2581%25E9%2580%2581-D767524-i.11527054.2272820324%253FextraParams%253D%257B%2522display_model_id%2522%253A4372117044%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "1028 恆采亮白雙效粉餅",
+    "name": "1028 Dew Block!超保濕蜜粉餅",
     "features": "乾濕兩用粉體、全天候控油耐汗、高遮瑕提亮膚色。",
     "pain": "出門在外脫妝浮粉不好補、氣色暗沉蠟黃想快速提亮。",
     "skin": "混合肌、油性肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=1028%20%E7%B2%89%E9%A4%8 biscuits",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=1028%20%E7%B2%89%E9%A4%8 biscuits",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=1028%20%E7%B2%89%E9%A4%8 biscuits"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252F1028-Dew-Block-%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-3%25E8%2589%25B2%25E4%25BB%25BB%25E9%2581%25B8-10684792.html",
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%259D%25A6%25E7%259A%25AE%25E7%259B%25B4%25E7%2587%259F%25E3%2580%25911028-Dew-Block%2521%25E8%25B6%2585%25E4%25BF%259D%25E6%25BF%2595%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-%25E4%25BF%259D%25E6%25BF%2595-%25E6%25A0%25A1%25E8%2589%25B2-%25E5%2585%25A8%25E6%2597%25A5%25E6%258C%2581%25E5%25A6%259D-%25E5%25AE%259A%25E5%25A6%259D-%25E9%2581%25AE%25E7%2591%2595-i.50662979.41172433470%253FextraParams%253D%257B%2522display_model_id%2522%253A196295588418%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -16306,66 +16028,36 @@
     "level": "✨ 平價"
   },
   {
-    "name": "Kiss Me 花漾美姬 一刷睫毛膏卸除液",
-    "features": "獨特齒狀刷頭設計、無須揉搓高效卸除防水睫毛膏、溫和不刺激。",
-    "pain": "防水睫毛膏極難卸除、用卸妝棉過度揉搓導致眼周長細紋掉睫毛。",
-    "skin": "所有人、眼周肌膚嬌嫩者。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Kiss%20Me%20%E5%8D%B8%E7%9D%AB%E8%8A%AC",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Kiss%20Me%20%E5%8D%B8%E7%9D%AB%E8%8A%AC",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Kiss%20Me%20%E5%8D%B8%E7%9D%AB%E8%8A%AC"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
     "name": "Essence 艾森絲 超霧光柔焦定妝噴霧",
     "features": "水霧細緻、長效控油柔焦、消除底妝多餘粉感。",
     "pain": "上完蜜粉後臉部妝感太厚太死白、大熱天底妝容易融化。",
     "skin": "油性肌、混合肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Essence%20%E5%AE%9A%E5%A6%9D%E5%99%B4%E9%9C%A7",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Essence%20%E5%AE%9A%E5%A6%9D%E5%99%B4%E9%9C%A7",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Essence%20%E5%AE%9A%E5%A6%9D%E5%99%B4%E9%9C%A7"
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fessence-%25E8%2589%25BE%25E6%25A3%25AE%25E7%25B5%25B2-%25E9%259C%25A7%25E6%2584%259F%25E5%25AE%259A%25E5%25A6%259D%25E5%2599%25B4%25E9%259C%25A7-i.32687380.40707000284%253FextraParams%253D%257B%2522display_model_id%2522%253A290593112077%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "I'M MEME 我愛特調心機好氣色腮紅盤",
-    "features": "精選調色混搭、粉質絲滑服貼、打造溫柔少女感紅潤雙頰。",
-    "pain": "腮紅單色不夠有層次、大盤修容太重不易攜帶、追求好氣色。",
+    "name": "I'M MEME 我愛微笑單色腮紅",
+    "features": "精選調色、粉質絲滑服貼、打造溫柔少女感紅潤雙頰。",
+    "pain": "腮紅不夠有層次、大盤修容太重不易攜帶、追求好氣色。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=I%27M%20MEME%20%E8%85%B5%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=I%27M%20MEME%20%E8%85%B5%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=I%27M%20MEME%20%E8%85%B5%E7%B4%85"
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590I%2527M-MEME%25E3%2580%2591%25E6%2588%2591%25E6%2584%259B%25E5%25BE%25AE%25E7%25AC%2591%25E5%2596%25AE%25E8%2589%25B2%25E8%2585%25AE%25E7%25B4%2585-%25E7%2583%25A4%25E5%25A5%25B6%25E8%2585%25AE%25E7%25B4%2585-%25286g%2529-HelpBuyKr%25E5%2595%2586%25E5%259F%258E%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8-i.390768289.10252107668%253FextraParams%253D%257B%2522display_model_id%2522%253A120695493988%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -16376,62 +16068,32 @@
     "features": "獨特凝膠質地、洗卸合一、溫和洗淨日常淡妝與防曬。",
     "pain": "用洗卸油怕長痘長閉鎖、下課下班後想快速溫和清除隔離霜與防曬。",
     "skin": "所有膚質、混合肌、油痘肌。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "category": "卸妝",
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Za%20%E5%8D%B8%E5%A6%9D%E8%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Za%20%E5%8D%B8%E5%A6%9D%E8%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Za%20%E5%8D%B8%E5%A6%9D%E8%9C%9C"
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FZa-%25E6%25B8%2585%25E7%259B%2588%25E4%25BF%259D%25E6%25BF%2595%25E5%258D%25B8%25E5%25A6%259D%25E8%259C%259C-i.33206500.49550248200%253FextraParams%253D%257B%2522display_model_id%2522%253A360020722769%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "Integrate 櫻特芮 星綻光空氣飾底乳",
+    "name": "INTEGRATE IE戀彩無瑕水光飾底乳",
     "features": "空氣感輕盈粉體、有效校正膚色蠟黃、打造偽素顏好皮感。",
     "pain": "防曬隔離乳太過油膩悶厚、單擦防曬氣色依然暗沉無光。",
     "skin": "所有膚質、敏弱肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Integrate%20%E9%A3%BE%E5%BA%95%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Integrate%20%E9%A3%BE%E5%BA%95%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Integrate%20%E9%A3%BE%E5%BA%95%E4%B9%B3"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590INTEGRATE%25E3%2580%2591-IE%25E6%2588%2580%25E5%25BD%25A9%25E7%2584%25A1%25E7%2591%2595%25E6%25B0%25B4%25E5%2585%2589%25E9%25A3%25BE%25E5%25BA%2595%25E4%25B9%25B3-%25E5%25A4%259A%25E6%25AC%25BE%25E5%258F%25AF%25E9%2581%25B8-i.33206500.26161633159%253FextraParams%253D%257B%2522display_model_id%2522%253A128050675338%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "Chifure 水潤無瑕高保濕粉底液",
-    "features": "蘊含玻尿酸保濕精華、無香料極致溫和、提亮透亮修飾。",
-    "pain": "預算有限的學生黨尋找不致痘、上妝不乾燥脫皮的平價溫和底妝。",
-    "skin": "乾性肌、混合偏乾肌、全膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Chifure%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Chifure%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Chifure%20%E7%B2%89%E5%BA%95%E6%B0%B2"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -16443,39 +16105,35 @@
     "pain": "高規格社交場合需要完美零瑕疵底妝、討厭平價底妝一到下午就發黑變暗。",
     "skin": "油性肌、混合偏油肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Dior%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Dior%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Dior%20%E7%B2%89%E5%BA%95%E6%B0%B2"
+      "yahoo購物中心": "https://afftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FDior%25E8%25BF%25AA%25E5%25A5%25A7-%25E8%25B6%2585%25E5%25AE%258C%25E7%25BE%258E%25E6%258C%2581%25E4%25B9%2585%25E6%259F%2594%25E9%259C%25A7%25E7%25B2%2589%25E5%25BA%2595%25E6%25B6%25B2-%25E8%25B6%2585%25E5%25AE%258C%25E7%25BE%258E%25E6%258C%2581%25E4%25B9%2585%25E6%259F%2594%25E5%2585%2589%25E7%25B2%2589%25E5%25BA%2595%25E6%25B6%25B2-30ml-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-9923244.html",
+      "蝦皮商城": "https://tlcafftrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FDior-%25E8%25BF%25AA%25E5%25A5%25A7-%25E8%25B6%2585%25E5%25AE%258C%25E7%25BE%258E%25E6%258C%2581%25E4%25B9%2585%25E6%259F%2594%25E9%259C%25A7-%25E6%259F%2594%25E5%2585%2589%25E7%25B2%2589%25E5%25BA%2595%25E6%25B6%25B2-30ml-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-2026%25E6%2596%25B0%25E5%258C%2585%25E8%25A3%259D-i.5750041.16324541720%253FextraParams%253D%257B%2522display_model_id%2522%253A244189633156%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Chanel 香奈兒 原生美肌微滴水粉底",
+    "name": "Chanel 香奈兒 - Ultra Le Teint持久啞緻粉底液",
     "features": "專利微流體科技、微滴粉體一抹爆水、極致法式透明感清透妝容。",
     "pain": "皮膚極度乾燥、不喜歡任何厚重妝感、渴望透出宛如天生好皮膚的光澤。",
     "skin": "乾性肌、極乾肌、熟齡肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E9%A6%99%E5%A5%88%E5%85%92%20%E6%B0%B4%E7%B2%89%E5%BA%95",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E9%A6%99%E5%A5%88%E5%85%92%20%E6%B0%B4%E7%B2%89%E5%BA%95",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E9%A6%99%E5%A5%88%E5%85%92%20%E6%B0%B4%E7%B2%89%E5%BA%95"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCHANEL%25E9%25A6%2599%25E5%25A5%2588%25E5%2585%2592-%25E9%259B%25AA%25E7%25B4%25A1%25E8%25BC%2595%25E9%259C%25A7%25E6%258C%2581%25E4%25B9%2585%25E7%25B2%2589%25E5%25BA%2595-30ml-B10-B20-BD01-BD11-11809600.html",
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FChanel-%25E9%25A6%2599%25E5%25A5%2588%25E5%2585%2592-Ultra-Le-Teint%25E6%258C%2581%25E4%25B9%2585%25E5%2595%259E%25E7%25B7%25BB%25E7%25B2%2589%25E5%25BA%2595%25E6%25B6%25B2-30ml-1oz-i.171452234.22941525662%253FextraParams%253D%257B%2522display_model_id%2522%253A204272712615%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16487,17 +16145,15 @@
     "pain": "表情多容易在法令紋、眼周卡粉斑駁、高溫下底妝迅速浮粉。",
     "skin": "所有膚質、混合肌首選。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%B3%87%E7%94%9F%E5%A0%82%20%E8%B6%85%E9%80%B2%E5%8C%96",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%B3%87%E7%94%9F%E5%A0%82%20%E8%B6%85%E9%80%B2%E5%8C%96",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%B3%87%E7%94%9F%E5%A0%82%20%E8%B6%85%E9%80%B2%E5%8C%96"
+      "yahoo購物中心": "https://vbtrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FSHISEIDO-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582-%25E8%25B6%2585%25E9%2580%25B2%25E5%258C%2596%25E5%2585%2589%25E6%2584%259F%25E7%25B7%258A%25E7%25B7%25BB%25E7%25B2%2589%25E5%25BA%2595-30ML-11656451.html",
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582%25E5%259C%258B%25E9%259A%259B%25E6%25AB%2583%25E3%2580%2591%25E8%25B6%2585%25E9%2580%25B2%25E5%258C%2596%25E6%258C%2581%25E4%25B9%2585%25E7%25B2%2589%25E5%25BA%2595N-SPF-30-30mL-i.1474774804.46055656736%253FextraParams%253D%257B%2522display_model_id%2522%253A425675710252%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16509,17 +16165,13 @@
     "pain": "上妝極易脫皮卡粉、粗糙暗沉、任何平價妝前都救不了的乾燥荒原肌。",
     "skin": "乾性肌、敏弱肌、全膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%82%8C%E8%86%91%E4%B9%8B%E9%91%B0%20%E5%A6%9D%E5%85%8D",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%82%8C%E8%86%91%E4%B9%8B%E9%91%B0%20%E5%A6%9D%E5%85%8D",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%82%8C%E8%86%91%E4%B9%8B%E9%91%B0%20%E5%A6%9D%E5%85%8D"
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252Fcle-de-peau%25E8%2582%258C%25E8%2586%259A%25E4%25B9%258B%25E9%2591%25B0%25E5%2585%2589%25E9%2587%2587%25E7%2584%25A1%25E7%2591%2595%25E5%25A6%259D%25E5%2589%258D%25E5%2587%259D%25E9%259C%259C-37ml-%25E5%25B9%25B3%25E8%25A1%258C%25E8%25BC%25B8%25E5%2585%25A5-eslite%25E8%25AA%25A0%25E5%2593%2581-i.211208801.40409244926%253FextraParams%253D%257B%2522display_model_id%2522%253A275774995338%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16531,17 +16183,13 @@
     "pain": "普通眼影飛粉掉到臉頰、亮片顆粒粗糙顯俗氣、配色不實用。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E7%B4%80%E6%A2%B5%E5%B8%8C%20%E7%9C%9C%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E7%B4%80%E6%A2%B5%E5%B8%8C%20%E7%9C%9C%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E7%B4%80%E6%A2%B5%E5%B8%8C%20%E7%9C%9C%E5%BD%B1"
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E7%25B4%2580%25E6%25A2%25B5%25E5%25B8%258C-%25E9%25AD%2585%25E5%25BD%25A9%25E4%25B9%259D%25E8%2589%25B2%25E7%259C%25BC%25E5%25BD%25B1%25E7%259B%25A4-i.171452234.43723204853%253FextraParams%253D%257B%2522display_model_id%2522%253A286887404128%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16553,17 +16201,15 @@
     "pain": "追求極致高級的大氣眼妝、痛恨平價眼影亮片粗糙毫無質感可言。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Tom%20Ford%20%E7%9C%9C%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Tom%20Ford%20%E7%9C%9C%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Tom%20Ford%20%E7%9C%9C%E5%BD%B1"
+      "yahoo購物中心": "https://affsrc.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FTom-Ford-%25E9%25AB%2598%25E7%25B4%259A%25E8%25A8%2582%25E8%25A3%25BD%25E5%259B%259B%25E6%25A0%25BC%25E7%259C%25BC%25E7%259B%25A4-10g-%25E5%25A4%259A%25E6%25AC%25BE%25E5%258F%25AF%25E9%2581%25B8-10581164.html",
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FTom-Ford-%25E9%25AB%2598%25E7%25B4%259A%25E8%25A8%2582%25E8%25A3%25BD%25E5%259B%259B%25E6%25A0%25BC%25E7%259C%25BC%25E5%25BD%25B1%25E7%259B%25A4-8g-11g-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.48058341705%253FextraParams%253D%257B%2522display_model_id%2522%253A282511340083%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16575,39 +16221,15 @@
     "pain": "出門在外需要快速補妝、傳統氣墊油膩厚重容易悶出痘痘。",
     "skin": "混合肌、油性肌適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=YSL%20%E6%B0%A3%E5%A2%8A",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=YSL%20%E6%B0%A3%E5%A2%8A",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=YSL%20%E6%B0%A3%E5%A2%8A"
+      "yahoo購物中心": "https://twshop4coupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FYSL-%25E6%2581%2586%25E4%25B9%2585%25E5%25AE%258C%25E7%25BE%258E%25E9%259C%25A7%25E5%2585%2589%25E6%25B0%25A3%25E5%25A2%258A%25E7%25B2%2589%25E9%25A4%258514g-%25E5%25A4%259A%25E8%2589%25B2%25E9%2581%25B8-%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8-10655719.html",
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FYVES-SAINT-LAURENT-YSL%25E8%2581%2596%25E7%25BE%2585%25E8%2598%25AD-%25E6%25B0%2594%25E5%259E%25AB%25E7%25B2%2589%25E5%25BA%2595-SPF23-14g-0.49oz-i.171452234.24311320062%253FextraParams%253D%257B%2522display_model_id%2522%253A69393199030%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Bobbi Brown 晶鑽極嫩潤唇膏",
-    "features": "頂級植物精油注入、隨體溫自然修飾蒼白唇色、深層修護死皮。",
-    "pain": "嘴唇長期乾裂死皮多、不喜歡厚重口紅顏色、想展現自然素顏好氣色。",
-    "skin": "所有人、極乾唇首選。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Bobbi%20Brown%20%E6%BD%Arun%E5%94%87",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Bobbi%20Brown%20%E6%BD%Arun%E5%94%87",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Bobbi%20Brown%20%E6%BD%Arun%E5%94%87"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16619,17 +16241,13 @@
     "pain": "尋找具有頂級儀式感的高奢彩妝收藏、討厭普通唇膏的化學異味。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Hermes%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Hermes%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Hermes%20%E5%8F%A3%E7%B4%85"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25F0%259F%2590%258EHERMES-%25E6%2584%259B%25E9%25A6%25AC%25E4%25BB%2595-%25E6%25BD%25A4%25E5%2594%2587%25E8%2586%258F%25F0%259F%2592%2595-%25E9%2599%2584%25E7%25B7%259E%25E5%25B8%25B6%25F0%259F%258E%2580%25E7%25B4%2599%25E8%25A2%258B%25F0%259F%258E%2581%25E9%25A1%258F%25E8%2589%25B2%25E6%259C%2589-14.-27.-30.-49-%25E8%25A3%259C%25E5%2585%2585%25E8%2595%258A%25E8%258A%25AF%25F0%259F%2592%2584%25E7%258F%25BE%25E8%25B2%25A8%25F0%259F%2592%259D%25E5%25B0%2588%25E6%25AB%2583%25E6%25AD%25A3%25E5%2593%2581-i.2695478.10169099980%253FextraParams%253D%257B%2522display_model_id%2522%253A128619559052%252C%2522model_selection_logic%2522%253A3%257D%2526sp_atk%253Dd242795c-243d-4178-adaa-44dd222b0f86%2526xptdk%253Dd242795c-243d-4178-adaa-44dd222b0f86"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16638,42 +16256,36 @@
   {
     "name": "NARS 炫色腮紅 (Orgasm/Deep Throat)",
     "features": "正宗神級腮紅、極致細膩粉質微閃、打造由內而外透出的性感紅潤。",
-    "pain": "開架腮紅不夠持久下午就掉光、或者粉質粗糙顯臉部粗糙毛孔。",
+    "pain": "開架腮紅不夠持久下午就掉光、粉質粗糙顯臉部粗糙毛孔。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARS%20%E7%83%AB%E8%85%B5",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NARS%20%E7%83%AB%E8%85%B5",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NARS%20%E7%83%AB%E8%85%B5"
+      "yahoo購物中心": "https://twshop4coupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FNARS-%25E7%2582%25AB%25E8%2589%25B2%25E8%2585%25AE%25E7%25B4%2585-4-8g-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-11636840.html",
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FNARS-%25E7%2582%25AB%25E8%2589%25B2%25E8%2585%25AE%25E7%25B4%2585%25280.16oz-4.8g%2529-901-903-900-%25E5%259C%258B%25E9%259A%259B%25E8%2588%25AA%25E7%25A9%25BA%25E7%2589%2588%25E3%2580%2590%25E7%25BE%258E%25E9%25BA%2597%25E8%25B3%25BC%25E3%2580%2591-i.10594066.2962429471%253FextraParams%253D%257B%2522display_model_id%2522%253A35690995932%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Laura Mercier 蘿拉蜜思 摩登精華唇膏",
+    "name": "蘿拉蜜思 - 高感緞光鎖色唇膏",
     "features": "高飽和奶霜質地、極度滋潤服貼、低調奢華的中性裸色調完美。",
     "pain": "擦霧面口紅死皮顯眼、顏色太亮不適合職場與日常法式歐式穿搭。",
     "skin": "所有人、乾唇人偏愛。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Laura%20Mercier%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Laura%20Mercier%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Laura%20Mercier%20%E5%8F%A3%E7%B4%85"
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E8%2598%25BF%25E6%258B%2589%25E8%259C%259C%25E6%2580%259D-%25E9%25AB%2598%25E6%2584%259F%25E7%25B7%259E%25E5%2585%2589%25E9%258E%2596%25E8%2589%25B2%25E5%2594%2587%25E8%2586%258F-i.171452234.41473204180%253FextraParams%253D%257B%2522display_model_id%2522%253A271887044109%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16685,55 +16297,28 @@
     "pain": "手抖星人畫眼線經常畫粗、下午眼尾出油眼線就完全消失糊掉。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E7%9C%BC%E7%B7%9A%E6%B0%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E7%9C%BC%E7%B7%9A%E6%B0%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E7%9C%BC%E7%B7%9A%E6%B0%B2"
+      "蝦皮商城": "https://afftck.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FMAC-Brushstroke-24-%25E5%25B0%258F%25E6%2599%2582%25E7%259C%25BC%25E7%25B7%259A%25E6%25B6%25B2-i.171452234.22141545206%253FextraParams%253D%257B%2522display_model_id%2522%253A186722912454%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Chicca 水潤清透唇膏",
-    "features": "日本頂級清透美學、5/5校色薄透自然、打造水嫩優雅的極致偽素顏。",
-    "pain": "討厭濃郁高飽和妝感、擦完口紅顯得過於前衛銳利、追求低調舒適。",
-    "skin": "所有膚質、乾唇人。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Chicca%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Chicca%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Chicca%20%E5%8F%A3%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Suqqu 晶采淨妍蜜粉餅",
+    "name": "SUQQU 晶采光艷粉餅",
     "features": "頂級日系貴婦濾鏡、超細緻偏光極速修飾毛孔暗沉、完全不改底妝色。",
     "pain": "定妝後臉部顯得死白毫無立體感、或者下午肌膚乾燥緊繃不舒服。",
     "skin": "所有膚質、特別適合混合肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Suqqu%20%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Suqqu%20%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Suqqu%20%E8%9C%9C%E7%B2%89"
+      "yahoo購物中心": "https://afflnk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FSUQQU-%25E5%2585%2589%25E8%2589%25B7%25E7%25B2%2589%25E9%25A4%2585%25E7%259B%2592-10483940.html",
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSUQQU-%25E6%2599%25B6%25E9%2587%2587%25E5%2585%2589%25E8%2589%25B7%25E7%25B2%2589%25E9%25A4%2585%2528%25E8%2595%258A%2529-10g-%2528%25E5%25A4%259A%25E8%2589%25B2%25E4%25BB%25BB%25E9%2581%25B8%2529-i.110851857.8531611661%253FextraParams%253D%257B%2522display_model_id%2522%253A350587749450%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
@@ -16746,44 +16331,20 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "RMK 絲柔霧光口紅",
+    "name": "RMK 暮光柔霧口紅",
     "features": "絲絨般柔軟質地、兼具霧面質感與絕佳滋潤度、日系優雅調色。",
     "pain": "一般的霧面唇膏擦起來太乾，容易顯唇紋且讓雙唇感到緊繃。",
     "skin": "所有膚質、乾唇適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=RMK%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=RMK%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=RMK%20%E5%8F%A3%E7%B4%85"
+      "yahoo購物中心": "https://afftkr.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FRMK-%25E6%259A%25AE%25E5%2585%2589%25E6%259F%2594%25E9%259C%25A7%25E5%258F%25A3%25E7%25B4%2585-4-0g-%25E5%25A4%259A%25E8%2589%25B2%25E4%25BB%25BB%25E9%2581%25B8-11509057.html",
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FRMK-%25E6%259A%25AE%25E5%2585%2589%25E6%259F%2594%25E9%259C%25A7%25E5%258F%25A3%25E7%25B4%2585-4.0g-%2528%25E5%25A4%259A%25E8%2589%25B2%25E4%25BB%25BB%25E9%2581%25B8%2529-%2528EX04-EX05-EX06%2529-%2528%25E6%2595%2588%25E6%259C%259F2027-07%2529-i.110851857.27616586695%253FextraParams%253D%257B%2522display_model_id%2522%253A233421507527%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Addiction 肌嫩粉顏頰彩蜜",
-    "features": "水質地液態腮紅、能完美融入肌膚、打造如肌膚底層透出的自然血色感。",
-    "pain": "粉狀腮紅容易卡粉、浮粉，或在臉上留下明顯的粉感痕跡。",
-    "skin": "所有膚質、特別推薦乾性肌與混合肌。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Addiction%20%E8%85%B5%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Addiction%20%E8%85%B5%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Addiction%20%E8%85%B5%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16795,39 +16356,15 @@
     "pain": "普通眉筆容易結塊、顯色度太高導致眉毛畫得太粗太假。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E6%A4%8D%E6%9D%91%E7%A7%80%20%E7%9C%9B%E7%AD%86",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E6%A4%8D%E6%9D%91%E7%A7%80%20%E7%9C%9B%E7%AD%86",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E6%A4%8D%E6%9D%91%E7%A7%80%20%E7%9C%9B%E7%AD%86"
+      "yahoo購物中心": "https://affclkr.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FShu-Uemura%25E6%25A4%258D%25E6%259D%2591%25E7%25A7%2580-%25E6%25AD%25A6%25E5%25A3%25AB%25E5%2588%2580%25E7%259C%2589%25E7%25AD%2586-%25E5%2585%25A9%25E6%25AC%25BE%25E4%25BB%25BB%25E9%2581%25B8-12113192.html",
+      "蝦皮商城": "https://twcouponcenter.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%25A4%258D%25E6%259D%2591%25E7%25A7%2580-%25E8%2587%25AA%25E5%258B%2595%25E6%25AD%25A6%25E5%25A3%25AB%25E5%2588%2580%25E7%259C%2589%25E7%25AD%2586-%25E7%259C%2589%25E7%25AD%2586-%25E6%25AD%25A6%25E5%25A3%25AB%25E5%2588%2580%25E7%259C%2589%25E7%25AD%2586-%25E5%25BD%25A9%25E5%25A6%259D%25EF%25BD%259CShu-uemura-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-i.747940835.18002849871%253FextraParams%253D%257B%2522display_model_id%2522%253A285565264061%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Lunasol 日月晶采 經典四格眼影盤",
-    "features": "細緻的大地色系天花板、粉質綿密貼膚、低調閃爍的日常輕奢感。",
-    "pain": "不擅長搭配眼影配色、開架大地色容易顯髒，需要實用好上手的知性眼盤。",
-    "skin": "所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Lunasol%20%E7%9C%BC%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Lunasol%20%E7%9C%BC%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Lunasol%20%E7%9C%BC%E5%BD%B1"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -16839,65 +16376,19 @@
     "pain": "上了控油蜜粉後臉部變得毫無光澤，甚至因為太乾燥而脫皮卡粉。",
     "skin": "所有膚質、特別適合混合偏乾與乾性肌膚。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Bobbi%20Brown%20%E8%9C%9C%E7%B2%89%E9%A4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Bobbi%20Brown%20%E8%9C%9C%E7%B2%89%E9%A4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Bobbi%20Brown%20%E8%9C%9C%E7%B2%89%E9%A4%85"
+      "yahoo購物中心": "https://affclk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FBOBBI-BROWN-%25E8%258A%25AD%25E6%25AF%2594%25E6%25B3%25A2%25E6%259C%2597-%25E5%25BD%25B7%25E8%258B%25A5%25E8%25A3%25B8%25E8%2586%259A%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585--6921223.html",
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FBobbi-Brown-%25E8%258A%25AD%25E6%25AF%2594%25E6%25B3%25A2%25E6%259C%2597-%25E5%25BD%25B7%25E8%258B%25A5%25E8%25A3%25B8%25E8%2586%259A%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-6.6g-0.23oz-i.171452234.3137464868%253FextraParams%253D%257B%2522display_model_id%2522%253A15757551799%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Opera 渲染星采唇膏",
-    "features": "極致水潤的水光質地、隨唇部水分感應變色、自然清透透明感。",
-    "pain": "雙唇容易乾裂不適合死板的口紅、追求偽素顏般的自然紅潤氣色。",
-    "skin": "所有膚質、乾唇人必備。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Opera%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Opera%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Opera%20%E5%8F%A3%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Kate 凱婷 3D造型眉粉餅",
-    "features": "經典三色漸層搭配、粉質服貼自然、兼具畫眉、鼻影與修容功能。",
-    "pain": "眉毛邊緣線條太過生硬、畫不出眉頭的自然蓬鬆柔霧感。",
-    "skin": "所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Kate%20%E7%9C%B8%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Kate%20%E7%9C%B8%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Kate%20%E7%9C%B8%E7%B2%89"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
   },
   {
     "name": "Canmake 輕透柔光蜜粉餅",
@@ -16905,43 +16396,17 @@
     "pain": "夏日出油毛孔粗大、開架蜜粉粉質粗糙容易在鼻翼結塊卡粉。",
     "skin": "混合肌、油性肌適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Canmake%20%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Canmake%20%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Canmake%20%E8%9C%9C%E7%B2%89"
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCANMAKE-%25E5%2585%2589%25E9%2580%258F%25E4%25BA%25AE%25E6%25BE%25A4%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E7%259B%25B4%25E7%2587%259F-%25E7%25BE%258E%25E6%25BB%25BF%25E5%25A0%2582Beautyfull%25E3%2580%2591-i.79641701.44424602268%253FextraParams%253D%257B%2522display_model_id%2522%253A406345690977%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
-  },
-  {
-    "name": "CEZANNE 塞尚 浪漫絲絨潤色腮紅",
-    "features": "含微細珍珠粉末、輕刷即可帶來紅潤好氣色、平價實用調色。",
-    "pain": "臉色蒼白沒精神、預算有限想尋找百搭且不失手的日常腮紅。",
-    "skin": "所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=CEZANNE%20%E8%85%B5%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=CEZANNE%20%E8%85%B5%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=CEZANNE%20%E8%85%B5%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
   },
   {
     "name": "Excel 裸色深邃四格眼影盤",
@@ -16949,87 +16414,17 @@
     "pain": "亮片太大顯得妝感庸俗、開架眼影粉質粗糙容易飛粉掉進眼睛。",
     "skin": "所有膚質、新手友善。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Excel%20%E7%9C%BC%E5%BD%B1",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Excel%20%E7%9C%BC%E5%BD%B1",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Excel%20%E7%9C%BC%E5%BD%B1"
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E6%2597%25A5%25E6%259C%25AC-excel-%25E7%259C%25BC%25E5%25BD%25B1-%25E5%259B%259B%25E8%2589%25B2%25E7%259C%25BC%25E5%25BD%25B1-%25E8%25A3%25B8%25E8%2589%25B2%25E6%25B7%25B1%25E9%2582%2583%25E7%259C%25BC%25E5%25BD%25B1-SR%25E7%25B3%25BB%25E5%2588%2597-SR01-SR03-SR06-%25E9%2598%25BF%25E5%25BF%2597%25E5%25B0%258F%25E8%2588%2596-i.4514571.25452376385%253FextraParams%253D%257B%2522display_model_id%2522%253A197183341064%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
-  },
-  {
-    "name": "Kiss Me 花漾美姬 超持久極細眼線液筆",
-    "features": "極細0.1mm筆尖、極度防淚防水防皮脂、出水流暢均勻。",
-    "pain": "眼皮極易出油導致眼線下午就暈成熊貓眼、線條不流暢流眼淚就掉光。",
-    "skin": "油性肌、油眼皮、所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Kiss%20Me%20%E7%9C%BC%E7%B7%9A%E7%AD%86",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Kiss%20Me%20%E7%9C%BC%E7%B7%9A%E7%AD%86",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Kiss%20Me%20%E7%9C%BC%E7%B7%9A%E7%AD%86"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "Sofina 蘇菲娜 漾緁控油瓷效妝前隔離乳",
-    "features": "強效控油配方、提亮修正膚色、長時間維持底妝乾爽服貼。",
-    "pain": "台灣夏天高溫悶熱、T字部位瘋狂出油導致底妝融化脫妝嚴重。",
-    "skin": "油性肌、混合偏油肌適用。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Sofina%20%E9%9A%94%E9%9B%A2%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Sofina%20%E9%9A%94%E9%9B%A2%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Sofina%20%E9%9A%94%E9%9B%A2%E4%B9%B3"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "1028 飛激長瞬翹防水睫毛膏",
-    "features": "獨特瞬翹防水定型配方、極致打造根根分明的纖長感、抗暈耐汗。",
-    "pain": "睫毛短小扁塌、刷睫毛容易結塊成蟑螂腳、下午因眼油而下垂。",
-    "skin": "所有人、油眼皮適用。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=1028%20%E5%A5%89%E6%AF%9B%E8%8G%A0",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=1028%20%E5%A5%89%E6%AF%9B%E8%8G%A0",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=1028%20%E5%A5%89%E6%AF%9B%E8%8G%A0"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
   },
   {
     "name": "Solone 持久流線眼線膠筆",
@@ -17037,39 +16432,13 @@
     "pain": "一般的眼線膠筆過硬拉扯眼皮痛、內眼線一到下午就溶成黑眼圈。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Solone%20%E7%9C%BC%E7%B7%9A%E8%86%A0%E7%AD%86",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Solone%20%E7%9C%BC%E7%B7%9A%E8%86%A0%E7%AD%86",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Solone%20%E7%9C%BC%E7%B7%9A%E8%86%A0%E7%AD%86"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FSolone-%25E4%25BF%2590%25E8%2590%25BD%25E6%2596%259C%25E5%2588%2580%25E7%259C%25BC%25E7%25B7%259A%25E8%2586%25A0%25E7%25AD%2586-%25282%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8%2529%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8%25E3%2580%2591-i.364683762.57757153407%253FextraParams%253D%257B%2522display_model_id%2522%253A365638567816%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
-  },
-  {
-    "name": "heme 喜蜜 三色修容餅",
-    "features": "專為亞洲肌膚調配的冷暖灰色調、粉質細緻好暈染、打造自然陰影。",
-    "pain": "歐美修容顏色太紅或太橘，在臉上顯得突兀且妝感髒髒的不自然。",
-    "skin": "所有膚質。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=heme%20%E4%BF%AE%E5%AE%B9",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=heme%20%E4%BF%AE%E5%AE%B9",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=heme%20%E4%BF%AE%E5%AE%B9"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -17081,43 +16450,17 @@
     "pain": "敏弱肌膚或痘痘肌擔心液態粉底太悶引發過敏發炎、出門在外不好補妝。",
     "skin": "所有膚質、敏弱肌、油痘肌友善。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Integrate%20%E7%B2%89%E9%A4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Integrate%20%E7%B2%89%E9%A4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Integrate%20%E7%B2%89%E9%A4%85"
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FINTEGRATE-%25E6%259F%2594%25E7%2584%25A6%25E8%25BC%2595%25E9%2580%258F%25E7%25BE%258E%25E8%2582%258C%25E7%25B2%2589%25E9%25A4%2585nOC00-%25E3%2580%2590%25E4%25B8%258D%25E5%2590%25AB%25E7%25B2%2589%25E9%25A4%2585%25E7%259B%2592%25E3%2580%259110g-i.28944793.24357685905%253FextraParams%253D%257B%2522display_model_id%2522%253A197264359085%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
-  },
-  {
-    "name": "Chifure 唇膏 (經典藍管/替換芯)",
-    "features": "添加玻尿酸保濕成分、極致平價且無香料安全配方、多款日常實用色。",
-    "pain": "預算有限想多收幾個口紅顏色、不喜歡開架唇膏濃重的化學香精味。",
-    "skin": "所有膚質、所有人。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Chifure%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Chifure%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Chifure%20%E5%8F%A3%E7%B4%85"
-    },
-    "prices": {
-      "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "平價",
-    "level": "✨ 平價"
   },
   {
     "name": "Za 美白隔離霜",
@@ -17125,39 +16468,33 @@
     "pain": "每天出門上課通勤需要防曬，又不希望擦防曬油膩厚重導致長痘痘。",
     "skin": "所有膚質、偏油與混合肌適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Za%20%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Za%20%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Za%20%E9%9A%94%E9%9B%A2%E9%9C%9C"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FZa-%25E7%25BE%258E%25E7%2599%25BD%25E9%259A%2594%25E9%259B%25A2%25E9%259C%259C-35g-%25E5%25AE%2598%25E6%2596%25B9%25E6%2597%2597%25E8%2589%25A6%25E5%25BA%2597-SPF34-36-PA-%25EF%25BC%2588%25E5%258B%25BB%25E9%2580%258F%25E7%25B6%25A0%25EF%25BC%258F%25E9%2580%258F%25E4%25BA%25AE%25E7%25B4%25AB%25EF%25BC%258F%25E6%259F%2594%25E5%2585%2589%25E7%25B2%2589%25EF%25BC%258F%25E7%25B6%2593%25E5%2585%25B8%25E7%2599%25BD%25EF%25BC%2589-%25E5%25A6%259D%25E5%2589%258D-%25E9%2598%25B2%25E6%259B%25AC-i.831404629.17099428271%253FextraParams%253D%257B%2522display_model_id%2522%253A214720450616%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (低價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
     "level": "✨ 平價"
   },
   {
-    "name": "I'M MEME 我愛神盾控油蜜粉餅",
+    "name": "I'M MEME 我愛光透/修膚/控油/好氣色柔焦蜜粉餅",
     "features": "植物萃取透明礦物粉體、吸附多餘皮脂不乾裂、維持肌膚清爽。",
     "pain": "瀏海因為額頭出油而變得一絲一絲的、底妝下午出油脫妝發亮。",
     "skin": "油性肌、混合偏油肌適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=I%27M%20MEME%20%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=I%27M%20MEME%20%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=I%27M%20MEME%20%E8%9C%9C%E7%B2%89"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FI-M-MEME-%25E6%2588%2591%25E6%2584%259B%25E6%258E%25A7%25E6%25B2%25B9-%25E5%25A5%25BD%25E6%25B0%25A3%25E8%2589%25B2-%25E5%2585%2589%25E9%2580%258F%25E6%259F%2594%25E7%2584%25A6%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-10853321.html",
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590I%2527M-MEME%25E3%2580%2591%25E6%2588%2591%25E6%2584%259B%25E5%2585%2589%25E9%2580%258F-%25E4%25BF%25AE%25E8%2586%259A-%25E6%258E%25A7%25E6%25B2%25B9-%25E5%25A5%25BD%25E6%25B0%25A3%25E8%2589%25B2%25E6%259F%2594%25E7%2584%25A6%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-%25E6%25A0%25A1%25E6%25AD%25A3%25E6%259A%2597%25E6%25B2%2589-%25E6%259F%2594%25E7%2584%25A6%25E6%258C%2581%25E5%25A6%259D-%25E4%25BF%25AE%25E9%25A3%25BE%25E6%25AF%259B%25E5%25AD%2594%25EF%25BD%259C%25E5%25AE%2598%25E6%2596%25B9%25E7%259B%25B4%25E7%2587%259F-i.694450123.21028557615%253FextraParams%253D%257B%2522display_model_id%2522%253A201477474838%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17200,66 +16537,36 @@
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Lancome 蘭蔻 超極光精華水粉底",
+    "name": "Lancome 蘭蔻 - 水感奇蹟恆久光粉底SPF 15",
     "features": "注入極光水精華、邊上妝邊高保濕、打造細緻透亮的水光肌底妝。",
     "pain": "肌膚乾燥上妝容易脫皮、起屑，討厭死板沒有光澤感的霧面底妝。",
     "skin": "乾性肌、混合偏乾肌首選。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E8%98%AD%E8%94%BB%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E8%98%AD%E8%94%BB%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E8%98%AD%E8%94%BB%20%E7%B2%89%E5%BA%95%E6%B0%B2"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FLancome-%25E8%2598%25AD%25E8%2594%25BB-%25E6%25B0%25B4%25E6%2584%259F%25E5%25A5%2587%25E8%25B9%259F%25E6%2581%2586%25E4%25B9%2585%25E5%2585%2589%25E7%25B2%2589%25E5%25BA%2595SPF-15-i.171452234.6725275929%253FextraParams%253D%257B%2522display_model_id%2522%253A15760096299%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "NARS 裸光蜜粉餅 (小白餅)",
-    "features": "獨家微光感專利、定妝完全不改底妝原本色澤、控油同時柔焦毛孔。",
-    "pain": "定妝後漂亮的底妝光澤被消掉、或者蜜粉太厚重導致臉部發白無立體感。",
-    "skin": "所有膚質、混合肌熱搜首選。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=NARS%20%E5%B0%8F%E7%99%BD%E9%A4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=NARS%20%E5%B0%8F%E7%99%BD%E9%A4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=NARS%20%E5%B0%8F%E7%99%BD%E9%A4%85"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Armani Beauty 亞曼尼 超持妝絲絨水慕斯粉底",
+    "name": "GIORGIO ARMANI 超持妝絲絨水慕斯無瑕氣墊粉餅",
     "features": "獨家超微服貼粉體、高遮瑕卻如同第二層肌膚般輕薄、高級半霧面妝效。",
     "pain": "需要高遮瑕度但痛恨厚重面具感、希望底妝到深夜依然細緻精緻。",
     "skin": "所有膚質、混合偏油肌推薦。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Armani%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Armani%20%E7%B2%89%E5%BA%95%E6%B0%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Armani%20%E7%B2%89%E5%BA%95%E6%B0%B2"
+      "yahoo購物中心": "https://abzcoupon.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FGIORGIO-ARMANI-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E7%25B5%25B2%25E7%25B5%25A8%25E6%25B0%25B4%25E6%2585%2595%25E6%2596%25AF%25E7%2584%25A1%25E7%2591%2595%25E6%25B0%25A3%25E5%25A2%258A%25E7%25B2%2589%25E9%25A4%2585-%25E7%25B2%2589%25E8%2595%258A-14g-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E7%25B5%25B2%25E7%25B5%25A8%25E6%25B0%25B4%25E6%2585%2595%25E6%2596%25AF%25E7%2584%25A1%25E7%2591%2595%25E6%25B0%25A3%25E5%25A2%258A%25E7%25B2%2589-11587889.html"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -17271,17 +16578,15 @@
     "pain": "大熱天底妝容易土石流融化、眼周細紋上了蜜粉容易卡粉結塊。",
     "skin": "所有膚質、中油性肌愛用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Laura%20Mercier%20%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Laura%20Mercier%20%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Laura%20Mercier%20%E8%9C%9C%E7%B2%89"
+      "yahoo購物中心": "https://twcouponcenter.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Flaura-mercier%25E8%2598%25BF%25E6%258B%2589%25E8%259C%259C%25E6%2580%259D-%25E7%2585%25A5%25E9%25A1%258F%25E9%2580%258F%25E6%2598%258E%25E8%259C%259C%25E7%25B2%258929g-%25E9%2580%258F%25E6%2598%258E%25E8%2589%25B2-%25E5%259C%258B%25E9%259A%259B%25E8%2588%25AA%25E7%25A9%25BA%25E7%2589%2588-9847760.html",
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FLaura-Mercier-%25E8%2598%25BF%25E6%258B%2589%25E8%259C%259C%25E6%2580%259D-%25E7%2585%25A5%25E9%25A1%258F%25E9%2580%258F%25E6%2598%258E%25E8%259C%259C%25E7%25B2%2589-29g-%25E6%2595%25A3%25E7%25B2%2589-%25E7%25B8%25BD%25E4%25BB%25A3%25E7%2590%2586%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8%25EF%25BC%258DWBK-%25E5%25AF%25B6%25E6%25A0%25BC%25E9%2581%25B8%25E7%2589%25A9-i.21975525.27480887367%253FextraParams%253D%257B%2522display_model_id%2522%253A215920846943%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -17293,17 +16598,15 @@
     "pain": "氣色暗沉沒有朝氣、尋找能提升底妝高級感且兼具收藏價值的彩妝頂配。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E5%AC%AF%E8%98%AD%20%E8%9C%9C%E7%B2%89%E7%90%83",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E5%AC%AF%E8%98%AD%20%E8%9C%9C%E7%B2%89%E7%90%83",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E5%AC%AF%E8%98%AD%20%E8%9C%9C%E7%B2%89%E7%90%83"
+      "yahoo購物中心": "https://vbtrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FGUERLAIN-%25E5%25AC%258C%25E8%2598%25AD-%25E5%25B9%25BB%25E5%25BD%25A9%25E6%25B5%2581%25E6%2598%259F%25E8%259C%259C%25E7%25B2%2589%25E7%2590%2583-02-%25E5%2586%25B7%25E7%2599%25BD%25E7%259A%2599-11483942.html",
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FGUERLAIN-%25E5%25AC%258C%25E8%2598%25AD-%25E5%25B9%25BB%25E5%25BD%25A9%25E6%25B5%2581%25E6%2598%259F%25E8%259C%259C%25E7%25B2%2589%25E7%2590%2583-02%25E5%2586%25B7%25E7%2599%25BD%25E7%259A%2599-%25E5%25B9%25B3%25E8%25A1%258C%25E8%25BC%25B8%25E5%2585%25A5-eslite%25E8%25AA%25A0%25E5%2593%2581-i.211208801.45714923961%253FextraParams%253D%257B%2522display_model_id%2522%253A421281235266%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -17315,105 +16618,53 @@
     "pain": "普通的口紅調色不夠優雅知性、追求質感的低調經典色澤調配。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=%E9%A6%99%E5%A5%88%E5%85%92%20%E5%8F%A3%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=%E9%A6%99%E5%A5%88%E5%85%92%20%E5%8F%A3%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=%E9%A6%99%E5%A5%88%E5%85%92%20%E5%8F%A3%E7%B4%85"
+      "yahoo購物中心": "https://vbshoptrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCHANEL-%25E9%25A6%2599%25E5%25A5%2588%25E5%2585%2592-%25E8%25B6%2585%25E7%2582%25AB%25E8%2580%2580%25E7%259A%2584%25E7%25B5%25B2%25E7%25B5%25A8%25E5%2594%2587%25E8%2586%258F-3-5g-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E8%258F%25B1%25E6%25A0%25BC%25E7%25B4%258B%25E9%2599%2590%25E5%25AE%259A%25E7%2589%2588-12015994.html",
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FChanel-%25E9%25A6%2599%25E5%25A5%2588%25E5%2585%2592-%25E9%25A6%2599%25E5%25A5%2588%25E5%2585%2592%25E8%25B6%2585%25E7%2582%25AB%25E8%2580%2580%25E7%259A%2584%25E7%25B5%25B2%25E7%25B5%25A8%25E5%2594%2587%25E8%2586%258F-i.171452234.7935722075%253FextraParams%253D%257B%2522display_model_id%2522%253A18707426366%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "Clio 珂莉奧 新世代空氣感氣墊粉餅",
+    "name": "珂莉奧 黑鑽裸光濾鏡氣墊粉餅",
     "features": "輕薄高遮瑕配方、快速拍出無瑕透亮底妝、長效服貼防汗。",
     "pain": "出門在外補妝不便、不喜歡液態粉底上妝手會弄髒的繁瑣過程。",
     "skin": "混合肌、所有人適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Clio%20%E6%B0%A3%E5%A2%8A",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Clio%20%E6%B0%A3%E5%A2%8A",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Clio%20%E6%B0%A3%E5%A2%8A"
+      "yahoo購物中心": "https://aftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCLIO-%25E7%258F%2582%25E8%258E%2589%25E5%25A5%25A7-%25E9%25BB%2591%25E9%2591%25BD%25E8%25A3%25B8%25E5%2585%2589%25E6%25BF%25BE%25E9%258F%25A1%25E6%25B0%25A3%25E5%25A2%258A%25E7%25B2%2589%25E9%25A4%2585-SPF40-PA-15gX2-12102091.html",
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E7%258F%2582%25E8%258E%2589%25E5%25A5%25A7-%25E9%25BB%2591%25E9%2591%25BD%25E8%25A3%25B8%25E5%2585%2589%25E6%25BF%25BE%25E9%258F%25A1%25E6%25B0%25A3%25E5%25A2%258A%25E7%25B2%2589%25E9%25A4%2585-SPF40-PA-%252823N%25E8%2587%25AA%25E7%2584%25B6%25E8%2589%25B2%2529-i.28944793.41431172323%253FextraParams%253D%257B%2522display_model_id%2522%253A405968067348%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "Benefit Basic 嘖嘖稱齊爆水孔隱形露",
-    "features": "專利矽膠凝膠質地、瞬間平滑肌膚毛孔與凹凸不平、控油貼妝。",
-    "pain": "上完粉底後鼻翼與雙頰的毛孔反而更明顯白頭外露、出油嚴重。",
-    "skin": "粗大毛孔肌、油性肌、混合肌偏油適用。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Benefit%20%E6%AF%9B%E5%AD%94",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Benefit%20%E6%AF%9B%E5%AD%94",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Benefit%20%E6%AF%9B%E5%AD%94"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "Urban Decay 長效全天候定妝噴霧",
-    "features": "全球彩妝師公認持妝天花板、控油定妝、防止底妝融化斑駁與成膜。",
-    "pain": "大熱天帶妝出門不到中午就全臉脫妝、喝水或戴口罩把底妝全沾光。",
-    "skin": "所有膚質、中油性肌強烈推薦。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Urban%20Decay%20%E5%AE%9A%E5%A6%9D",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Urban%20Decay%20%E5%AE%9A%E5%A6%9D",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Urban%20Decay%20%E5%AE%9A%E5%A6%9D"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "excel 絲緞肌緻控油妝前乳",
+    "name": "Judydoll橘朵妝前霜",
     "features": "輕盈的保濕與控油平衡配方，細緻微修飾膚色。",
     "pain": "擦一般高控油妝前乳容易脫皮、但又容易長痘，這款能做到溫和控油、不悶臉。",
     "skin": "混合肌、敏感肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=excel%20%E7%B5%B2%E7%B7%A5%E8%A3%A0%E7%B7%BB%E6%8E%A7%E6%B2%B9%E5%A6%9D%E5%89%8D%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=excel%20%E7%B5%B2%E7%B7%A5%E8%A3%A0%E7%B7%BB%E6%8E%A7%E6%B2%B9%E5%A6%9D%E5%89%8D%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=excel%20%E7%B5%B2%E7%B7%A5%E8%A3%A0%E7%B7%BB%E6%8E%A7%E6%B2%B9%E5%A6%9D%E5%89%8D%E4%B9%B3"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590%25E5%2586%25B0%25E7%25BE%258E%25E5%25BC%258F-%25E6%25A9%2598%25E5%25AD%2590%25E6%25B5%25B7%25E3%2580%2591Judydoll%25E6%25A9%2598%25E6%259C%25B5%25E5%25A6%259D%25E5%2589%258D%25E9%259C%259C-%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-%25E6%25BB%258B%25E6%25BD%25A4%25E4%25BF%25AE%25E9%25A3%25BE%25E6%258F%2590%25E4%25BA%25AE%25E8%2586%259A%25E8%2589%25B2%25E9%259A%25B1%25E5%25BD%25A2%25E6%25AF%259B%25E5%25AD%2594-%25E4%25BF%259D%25E6%25BF%2595%25E4%25B8%258D%25E8%2584%25AB%25E5%25A6%259D%25E4%25B9%25BE%25E7%259A%25AE%25E6%258E%25A8%25E8%2596%25A6-i.327920197.19370368037%253FextraParams%253D%257B%2522display_model_id%2522%253A213667854145%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17425,39 +16676,31 @@
     "pain": "討厭一般睫毛膏太過濃密、容易結塊變蟑螂腳的生硬妝感，追求宛如天生纖長、根根分明的自然眼神。",
     "skin": "所有人群。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=ettusais%20%E9%AD%94%E6%9D%9F%E6%8D%A2%E7%BF%AC%E5%A5%89%E6%AF%9B%E5%BA%95%E8%80%82",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=ettusais%20%E9%AD%94%E6%9D%9F%E6%8D%A2%E7%BF%AC%E5%A5%89%E6%AF%9B%E5%BA%95%E8%80%82",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=ettusais%20%E9%AD%94%E6%9D%9F%E6%8D%A2%E7%BF%AC%E5%A5%89%E6%AF%9B%E5%BA%95%E8%80%82"
+      "蝦皮商城": "https://affclkr.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FEttusais-%25E8%2589%25BE%25E6%259D%259C%25E7%25B4%2597-%25E9%25AD%2594%25E6%259D%259F%25E6%258D%25B2%25E7%25BF%25B9%25E7%259D%25AB%25E6%25AF%259B%25E5%25BA%2595%25E8%2586%258F-6g%25E3%2580%2590watashi-%25E8%25B3%2587%25E7%2594%259F%25E5%25A0%2582%25E5%25AE%2598%25E6%2596%25B9%25E5%25BA%2597%25E3%2580%2591-i.364593558.4273419320%253FextraParams%253D%257B%2522display_model_id%2522%253A261735912061%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "Cezanne 塞尚 柔霧好氣色眉筆",
+    "name": "CEZANNE 專業自動眉筆",
     "features": "圓芯設計，發色柔和不易失手。",
     "pain": "新手畫眉容易線條太銳利、太前衛，這款能輕鬆刷出像眉粉般的溫柔蓬鬆感。",
     "skin": "所有人群。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": [ "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Cezanne%20%E6%9F%94%E9%9C%A7%E5%A5%BD%E6%B0%A3%E8%89%B2%E7%9C%89%E7%AD%8工",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Cezanne%20%E6%9F%94%E9%9C%A7%E5%A5%BD%E6%B0%A3%E8%89%B2%E7%9C%89%E7%AD%8工",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Cezanne%20%E6%9F%94%E9%9C%A7%E5%A5%BD%E6%B0%A3%E8%89%B2%E7%9C%89%E7%AD%8工"
+      "蝦皮商城": "https://affclkr.online/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCEZANNE-%25E5%25B0%2588%25E6%25A5%25AD%25E8%2587%25AA%25E5%258B%2595%25E7%259C%2589%25E7%25AD%2586%25E3%2580%2590%25E5%25AE%2598%25E6%2596%25B9%25E7%259B%25B4%25E7%2587%259F-%25E7%25BE%258E%25E6%25BB%25BF%25E5%25A0%2582Beautyfull%25E3%2580%2591-i.79641701.1734896896%253FextraParams%253D%257B%2522display_model_id%2522%253A4109872895%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$ (平價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "平價",
@@ -17469,105 +16712,71 @@
     "pain": "皮膚敏感、擦防曬隔離容易大脫皮同時又瘋狂冒痘的困擾。",
     "skin": "敏弱肌、油痘肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=Clinique%20%E5%86%90%E6%B7%A8%E7%99%BD%E6%A5%B5%E6%95%88%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=Clinique%20%E5%86%90%E6%B7%A8%E7%99%BD%E6%A5%B5%E6%95%88%E9%9A%94%E9%9B%A2%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=Clinique%20%E5%86%90%E6%B7%A8%E7%99%BD%E6%A5%B5%E6%95%88%E9%9A%94%E9%9B%A2%E9%9C%9C"
+      "yahoo購物中心": "https://afflnk.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FCLINIQUE%25E5%2580%25A9%25E7%25A2%25A7-%25E6%25B0%25B4%25E7%25A3%2581%25E5%25A0%25B4100H%25E6%25B4%25BB%25E6%25B0%25B4%25E5%25BE%25AA%25E7%2592%25B0%25E4%25BF%259D%25E6%25BF%2595%25E5%2587%259D%25E8%2586%25A050ml-%25E6%25B0%25B4%25E7%25A3%2581%25E5%25A0%25B4%25E5%25BE%25AE%25E5%2588%2586%25E5%25AD%2590%25E4%25BF%259D%25E6%25BF%2595%25E7%25B2%25BE%25E8%258F%25AF48ml-%25E6%25AD%25A3%25E7%25B5%25B1%25E5%2585%25AC%25E5%258F%25B8-9516909.html",
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FCLINIQUE%25E5%2580%25A9%25E7%25A2%25A7-%25E5%258B%25BB%25E6%25B7%25A8%25E8%25B6%2585%25E6%25BF%25BE%25E5%2585%2589%25E6%25B7%25A8%25E7%2599%25BD%25E9%259A%2594%25E9%259B%25A2%25E9%259C%259C30ml-%2528%25E6%25AD%25A3%25E7%25B5%25B1%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25A8%2529-i.141763900.17275067994%253FextraParams%253D%257B%2522display_model_id%2522%253A292513768808%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "rom&nd 經典四格眼影盤",
+    "name": "rom&nd 勝過眼皮眼影",
     "features": "霧面粉質極度細緻（有一格微光亮片），低飽和度的韓系柔霧配色。",
     "pain": "擔心歐美或重顏色眼影讓妝容顯髒、不喜歡大顆粒亮片，追求氣質內斂的消腫日常眼妝。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E7%B6%93%E5%85%B8%E5%9B%9B%E6%A0%BC%E7%9C%BC%E5%BD%B1%E7%9B%A4",
-      "康至美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E7%B6%93%E5%85%B8%E5%9B%9B%E6%A0%BC%E7%9C%BC%E5%BD%B1%E7%9B%A4",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E7%B6%93%E5%85%B8%E5%9B%9B%E6%A0%BC%E7%9C%BC%E5%BD%B1%E7%9B%A4"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E5%258B%259D%25E9%2581%258E%25E7%259C%25BC%25E7%259A%25AE%25E7%259C%25BC%25E5%25BD%25B1-6.5g-i.478848180.7095105705%253FextraParams%253D%257B%2522display_model_id%2522%253A326093099758%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 經典果汁唇釉",
-    "features": "糖葫蘆般的清透果汁光澤，質地水潤輕薄，成膜速度快且中度染唇留色。",
-    "pain": "雙唇蒼白無血色、討厭黏膩牽絲的唇蜜、希望吃東西後還能維持粉嫩底色。",
-    "skin": "所有人、日常素顏或淡妝族。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E6%9E%9C%E6%B1%81%E5%94%8F%E9%87%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E6%9E%9C%E6%B1%81%E5%94%8F%E9%87%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E6%9E%9C%E6%B1%81%E5%94%8F%E9%87%89"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "rom&nd 果凍玻璃水感純素潤唇膏",
+    "name": "韓國rom&nd 果凍唇膏",
     "features": "觸膚即融的固體唇蜜質地，純素保濕配方，高效隱形唇紋並呈現透亮果凍感。",
     "pain": "常年嘴唇乾燥死皮多、不喜歡傳統口紅的厚重感、追求隨手一擦就有好氣色。",
     "skin": "所有人、極乾唇首選。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E6%9E%9C%E5%87%8D%E6%BD%A0%E4%B9%85%E6%BD%A0%E5%94%8F%E8%80%82",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E6%9E%9C%E5%87%8D%E6%BD%A0%E4%B9%85%E6%BD%A0%E5%94%8F%E8%80%82",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E6%9E%9C%E5%87%8D%E6%BD%A0%E4%B9%85%E6%BD%A0%E5%94%8F%E8%80%82"
+      "yahoo購物中心": "https://affone.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252Fgdsale.asp%253Fgdid%253Dp0704264787869",
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259F%2593%25E5%259C%258Brom-nd-%25E6%259E%259C%25E5%2587%258D%25E5%2594%2587%25E8%2586%258F-3.5g-%25E3%2580%2590LaLa-V%25E3%2580%2591%25E6%25BD%25A4%25E5%2594%2587%25E6%25B0%25B4%25E5%2585%2589%25E7%2582%25B8%25E5%25BD%2588-%25E6%2599%25B6%25E9%2580%258F%25E9%25A1%25AF%25E8%2589%25B2-%25E7%25B4%2594%25E7%25B4%25A0%25E9%2585%258D%25E6%2596%25B9-%25E4%25BF%259D%25E6%25BF%2595-%25E6%25BB%258B%25E6%25BD%25A4-%25E9%25A1%25AF%25E6%25B0%25A3%25E8%2589%25B2-%25E8%25B3%25AA%25E6%2584%259F%25E5%2594%2587%25E5%25A6%259D-i.206336296.29924551294%253FextraParams%253D%257B%2522display_model_id%2522%253A257551037031%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 露水光唇釉",
+    "name": "rom&nd 玻璃光持久水光唇釉",
     "features": "極致富含水感、流動性高且輕薄不黏膩，打造清爽透亮的低存在感鏡面妝效。",
     "pain": "討厭亮面唇釉的黏悶與厚重感、害怕風吹過來會黏頭髮的困擾。",
     "skin": "所有人、特別適合怕黏膩的日常淡妝族。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E9%9C%B2%E6%B0%B4%E5%85%89%E5%94%8F%E9%87%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E9%9C%B2%E6%B0%B4%E5%85%89%E5%94%8F%E9%87%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E9%9C%B2%E6%B0%B4%E5%85%89%E5%94%8F%E9%87%89"
+      "蝦皮商城": "https://affone.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E7%258E%25BB%25E7%2592%2583%25E5%2585%2589%25E6%258C%2581%25E4%25B9%2585%25E6%25B0%25B4%25E5%2585%2589%25E5%2594%2587%25E9%2587%2589-4g-i.478848180.9682709773%253FextraParams%253D%257B%2522display_model_id%2522%253A232314760030%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17579,39 +16788,31 @@
     "pain": "普通四格眼影變化太少、開架亮片顆粒粗糙顯俗氣、擔心粉質飛粉顯眼周粗糙。",
     "skin": "所有膚質、新手友善。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9C%92%E5%8D%81%E8%89%B2%E7%9Base",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9C%92%E5%8D%81%E8%89%B2%E7%9Base",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9C%92%E5%8D%81%E8%89%B2%E7%9Base"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259F%2593%25E5%259C%258Brom-nd-%25E5%258D%2581%25E8%2589%25B2%25E7%259C%25BC%25E5%25BD%25B1%25E7%259B%25A4-%25E7%25A5%2595%25E5%25AF%2586%25E8%258A%25B1%25E5%259C%2592%25E7%25B3%25BB%25E5%2588%2597%25E3%2580%2590LaLa-V%25E3%2580%2591%25E5%259F%25BA%25E6%259C%25AC%25E7%259C%25BC%25E5%25A6%259D-%25E6%2589%2593%25E5%25BA%2595%25E8%2589%25B2-%25E9%258A%2580%25E6%25B2%25B3%25E7%258F%258D%25E7%258F%25A0%25E9%2596%2583%25E7%25B2%2589-%25E6%259F%2594%25E7%25BE%258E%25E4%25B9%25BE%25E7%2587%25A5%25E8%258A%25B1%25E9%25A1%258F%25E8%2589%25B2-%25E4%25B8%258D%25E6%259A%2588%25E6%259F%2593-%25E4%25B8%258D%25E7%25B5%2590%25E5%25A1%258A-i.206336296.28674240595%253FextraParams%253D%257B%2522display_model_id%2522%253A157657237073%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 乾燥果實單色腮紅",
+    "name": "rom&nd 勝過臉頰腮紅",
     "features": "如粉餅般細緻的柔焦粉體，色調柔和內斂，能完美修飾肌膚紋理與毛孔。",
     "pain": "下手過重變成猴子屁股、粉狀腮紅凸顯雙頰毛孔、氣色不佳想打造天生通透感。",
     "skin": "所有膚質、特別適合毛孔粗大者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E4%B9%BE%E7%83%A5%E6%9E%9C%E5%AF%A6%E5%96%AE%E8%89%B2%E8%85%AE%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E4%B9%BE%E7%83%A5%E6%9E%9C%E5%AF%A6%E5%96%AE%E8%89%B2%E8%85%AE%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E4%B9%BE%E7%83%A5%E6%9E%9C%E5%AF%A6%E5%96%AE%E8%89%B2%E8%85%AE%E7%B4%85"
+      "蝦皮商城": "https://afftck.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E5%258B%259D%25E9%2581%258E%25E8%2587%2589%25E9%25A0%25B0%25E8%2585%25AE%25E7%25B4%2585-3.4g-4g-i.478848180.10920002836%253FextraParams%253D%257B%2522display_model_id%2522%253A205036307929%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17623,17 +16824,13 @@
     "pain": "一般氣墊妝感過於油膩悶厚導致冒痘、到下午底妝發黑暗沉、瑕疵多需要快攻補妝。",
     "skin": "油性肌、混合肌、所有人適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E9%9B%B6%E6%84%9F%E7%84%A1%E7%91%瑕%E6%B0%A3%E5%A2%8A",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E9%9B%B6%E6%84%9F%E7%84%A1%E7%91%瑕%E6%B0%A3%E5%A2%8A",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E9%9B%B6%E6%84%9F%E7%84%A1%E7%91%瑕%E6%B0%A3%E5%A2%8A"
+      "蝦皮商城": "https://affone.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590Rom-nd%25E3%2580%2591%25E6%2596%25B0%25E6%25AC%25BENU-ZERO%25E6%25B0%25A3%25E5%25A2%258A-%25E9%259F%2593%25E6%259C%258D-%25E6%25B0%25A3%25E5%25A2%258A%25E7%25B2%2589%25E9%25A4%2585-romand-%252814g%2529-HelpBuyKr%25E5%2595%2586%25E5%259F%258E%25E6%2597%2597%25E8%2589%25A6%25E9%25A4%25A8-i.390768289.6685732255%253FextraParams%253D%257B%2522display_model_id%2522%253A137263859452%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17645,83 +16842,67 @@
     "pain": "傳統霧面唇彩太乾導致雙唇緊繃卡紋、嘴唇乾裂難以上色。",
     "skin": "所有膚質、偏愛韓系溫柔霧面妝效者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E8%BF%B7%E9%9C%A7%E8%BB%9F%E7%B3%96%E5%04%8F%E9%87%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E8%BF%B7%E9%9C%A7%E8%BB%9F%E7%B3%96%E5%04%8F%E9%87%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E8%BF%B7%E9%9C%A7%E8%BB%9F%E7%B3%96%E5%04%8F%E9%87%89"
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E8%25BF%25B7%25E9%259C%25A7%25E8%25BB%259F%25E7%25B3%2596%25E5%2594%2587%25E9%2587%2589-%25E5%2590%25ABZO-FRIENDS%25E7%25B3%25BB%25E5%2588%2597-5g-i.478848180.12060654957%253FextraParams%253D%257B%2522display_model_id%2522%253A390686315646%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 零感絲絨霧面鎖色唇釉",
+    "name": "rom&nd 零絲絨唇釉 ",
     "features": "極致輕薄如空氣般的霧面妝效，發色飽和度高，柔化唇部邊緣效果極佳。",
     "pain": "嫌棄一般唇彩厚重有異物感、想畫出精緻優雅的漸層柔霧咬唇妝。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E9%9B%B6%E6%84%9F%E7%B5%B2%E7%B5%A5%E5%04%8F%E9%87%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E9%9B%B6%E6%84%9F%E7%84%B2%E7%B5%B2%E7%B5%A5%E5%04%8F%E9%87%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E9%9B%B6%E6%84%9F%E7%84%B2%E7%B5%B2%E7%B5%A5%E5%04%8F%E9%87%89"
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E9%259B%25B6%25E7%25B5%25B2%25E7%25B5%25A8%25E5%2594%2587%25E9%2587%2589-5.5g-i.478848180.9882754362%253FextraParams%253D%257B%2522display_model_id%2522%253A381092679210%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 韓律定型捲翹睫毛膏",
+    "name": "韓國rom&nd 根纖睫毛膏 ",
     "features": "精巧刷頭設計，極致抗汗抗皮脂，能全天維持完美弧度且根根分明。",
     "pain": "夾好的睫毛一上膏馬上塌垂、到下午眼底就因眼油暈成一團黑。",
     "skin": "所有人、油眼皮與細塌睫毛者適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E6%8D%A2%E7%BF%AC%E7%9A%AE%E6%AF%9B%E8%80%82",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E6%8D%A2%E7%BF%AC%E7%9A%AE%E6%AF%9B%E8%80%82",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E6%8D%A2%E7%BF%AC%E7%9A%AE%E6%AF%9B%E8%80%82"
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E9%259F%2593%25E5%259C%258Brom-nd-%25E6%25A0%25B9%25E7%25BA%2596%25E7%259D%25AB%25E6%25AF%259B%25E8%2586%258F-7g%25E3%2580%2590LaLa-V%25E3%2580%2591%25E8%25B6%2585%25E5%25BC%25B7%25E5%258A%259B-%25E5%259B%25BA%25E5%25AE%259A%25E6%258D%25B2%25E7%25BF%25B9-%25E4%25B8%258D%25E6%259A%2588%25E6%259F%2593-%25E9%2598%25B2%25E6%25B0%25B4%25E7%259D%25AB%25E6%25AF%259B%25E8%2586%258F-%25E6%25BF%2583%25E5%25AF%2586-%25E7%25BA%2596%25E9%2595%25B7-i.206336296.25817954090%253FextraParams%253D%257B%2522display_model_id%2522%253A245443229089%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 絕美霧面唇膏",
+    "name": "Rom&nd 絕對零感霧面唇膏",
     "features": "極致輕盈的粉霧質地，上唇絲滑如羽毛，完全沒有傳統霧面口紅的厚重與拖拽感。",
     "pain": "不喜歡液態唇釉的濕潤感、痛恨一般霧面口紅讓唇紋原形畢露、追求知性優雅的高級霧面妝效。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E9%9C%A7%E9%9D%A2%E5%94%8F%E8%80%82",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E9%9C%A7%E9%9D%A2%E5%94%8F%E8%80%82",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E9%9C%A7%E9%9D%A2%E5%94%8F%E8%80%82"
+      "蝦皮商城": "https://afflnk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E5%2587%25BA%25E6%25B8%2585%25EF%25BC%2581%25E3%2580%2590Rom-nd%25E3%2580%2591%25E7%25B5%2595%25E5%25B0%258D%25E9%259B%25B6%25E6%2584%259F%25E9%259C%25A7%25E9%259D%25A2%25E5%2594%2587%25E8%2586%258F-%25E7%2581%25B0%25E7%25AE%25A1-%25E7%25B2%2589%25E7%25AE%25A1-romand-i.111518986.5959125106%253FextraParams%253D%257B%2522display_model_id%2522%253A51526473396%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17733,105 +16914,67 @@
     "pain": "修容顏色太黃或太橘導致妝感顯髒、下手太重在臉上留下生硬線條、找不到適合白皙或偏冷膚色的修容。",
     "skin": "所有人、亞洲膚色友善。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E4%BF%AE%E5%AE%B9",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E4%BF%AE%E5%AE%B9",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E4%BF%AE%E5%AE%B9"
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590Rom-nd%25E3%2580%2591%25E6%259C%2588%25E4%25BA%25AE%25E4%25BB%2599%25E5%25A5%25B3%25E9%259B%2599%25E8%2589%25B2%25E4%25BF%25AE%25E5%25AE%25B9%25E7%259B%25A4-%25E5%2585%25A9%25E8%2589%25B2-romand-i.111518986.8130066338%253FextraParams%253D%257B%2522display_model_id%2522%253A74331059793%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 完美微瑕持久粉底液",
-    "features": "高延展性的微細粉體，主打高遮瑕力的同時仍能保持微霧面的薄透妝感，持妝度極佳。",
-    "pain": "黑眼圈與痘疤多需要高效遮瑕、但痛恨厚重如面具的底妝，或者底妝一到下午就融化暗沉。",
-    "skin": "混合肌、油性肌、需要高遮瑕者。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E7%B2%89%E5%BA%95%E6%B6%B2",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E7%B2%89%E5%BA%95%E6%B6%B2",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E7%B2%89%E5%BA%95%E6%B6%B2"
-    },
-    "prices": {
-      "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "小資中價",
-    "level": "🌿 小資中價"
-  },
-  {
-    "name": "rom&nd 霓虹星紗單色亮片眼影",
+    "name": "rom&nd 滑蓋眼影",
     "features": "獨特半濕潤的軟糯質地，極致服貼不飛粉，散發如極光般通透的細緻璀璨光芒。",
     "pain": "普通亮片眼影顆粒太粗顯得俗氣、亮片容易掉進眼睛或掉得滿臉都是、想要局部低調點綴臥蠶或眼皮中央。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E5%96%AE%E8%89%B2%E7%9Base",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E5%96%AE%E8%89%B2%E7%9Base",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E5%96%AE%E8%89%B2%E7%9Base"
+      "蝦皮商城": "https://abzcoupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252F%25E3%2580%2590rom-nd%25E3%2580%2591%25E6%25BB%2591%25E8%2593%258B%25E7%259C%25BC%25E5%25BD%25B1-1.5g-Slide-In-Single-%25E5%2596%25AE%25E8%2589%25B2%25E7%259C%25BC%25E5%25BD%25B1-%25E7%259C%25BC%25E5%25BD%25B1-romand-i.111518986.25742605332%253FextraParams%253D%257B%2522display_model_id%2522%253A167336968578%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 韓律極細持色眉筆",
+    "name": "rom&nd 根纖扁頭眉筆",
     "features": "極細的硬質筆芯設計，發色適中不易結塊，能精準描繪根根分明的偽原生眉流感。",
     "pain": "粗筆芯容易失手畫成蠟筆小新、眉筆顏色太濃太生硬、眉尾到了下午就因為出油少一塊。",
     "skin": "所有人、眉毛稀疏或追求自然眉流者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E7%9C%89%E7%AD%8工",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E7%9C%89%E7%AD%8工",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E7%9C%89%E7%AD%8工"
+      "蝦皮商城": "https://vbtrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E6%25A0%25B9%25E7%25BA%2596%25E6%2589%2581%25E9%25A0%25AD%25E7%259C%2589%25E7%25AD%2586-0.17g-i.478848180.10621756043%253FextraParams%253D%257B%2522display_model_id%2522%253A436093565671%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
     "level": "🌿 小資中價"
   },
   {
-    "name": "rom&nd 韓律隨身清透控油蜜粉餅",
+    "name": "Rom&nd 3合1湛藍控油定妝蜜粉餅",
     "features": "極致細膩的透明礦物粉體，能瞬間吸附面部多餘皮脂，帶來輕薄的柔焦霧面濾鏡效果。",
     "pain": "出門在外T字部位瘋狂出油、瀏海因為額頭油脂變得一絲一絲的、討厭補妝後的厚重面具感。",
     "skin": "油性肌、混合肌、需要隨身控油定妝者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E8%9C%9C%E7%B2%89"
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FRom-nd-3%25E5%2590%25881%25E6%25B9%259B%25E8%2597%258D%25E6%258E%25A7%25E6%25B2%25B9%25E5%25AE%259A%25E5%25A6%259D%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-%25E9%2599%2584%25E7%25B2%2589%25E6%2592%25B2-%25E9%2599%2584%25E5%2588%25B7%25E5%2585%25B7-%25E6%25AF%259B%25E5%25AD%2594%25E9%259A%25B1%25E5%25BD%25A2%25E6%258E%25A7%25E6%25B2%25B9%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-%25E8%259C%259C%25E7%25B2%2589-%25E8%259C%259C%25E7%25B2%2589%25E9%25A4%2585-%25E8%25BF%25B7%25E4%25BD%25A0%25E8%259C%259C%25E7%25B2%2589-%25E9%259F%2593%25E5%259C%258B-%25E5%25BA%25B6%25E5%258B%2599%25E5%25AE%25A2-i.931909097.18785420590%253FextraParams%253D%257B%2522display_model_id%2522%253A177321760631%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17883,17 +17026,13 @@
     "pain": "黑眉毛與淺髮色衝突顯得突兀、用一般染眉膏容易失手沾到皮膚毀掉底妝、眉毛雜亂無立體感。",
     "skin": "所有人、有染髮或追求溫柔妝感者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=rom%26nd%20%E6%9F%93%E7%9C%89%E8%83%96",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=rom%26nd%20%E6%9F%93%E7%9C%89%E8%83%96",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=rom%26nd%20%E6%9F%93%E7%9C%89%E8%83%96"
+      "蝦皮商城": "https://twshop4coupon.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252From-nd-%25E6%25A0%25B9%25E7%25BA%2596%25E6%259F%2593%25E7%259C%2589%25E8%2586%258F-9g-i.478848180.22935361208%253FextraParams%253D%257B%2522display_model_id%2522%253A146767204428%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$ (中價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "小資中價",
@@ -17905,39 +17044,33 @@
     "pain": "擦霧面口紅死皮與唇紋原形畢露、唇膏容易越擦越乾、深色唇彩容易卡在唇紋中難卸除。",
     "skin": "所有人、常擦霧面唇彩或極乾唇者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E5%A6%9D%E5%89%8D%E5%94%8F%E9%9C%9C",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E5%A6%9D%E5%89%8D%E5%94%8F%E9%9C%9C",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E5%A6%9D%E5%89%8D%E5%94%8F%E9%9C%9C"
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FMAC-%25E5%2594%2587%25E9%2583%25A8%25E5%25BA%2595%25E5%25A6%259D-i.171452234.42473194636%253FextraParams%253D%257B%2522display_model_id%2522%253A276885919404%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "MAC 妝前FIX+活力水噴霧",
+    "name": "MAC FIX+定妝噴霧",
     "features": "富含植物精萃與礦物質保濕成分，細緻水霧能瞬間補水，集保濕、定妝、醒膚多效合一。",
     "pain": "上完蜜粉後臉部妝感死白太厚重、下午肌膚乾燥緊繃、底妝浮粉不貼妝。",
     "skin": "所有膚質、特別推薦乾性肌與混合偏乾肌。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E6%B4%BB%E5%8A%9B%E6%B0%B4%E5%99%B4%E9%9C%A7",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E6%B4%BB%E5%8A%9B%E6%B0%B4%E5%99%B4%E9%9C%A7",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E6%B4%BB%E5%8A%9B%E6%B0%B4%E5%99%B4%E9%9C%A7"
+      "yahoo購物中心": "https://afftck.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FM-A-C-FIX-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E5%2585%25A8%25E8%2583%25BD%25E5%25AE%259A%25E5%25A6%259D%25E5%2599%25B4%25E9%259C%25A7-%25E7%25B2%25BE%25E8%258F%25AF%25E7%2589%2588-100ml-11351901.html",
+      "蝦皮商城": "https://affclk.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-FIX-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E5%2585%25A8%25E8%2583%25BD%25E5%25AE%259A%25E5%25A6%259D%25E5%2599%25B4%25E9%259C%25A7-%25E7%25B2%25BE%25E8%258F%25AF%25E7%2589%2588-100ml-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.26167226383%253FextraParams%253D%257B%2522display_model_id%2522%253A257001663774%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -17949,39 +17082,15 @@
     "pain": "台灣夏天戴口罩悶熱出油、底妝一到下午就蠟黃暗沉變髒、追求粉嫩清透的偽素顏好皮感。",
     "skin": "所有膚質、特別適合膚色暗沉蠟黃、容易出油者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E6%BF%BE%E9%8F%A1%E8%9C%9C%E7%B2%89",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E6%BF%BE%E9%8F%A1%E8%9C%9C%E7%B2%89",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E6%BF%BE%E9%8F%A1%E8%9C%9C%E7%B2%89"
+      "yahoo購物中心": "https://tlcafftrax.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FM-A-C-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E8%25BC%2595%25E9%2580%258F%25E6%25BF%25BE%25E9%258F%25A1%25E8%259C%259C%25E7%25B2%2589-LAVENDER-%25E7%25B5%2595%25E7%25B5%2595%25E7%25B4%25AB-6-5g-10451765.html",
+      "蝦皮商城": "https://afftkr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E8%25BC%2595%25E9%2580%258F%25E6%25BF%25BE%25E9%258F%25A1%25E8%259C%259C%25E7%25B2%2589-TRANSLUCENT-%25E9%2580%258F%25E6%2598%258E%25E8%2589%25B2-12g%2528%25E8%2588%25AA%25E7%25A9%25BA%25E7%2589%2588%2529-i.18404525.46162275044%253FextraParams%253D%257B%2522display_model_id%2522%253A277699334867%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "MAC 經典時尚焦點單色眼影 (如 Omega/Soba)",
-    "features": "神級粉質細緻好暈染，其中冷灰棕色調非常符合亞洲人骨骼，發色內斂自然。",
-    "pain": "眼睛容易水腫變腫泡眼、找不到不偏紅也不偏黃的完美鼻影與眼窩消腫色、歐美修容太重顯妝髒。",
-    "skin": "所有膚質、亞洲膚色與化妝新手首選。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E5%96%AE%E8%89%B2%E7%9Base",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E5%96%AE%E8%89%B2%E7%9Base",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E5%96%AE%E8%89%B2%E7%9Base"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -17993,39 +17102,35 @@
     "pain": "普通口紅調色不夠細緻高貴、擦起來氣色不佳、或者霧面唇膏太過乾澀難以塗抹均勻。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E5%AD%90%E5%BD%88%E9%A0%AD",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E5%AD%90%E5%BD%88%E9%A0%AD",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E5%AD%90%E5%BD%88%E9%A0%AD"
+      "yahoo購物中心": "https://aftck.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FM-A-C-MACximal-%25E6%25A5%25B5%25E8%2587%25AA%25E6%2588%2591%25E6%259F%2594%25E9%259C%25A7%25E5%2594%2587%25E8%2586%258F-1-7g-%25E8%25BF%25B7%25E4%25BD%25A0%25E7%2589%2588-%25E5%25A4%259A%25E6%25AC%25BE%25E5%258F%25AF%25E9%2581%25B8-11217214.html",
+      "蝦皮商城": "https://affsrc.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-MACximal-%25E6%25A5%25B5%25E8%2587%25AA%25E6%2588%2591%25E6%259F%2594%25E9%259C%25A7%25E5%2594%2587%25E8%2586%258F-1.7g-%25E8%25BF%25B7%25E4%25BD%25A0%25E7%2589%2588-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-%25E5%258D%25B3%25E6%259C%259F%25E5%2587%25BA%25E6%25B8%2585-i.5750041.29110898623%253FextraParams%253D%257B%2522display_model_id%2522%253A346384394437%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "MAC 超顯白防禦透亮妝前乳",
+    "name": "M.A.C 超漾光高防曬妝前乳",
     "features": "獨家櫻花複合配方與高規格防曬，質地如保濕乳液般清爽，一抹瞬間校正蠟黃、自帶細緻微光。",
     "pain": "每天出門素顏膚色暗沉不均、不喜歡粉底的厚重感、但單擦普通防曬又太油悶或泛白。",
     "skin": "所有膚質、特別適合敏弱肌、追求自然偽素顏法式光澤者。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E8%A5%AF%E7%99%BD%E5%A6%9D%E5%8A%A0%E4%B9%B3",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E8%A5%AF%E7%99%BD%E5%A6%9D%E5%8A%A0%E4%B9%B3",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E8%A5%AF%E7%99%BD%E5%A6%9D%E5%8A%A0%E4%B9%B3"
+      "yahoo購物中心": "https://twcouponcenter.com/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FM-A-C-%25E8%25B6%2585%25E6%25BC%25BE%25E5%2585%2589%25E9%25AB%2598%25E9%2598%25B2%25E6%259B%25AC%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-30ml-11538206.html",
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-%25E8%25B6%2585%25E6%25BC%25BE%25E5%2585%2589%25E9%25AB%2598%25E9%2598%25B2%25E6%259B%25AC%25E5%25A6%259D%25E5%2589%258D%25E4%25B9%25B3-30ml-%25E5%2585%25A9%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.28480089618%253FextraParams%253D%257B%2522display_model_id%2522%253A227539327803%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
@@ -18037,61 +17142,35 @@
     "pain": "嚴重的黑眼圈用一般單色遮瑕會發灰、臉上有泛紅痘疤或色素沉澱、眼下乾紋明顯一遮就斑駁。",
     "skin": "所有膚質、瑕疵肌或需要精緻遮瑕者適用。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E5%85%AD%E8%89%B2%E9%81%AE%E7%91%瑕%E7%9B%A4",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E5%85%AD%E8%89%B2%E9%81%AE%E7%91%瑕%E7%9B%A4",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E5%85%AD%E8%89%B2%E9%81%AE%E7%91%瑕%E7%9B%A4"
+      "yahoo購物中心": "https://afftck.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FMAC-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E5%2585%25AD%25E8%2589%25B2%25E9%2581%25AE%25E7%2591%2595%25E7%259B%25A4-6g-LIGHT-12004791.html",
+      "蝦皮商城": "https://affckr.site/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-%25E8%25B6%2585%25E6%258C%2581%25E5%25A6%259D%25E5%2585%25AD%25E8%2589%25B2%25E9%2581%25AE%25E7%2591%2595%25E7%259B%25A4-6g-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.1734904805%253FextraParams%253D%257B%2522display_model_id%2522%253A2847228730%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
     "level": "🩺 專業醫美"
   },
   {
-    "name": "MAC 超激光五色炫彩餅 (如 Double Gleam)",
-    "features": "獨特液體粉末科技，粉質絲滑如第二層肌膚，一抹呈現細緻的高級生動水光、完全不顯毛孔。",
-    "pain": "打亮亮片太大顯得臉部皮膚粗糙毛孔粗大、開架高光容易在臉上發白或線條死板不自然。",
-    "skin": "所有膚質、追求五官立體日常高級感者。",
-    "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
-    "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E5%BE%AB%E5%彩%A5%E8%80%82",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E5%BE%AB%E5%彩%A5%E8%80%82",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E5%BE%AB%E5%彩%A5%E8%80%82"
-    },
-    "prices": {
-      "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
-    },
-    "lowest_price_store": "請點擊連結查看即時價格",
-    "tier": "專業醫美",
-    "level": "🩺 專業醫美"
-  },
-  {
-    "name": "MAC 時尚腮紅 (如 Melba/Gingerly)",
+    "name": "M.A.C 超漾光持色奶凍腮紅",
     "features": "細緻的烘焙粉體，發色度適中且極易暈染，完美融入底妝，呈現由內而外的自然好氣色。",
     "pain": "容易下手過重變成猴子屁股、粉狀腮紅凸顯雙頰粗糙感、到了下午腮紅掉光顯得臉色蒼白。",
     "skin": "所有膚質。",
     "category": "彩妝",
-    "available_at": ["屈臣氏", "康是美", "寶雅"],
+    "available_at": ["yahoo購物中心", "蝦皮商城"],
     "links": {
-      "屈臣氏": "https://www.watsons.com.tw/search?text=MAC%20%E8%85%AE%E7%B4%85",
-      "康是美": "https://shop.cosmed.com.tw/v2/Search?q=MAC%20%E8%85%AE%E7%B4%85",
-      "寶雅": "https://www.poyabuy.com.tw/v2/Search?q=MAC%20%E8%85%AE%E7%B4%85"
+      "yahoo購物中心": "https://afftck.site/track/clicks/3416/c627c2bc9b0527d7f08aec23d62e9e452d6848cb63b2a0f90464b30371401de3c021e7e5593c99616c?t=https%253A%252F%252Ftw.buy.yahoo.com%252Fgdsale%252FM-A-C-%25E8%25B6%2585%25E6%25BC%25BE%25E5%2585%2589%25E6%258C%2581%25E8%2589%25B2%25E5%25A5%25B6%25E5%2587%258D%25E8%2585%25AE%25E7%25B4%2585-7-3g-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-11164429.html",
+      "蝦皮商城": "https://vbshoptrax.com/track/clicks/5282/c627c2bc9b0526ddfa83ec23d62e9e452d6848cb63b2a0f90262ba0771401de3c021e7e5593c99616c?t=https%253A%252F%252Fshopee.tw%252FM.A.C-%25E8%25B6%2585%25E6%25BC%25BE%25E5%2585%2589%25E6%258C%2581%25E8%2589%25B2%25E5%25A5%25B6%25E5%2587%258D%25E8%2585%25AE%25E7%25B4%2585-7.3g-%25E5%25A4%259A%25E8%2589%25B2%25E5%258F%25AF%25E9%2581%25B8-%25E5%25B0%258F%25E5%25A9%25B7%25E5%25AD%2590%25E7%25BE%258E%25E5%25A6%259D-i.5750041.25434418479%253FextraParams%253D%257B%2522display_model_id%2522%253A99617239695%252C%2522model_selection_logic%2522%253A3%257D"
     },
     "prices": {
       "標籤": "$$$ (高價位)",
-      "屈臣氏": null,
-      "康是美": null,
-      "寶雅": null
+      "yahoo購物中心": null,
+      "蝦皮商城": null
     },
     "lowest_price_store": "請點擊連結查看即時價格",
     "tier": "專業醫美",
