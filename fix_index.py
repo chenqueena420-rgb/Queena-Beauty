@@ -91,7 +91,6 @@ header .sub { color: var(--muted); max-width: 40rem; line-height: 1.6; margin-to
 .cat-身體保養 { background: linear-gradient(135deg, #2dd4bf, #14b8a6, #0d9488); }
 .cat-彩妝 { background: linear-gradient(135deg, #fca5a5, #ef4444, #b91c1c); }
 .cat-個人護理 { background: linear-gradient(135deg, #d1d5db, #9ca3af, #4b5563); }
-.cat-香氛 { background: linear-gradient(135deg, #ddd6fe, #a78bfa, #7c3aed); }
 .card-body { padding: 1.1rem 1.25rem 1.25rem; display: flex; flex-direction: column; flex: 1; gap: .65rem; }
 .badges { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; }
 .badge-cat { font-size: .7rem; font-weight: 700; padding: .2rem .55rem; border-radius: 999px; background: #f1f5f9; color: #475569; }
@@ -161,7 +160,7 @@ const W_SKIN = 5;
 const W_PHRASE = 20;
 
 const CAT_EMOJI = { 
-  精華: "🧴", 防曬: "☀️", 面膜: "🧖", 唇部: "💄", 洗面乳: "🧼", 乳霜: "🧴", 化妝水: "💧", 卸妝: "🧖", 身體保養: "🛀",彩妝: "🎨",  個人護理: "🧴",香氛: "✨"
+  精華: "🧴", 防曬: "☀️", 面膜: "🧖", 唇部: "💄", 洗面乳: "🧼", 乳霜: "🧴", 化妝水: "💧", 卸妝: "🧖", 身體保養: "🛀",彩妝: "🎨",  個人護理: "🧴"
 };
 
 function normalize(s) {
@@ -227,7 +226,7 @@ function escAttr(s) {
 }
 
 function catClass(c) {
-  const valid = ["精華", "防曬", "面膜", "唇部", "洗面乳", "乳霜", "化妝水", "卸妝", "身體保養", "彩妝", "頭髮護理", "個人護理", "香氛"];
+  const valid = ["精華", "防曬", "面膜", "唇部", "洗面乳", "乳霜", "化妝水", "卸妝", "身體保養", "彩妝", "頭髮護理", "個人護理"];
   const k = valid.includes(c) ? c : "精華";
   return "cat-" + k;
 }
